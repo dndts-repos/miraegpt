@@ -32,4 +32,12 @@ def get_chat_histories(documents: list[Document]) -> list[list[Document]]:
       chat_histories.append(chat_history)
   return chat_histories
 
-    
+
+'''
+Takes a list of chat history and the new input and response as parameters.
+Add the new input and response.
+Return the last 3 elements in the list.
+'''
+def manage_chat_histories(chat_histories: list[tuple[str, str]], new_input: str, new_response:str):
+  chat_histories.append((new_input, new_response))
+  return chat_histories[-3:]
