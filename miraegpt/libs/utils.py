@@ -5,7 +5,7 @@ from miraegpt.libs.loader import convert_json_to_documents
 
 CHAT_HISTORY_PATH = os.path.join("data", "chat_history")
 
-def write_markdown_file(content, filename):
+def write_markdown_file(content: str, filename: str):
   """Writes the given content as a markdown file to the local directory.
 
   Args:
