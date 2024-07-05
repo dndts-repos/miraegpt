@@ -1,0 +1,10 @@
+Hi ecomobile,
+We would like to inform you that the customer has not received the order he ordered since <date>.
+And according to our verification, the product has not been shipped yet.
+Please note that the time to ship the customer's order is 1 business day after the order date.
+Can you tell us if the order was shipped and under what tracking number?
+If the order has not yet been shipped, please ship it and provide a valid tracking number or refund the order within 1 business day.
+
+Sincerely,
+<name>, Back Market customer service
+delivery
