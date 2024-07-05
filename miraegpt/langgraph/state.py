@@ -1,9 +1,9 @@
 from typing_extensions import TypedDict
-from typing import List
+from typing import List, Literal
 from langchain_core.documents import Document
 
 class GraphState(TypedDict):
-     """
+    """
     Represents the state of our graph.
 
     Attributes:
@@ -13,10 +13,10 @@ class GraphState(TypedDict):
         context: list of documents
         num_steps: number of steps
     """
-     initial_message: str
-     category: str
-     response: str
-     chat_histories: list[list[Document]]
-     most_relevent_chat_history: list[Document]
-     context: List[str]
-     num_steps: int
+    current_message: str
+    reply_type: Literal['Information', 'Email']
+    issue_type: str
+    chat_histories: list[str]
+    summary: str
+    reply: str
+    chunks: str
