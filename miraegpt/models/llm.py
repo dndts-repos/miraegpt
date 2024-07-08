@@ -4,7 +4,7 @@ from langchain_experimental.llms.ollama_functions import OllamaFunctions
 
 MAX_LLM_RETRIES = 3
 
-LLAMA = "llama3:8b-instruct-q8_0"
+LLAMA = "llama3"
 EMBEDDER = 'mxbai-embed-large'
 
 LLAMA_LLM = Ollama(model=LLAMA)

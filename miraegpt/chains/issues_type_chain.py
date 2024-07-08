@@ -73,7 +73,7 @@ the Issue Type would be defaulted to 'Unrelated'.
 '''
 def issue_type_fallback(inputs: Input):
     print('----- Issue Type Chain: Invoking Fallback -----')
-    return IssueType(value='Information')
+    return IssueType(value='Unrelated')
 
 ISSUE_TYPE_LLM = TOOL_LLAMA_LLM\
     .with_structured_output(IssueType)\
