@@ -10,8 +10,8 @@ from miraegpt.models.llm import EMBEDDER_LLM
 TEMPLATES_COLLECTION_NAME = 'templates'
 CHROMA_TEMPLATES_PATH = os.path.join('data', 'chroma', TEMPLATES_COLLECTION_NAME)
 
-CHUNK_SIZE = 512
-CHUNK_OVERLAP = 64
+CHUNK_SIZE = 1024
+CHUNK_OVERLAP = 512
 
 def load_word_documents(path_to_word_documents: str) -> list[Document]:
     documents: list[Document] = []

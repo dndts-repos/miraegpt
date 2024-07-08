@@ -1,7 +1,7 @@
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
-from miraegpt.models.llm import LLAMA_LLM
+from miraegpt.models.llm import GROQ_LLM, LLAMA_LLM
 
 USER_INPUT_KEY = 'input'
 SUMMARY_KEY = 'summary'
@@ -18,7 +18,8 @@ prompt = PromptTemplate(
         1. User Input - The last question or input provided by the user.
         2. Summary - The summarised chat histories between you and the customer service personel.
     Your role is to understand the context of the situation with the user input and summary provided, 
-    and kindly let the customer service personel know that you have exhaust all possible way to help them and ask them to consult with the Company's Boss, Boss Daniel, instead.<|eot_id|>
+    and kindly let the customer service personel know that you have exhaust all possible way to help them and ask them to consult with the BOSS, Boss Daniel, instead.<|eot_id|>
+    YOU DO NOT HAVE TO ADD YOUR OWN INTERPRETATION, PREMEBLE OR EXPLAINATION. Simply say you are unable to answer and ask them to consult the boss.
     <|start_header_id|>user<|end_header_id|>
     User Input: {input}
     Summary: {summary}<|eot_id|>
@@ -28,3 +29,10 @@ prompt = PromptTemplate(
 )
 
 UNRELATED_CHAIN = prompt | LLAMA_LLM | StrOutputParser()
+
+if __name__ == "__main__":
+    question = "Ba Ba Black sheep"
+
+    response = UNRELATED_CHAIN.invoke({USER_INPUT_KEY: question, SUMMARY_KEY: ''})
+    print(f'Question: {question}')
+    print(f'Reply: {response}')

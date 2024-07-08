@@ -9,7 +9,7 @@ from miraegpt.models.llm import MAX_LLM_RETRIES, TOOL_LLAMA_LLM
 
 USER_INPUT_KEY = 'question'
 
-class ReponseType(BaseModel):
+class ResponseType(BaseModel):
     value: Literal['Information', 'Email'] = Field(
         ...,
         description="Given a user input, determine if user wants reply as Email or just a General Answer."
@@ -39,11 +39,32 @@ the Response Type would be defaulted to 'Information'.
 '''
 def response_type_fallback(inputs: Input):
     print('----- Response Type Chain: Invoking Fallback -----')
-    return ReponseType(value='Information')
+    return ResponseType(value='Information')
 
 RESPONSE_TYPE_LLM = TOOL_LLAMA_LLM\
-    .with_structured_output(ReponseType)\
+    .with_structured_output(ResponseType)\
     .with_retry(retry_if_exception_type=(OutputParserException, ValueError), stop_after_attempt=MAX_LLM_RETRIES)\
     .with_fallbacks([RunnableLambda(response_type_fallback)])
 
 RESPONSE_TYPE_CHAIN = prompt | RESPONSE_TYPE_LLM
+
+if __name__ == "__main__":
+    qa = {
+        'Can you write me an email about the cold war?': 'Email',
+        'What happened during the cold war?' : 'Information',
+        'Can you help me write an email back to backmarket?': 'Email',
+        'The customer has not received their phone': 'Information',
+        'Craft an email to backmarket, stating that the customer has not received their phone' : 'Email'
+    }
+    count = 0
+    total = len(qa)
+    for question, answer in qa.items():
+        response: ResponseType = RESPONSE_TYPE_CHAIN.invoke({USER_INPUT_KEY: question})
+        response_type = response.value
+        print(f'Question: {question}')
+        print(f'Actual: {answer}')
+        print(f'Predict: {response_type}')
+        if answer == response_type:
+            count += 1
+    
+    print(f'Score: {count}/{total}')

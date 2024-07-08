@@ -5,13 +5,6 @@ from langchain_core.documents import Document
 class GraphState(TypedDict):
     """
     Represents the state of our graph.
-
-    Attributes:
-        initial_message: message
-        category: issue category
-        response: LLM generation
-        context: list of documents
-        num_steps: number of steps
     """
     current_message: str
     reply_type: Literal['Information', 'Email']

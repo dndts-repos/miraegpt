@@ -1,5 +1,8 @@
 from langchain.prompts import PromptTemplate
-from miraegpt.models.llm import LLAMA_LLM
+from miraegpt.langgraph.nodes.retriever import retrieve
+from miraegpt.langgraph.state import GraphState
+from miraegpt.models.llm import GROQ_LLM, LLAMA_LLM
+from langchain_core.output_parsers import StrOutputParser
 
 
 QUESTION_KEY = 'question'
@@ -20,6 +23,7 @@ prompt = PromptTemplate(
         2. Documents - Chunks of documents which contain Email Templates prepared by the company to answer the question.
     
     You are required to understand the context through the question provided and guide the customer service personel on the steps to take.
+    YOU DO NOT NEED TO PROVIDE A SAMPLE RESPONSE. Rather, you should prompt the user if they want you to craft an email.
 
     Suppose the given question and documents are not sufficient for you to provide any form of response, DO NOT INSIST on providing a reply.
     Rather, please inform the customer service personel that the information provided are insufficient or irrelevant and ask them to consult the Company Boss (Boss Daniel) instead.<|eot_id|>
@@ -32,4 +36,12 @@ prompt = PromptTemplate(
     input_variables=[QUESTION_KEY, DOCUMENTS_KEY]
 )
 
-INFORMATION_CHAIN = prompt | LLAMA_LLM
+INFORMATION_CHAIN = prompt | GROQ_LLM | StrOutputParser()
+
+if __name__ == "__main__":
+    question = "The NFC function does not work"
+    issue = 'NFC'
+    state = GraphState(current_message=question, issue_type=issue)
+    documents = retrieve(state)['chunks']
+    print(documents)
+    print(INFORMATION_CHAIN.invoke({QUESTION_KEY: question, DOCUMENTS_KEY: documents}))

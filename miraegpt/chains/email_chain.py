@@ -1,5 +1,8 @@
 from langchain.prompts import PromptTemplate
-from miraegpt.models.llm import LLAMA_LLM
+from miraegpt.langgraph.state import GraphState
+from miraegpt.models.llm import GROQ_LLM, LLAMA_LLM
+from miraegpt.langgraph.nodes.retriever import retrieve
+from langchain_core.output_parsers import StrOutputParser
 
 
 QUESTION_KEY = 'question'
@@ -32,4 +35,12 @@ prompt = PromptTemplate(
     input_variables=[QUESTION_KEY, DOCUMENTS_KEY]
 )
 
-EMAIL_CHAIN = prompt | LLAMA_LLM
+EMAIL_CHAIN = prompt | GROQ_LLM | StrOutputParser()
+
+if __name__ == "__main__":
+    question = "The NFC function does not work"
+    issue = 'NFC'
+    state = GraphState(current_message=question, issue_type=issue)
+    documents = retrieve(state)['chunks']
+    print(documents)
+    print(EMAIL_CHAIN.invoke({QUESTION_KEY: question, DOCUMENTS_KEY: documents}))

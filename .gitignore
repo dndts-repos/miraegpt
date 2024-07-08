@@ -1,4 +1,5 @@
 .vscode
 trace
-venv
+.venv
 data
+.env

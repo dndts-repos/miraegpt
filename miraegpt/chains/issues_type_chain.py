@@ -5,7 +5,7 @@ from langchain_core.runnables.utils import Input
 from langchain_core.exceptions import OutputParserException
 from langchain_core.runnables import RunnableLambda
 
-from miraegpt.models.llm import MAX_LLM_RETRIES, TOOL_LLAMA_LLM
+from miraegpt.models.llm import GROQ_LLM, MAX_LLM_RETRIES, TOOL_LLAMA_LLM
 
 QUESTION_KEY = 'question'
 
@@ -75,9 +75,68 @@ def issue_type_fallback(inputs: Input):
     print('----- Issue Type Chain: Invoking Fallback -----')
     return IssueType(value='Unrelated')
 
-ISSUE_TYPE_LLM = TOOL_LLAMA_LLM\
+ISSUE_TYPE_LLM = GROQ_LLM\
     .with_structured_output(IssueType)\
     .with_retry(retry_if_exception_type=(OutputParserException, ValueError), stop_after_attempt=MAX_LLM_RETRIES)\
     .with_fallbacks([RunnableLambda(issue_type_fallback)])
 
 ISSUE_TYPE_CHAIN = prompt | ISSUE_TYPE_LLM
+
+if __name__ == '__main__':
+    qa = {
+        'My phone is in Korean' : 'Region',
+        'My phone is not suited for europe' : 'Region',
+        'I bought a Very Good Condition phone but the phone\'s condition is no where near very good' : 'Grade',
+        'My device came with a PIN code. I do not have the code' : 'Pin',
+        'My phone is locked. I do not have the password': 'Pin',
+        'The phone battery health is only 70%': 'Battery',
+        'The battery health is in a bad state': 'Battery',
+        'My phone discharges in 1 hour': 'Battery',
+        'My phone only can last 1 hour': 'Battery',
+        'My device cannot connect to bluetooth': 'Bluetooth',
+        'My phone is not charging': 'Charging',
+        'My phone takes a long time to charge': 'Charging',
+        'My phone cannot receive network when making call': 'Network',
+        'My phone\'s mobile data is very weak': 'Network',
+        'The speaker is clogged': 'Speaker',
+        'My phone makes a sound when taking picture even though it is silent': 'Camera',
+        'The NFC function does not work': 'NFC',
+        'The audio jack is not working' : 'Audio',
+        'My phone cannot turn on': 'Power',
+        'The touch screen on the phone is not working': 'Screen',
+        'There is green bar on my phone screen': 'Screen',
+        'People cannot hear me when I make a call' : 'Audio',
+        'The SD card is not working': 'SD',
+        'I dropped my phone and now it is broken': 'Personal',
+        'The camera has a black spot': 'Camera',
+        'My phone got water damaged': 'Water',
+        'My phone is preloaded with Chinese applications': 'Region',
+        'My device is showing me LTE instead of 4G/5G.': 'Network',
+        'My phone does not have a dual sim': 'Sim',
+        'The battery in my phone is not real': 'Battery',
+        'When I shake my phone, I can hear something loose inside': 'Rattle',
+        'How do I remove iCloud lock remotely': 'iCloud',
+        'My device does not recognise my sim card': 'Sim',
+        'Today is a nice day': 'Unrelated',
+        'Ba Ba Black sheep': 'Unrelated',
+        'My phone has a dinosaur': 'Unrelated'
+    }
+
+    count = 0
+    total = len(qa)
+    invalids = []
+    for question, answer in qa.items():
+        response: IssueType = ISSUE_TYPE_CHAIN.invoke({QUESTION_KEY: question})
+        response_type = response.value
+        print(f'Question: {question}')
+        print(f'Actual: {answer}')
+        print(f'Predict: {response_type}')
+        if answer == response_type:
+            count += 1
+        else:
+            invalids.append((question, answer, response_type))
+    
+    print(f'Score: {count}/{total}')
+
+    for invalid in invalids:
+        print(invalid)
