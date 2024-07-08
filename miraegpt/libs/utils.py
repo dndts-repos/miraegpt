@@ -22,17 +22,6 @@ def isFileExist(sav_id: int):
       return True, filename
   return False, None
 
-def get_chat_histories(documents: list[Document]) -> list[list[Document]]:
-  chat_histories = []
-  for document in documents:
-    sav_id = document.metadata['sav_id']
-    flag, filename = isFileExist(sav_id)
-    if flag:
-      chat_history = convert_json_to_documents(os.path.join(CHAT_HISTORY_PATH, filename))
-      chat_histories.append(chat_history)
-  return chat_histories
-
-
 '''
 Takes a list of chat history and the new input and response as parameters.
 Add the new input and response.
