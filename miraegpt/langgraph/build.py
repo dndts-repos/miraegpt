@@ -1,6 +1,6 @@
 from langgraph.graph import END, StateGraph
 from miraegpt.langgraph.nodes.filter_chat_histories import get_most_relevent_chat_history
-from miraegpt.langgraph.nodes.retrieval import retrieve_documents
+from miraegpt.langgraph.nodes.retriever import retrieve_documents
 from miraegpt.langgraph.nodes.writer import reply
 from miraegpt.langgraph.nodes.categorizer import categorize_message
 from miraegpt.langgraph.nodes.printer import state_printer

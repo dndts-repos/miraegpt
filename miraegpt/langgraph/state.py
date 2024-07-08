@@ -19,4 +19,4 @@ class GraphState(TypedDict):
     chat_histories: list[str]
     summary: str
     reply: str
-    chunks: str
+    chunks: List[Document]
