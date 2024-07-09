@@ -10,6 +10,6 @@ class GraphState(TypedDict):
     reply_type: Literal['Information', 'Email']
     issue_type: str
     chat_histories: list[str]
-    summary: str
+    summary: str = ''
     reply: str
     chunks: List[Document]

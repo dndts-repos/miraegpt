@@ -14,9 +14,12 @@ MAX_LLM_RETRIES = 3
 LLAMA = 'llama3'
 LLAMA_INSTRUCT = 'llama3:8b-instruct-q8_0'
 GROQ_LLAMA = 'llama3-70b-8192'
+GROQ_SMALL_LLAMA = 'llama3-8b-8192'
 EMBEDDER = 'mxbai-embed-large'
 
-LLAMA_LLM = Ollama(model=LLAMA)
+# LLAMA_LLM = Ollama(model=GROQ_SMALL_LLAMA)
+LLAMA_LLM = ChatGroq(model=GROQ_SMALL_LLAMA, api_key=GROQ_API_KEY)
 EMBEDDER_LLM = OllamaEmbeddings(model=EMBEDDER)
-TOOL_LLAMA_LLM = OllamaFunctions(model=LLAMA_INSTRUCT)
+# TOOL_LLAMA_LLM = OllamaFunctions(model=GROQ_SMALL_LLAMA)
+TOOL_LLAMA_LLM = ChatGroq(model=GROQ_SMALL_LLAMA, api_key=GROQ_API_KEY)
 GROQ_LLM = ChatGroq(model=GROQ_LLAMA, api_key=GROQ_API_KEY)

@@ -1,4 +1,4 @@
-from miraegpt.chains.email_chain import DOCUMENTS_KEY, EMAIL_CHAIN, QUESTION_KEY
+from miraegpt.chains.information_chain import INFORMATION_CHAIN, DOCUMENTS_KEY, QUESTION_KEY
 from miraegpt.langgraph.state import GraphState
 from miraegpt.libs.utils import write_markdown_file
 
@@ -13,7 +13,7 @@ def handle(state: GraphState):
     documents = ''
     for chunk in chunks:
         documents += chunk.page_content + '\n\n'
-    response = EMAIL_CHAIN.invoke({QUESTION_KEY: question, DOCUMENTS_KEY: documents})
+    response = INFORMATION_CHAIN.invoke({QUESTION_KEY: question, DOCUMENTS_KEY: documents})
     write_markdown_file(f'Reply: {response}', "information_handler")
     print(f'----- {HANDLER_NAME}: DOCUMENTS SUMMARISED AND STEPS LISTED -----')
 

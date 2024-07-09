@@ -22,7 +22,7 @@ prompt = PromptTemplate(
     <|start_header_id|>user<|end_header_id|>
     Chat History: 
     {history}
-    Summary: {Summary}<|eot_id|>
+    Summary: {summary}<|eot_id|>
     <|start_header_id|>assistant<|end_header_id|>
     """,
     input_variables=[CHAT_HISTORY_KEY, SUMMARY_KEY]
