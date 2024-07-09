@@ -3,6 +3,7 @@ import os
 from langchain_community.llms.ollama import Ollama
 from langchain_community.embeddings.ollama import OllamaEmbeddings
 from langchain_experimental.llms.ollama_functions import OllamaFunctions
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_groq import ChatGroq
 
 load_dotenv()
@@ -21,5 +22,5 @@ EMBEDDER = 'mxbai-embed-large'
 LLAMA_LLM = ChatGroq(model=GROQ_SMALL_LLAMA, api_key=GROQ_API_KEY)
 EMBEDDER_LLM = OllamaEmbeddings(model=EMBEDDER)
 # TOOL_LLAMA_LLM = OllamaFunctions(model=GROQ_SMALL_LLAMA)
-TOOL_LLAMA_LLM = ChatGroq(model=GROQ_SMALL_LLAMA, api_key=GROQ_API_KEY)
+TOOL_LLAMA_LLM = ChatGroq(model=GROQ_LLAMA, api_key=GROQ_API_KEY)
 GROQ_LLM = ChatGroq(model=GROQ_LLAMA, api_key=GROQ_API_KEY)

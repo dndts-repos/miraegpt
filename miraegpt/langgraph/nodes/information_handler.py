@@ -1,6 +1,6 @@
 from miraegpt.chains.information_chain import INFORMATION_CHAIN, DOCUMENTS_KEY, QUESTION_KEY
 from miraegpt.langgraph.state import GraphState
-from miraegpt.libs.utils import write_markdown_file
+from miraegpt.libs.utils import manage_chat_histories, write_markdown_file
 
 
 HANDLER_NAME = "Information Handler"
@@ -17,4 +17,9 @@ def handle(state: GraphState):
     write_markdown_file(f'Reply: {response}', "information_handler")
     print(f'----- {HANDLER_NAME}: DOCUMENTS SUMMARISED AND STEPS LISTED -----')
 
-    return {'reply': response}
+    chat_histories = state['chat_histories']
+    print(f'Chat history: {chat_histories}')
+
+    chat_history = manage_chat_histories(chat_histories, question, response)
+
+    return {'reply': response, 'chat_histories': chat_history}

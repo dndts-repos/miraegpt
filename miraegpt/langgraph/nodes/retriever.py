@@ -1,6 +1,7 @@
 
 from miraegpt.database.chroma import CHROMA_TEMPLATES_PATH, TEMPLATES_COLLECTION_NAME, connect_to_vectorstore
 from miraegpt.langgraph.state import GraphState
+from miraegpt.libs.utils import write_markdown_file
 
 
 NAME = "Retriever"
@@ -13,6 +14,7 @@ def retrieve(state: GraphState):
         persist_dir=CHROMA_TEMPLATES_PATH
     )
     documents = db.similarity_search(message, k=2, filter={'issue_type': issue})
+    write_markdown_file(f'Documents: {documents}', "retriever")
     return {'chunks': documents}
 
 

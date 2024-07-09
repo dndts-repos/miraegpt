@@ -7,7 +7,6 @@ import miraegpt.langgraph.nodes.email_handler as email_handler
 import miraegpt.langgraph.nodes.unrelated_handler as unrelated_handler
 import miraegpt.langgraph.nodes.summary_handler as summary_handler
 from miraegpt.langgraph.nodes.retriever import retrieve
-from miraegpt.langgraph.nodes.printer import state_printer
 
 workflow = StateGraph(GraphState)
 
@@ -53,5 +52,38 @@ workflow.add_edge(SUMMARY_HANDLER, END)
 miraegpt = workflow.compile()
 
 if __name__ == "__main__":
-    question = 'I need your help to craft an email. The customer said that the battery health is terrible. They want to replace the phone.'
-    print(miraegpt.invoke({'current_message': question}))
+
+    state = {
+        'current_message':'',
+        'reply_type':'Information',
+        'issue_type':'',
+        'chat_histories':[],
+        'summary':'',
+        'reply':'',
+        'chunks':[]
+    }
+    question = ''
+    while question != 'q':
+        question = input('')
+        response = miraegpt.invoke({
+            'current_message': question,
+            'reply_type': state['reply_type'],
+            'reply': state['reply'],
+            'issue_type': state['issue_type'],
+            'summary': state['summary'],
+            'chat_histories': state['chat_histories'],
+            'chunks': state['chunks']
+        })
+        state = {
+            'current_message':response['current_message'],
+            'reply_type':response['reply_type'],
+            'issue_type':state['issue_type'],
+            'chat_histories':response['chat_histories'],
+            'summary':response['summary'],
+            'reply':response['reply'],
+            'chunks':response['chunks']
+        }
+        print(f"Question: {response['current_message']}")
+        print(f"Reply: {response['reply']}")
+
+    # question = 'I need your help to craft an email. The customer said that the battery health is terrible. They want to replace the phone.'

@@ -1,6 +1,6 @@
 from miraegpt.chains.email_chain import DOCUMENTS_KEY, EMAIL_CHAIN, QUESTION_KEY
 from miraegpt.langgraph.state import GraphState
-from miraegpt.libs.utils import write_markdown_file
+from miraegpt.libs.utils import manage_chat_histories, write_markdown_file
 
 
 HANDLER_NAME = "Email Handler"
@@ -17,4 +17,9 @@ def handle(state: GraphState):
     write_markdown_file(f'Reply: {response}', "email_handler")
     print(f'----- {HANDLER_NAME}: EMAIL WRITTEN -----')
 
-    return {'reply': response}
+    chat_histories = state['chat_histories']
+    print(f'Chat history: {chat_histories}')
+
+    chat_history = manage_chat_histories(state['chat_histories'], question, response)
+
+    return {'reply': response, 'chat_histories': chat_history}
