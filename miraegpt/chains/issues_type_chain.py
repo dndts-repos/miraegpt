@@ -30,6 +30,13 @@ class IssueType(BaseModel):
         'Sim',
         'Rattle',
         'iCloud',
+        'Accessories',
+        'Lost',
+        'Withdraw',
+        'Address',
+        'Chronopost',
+        'Stuck',
+        'No Stock',
         'Unrelated'
     ] = Field(
         ...,
@@ -58,7 +65,14 @@ prompt = PromptTemplate(
         17. Sim - Issue with sim card or dual sim or e-sim
         18. Rattle - Phone makes rattling noise when shake
         19. iCloud - Issue with iCloud
-        20. Unrelated - Used when none of the other issues can match<|eot_id|>
+        20. Accessories - Issue with Phone Case, Protector, Charging Cable, Charger, Plug or Earphone/Earpiece
+        21. Lost - Issue with delivery, phone went missing or parcel is lost or wrong item received or parcel is delivered but customer did not receive.
+        22. Withdraw - Issue with customer withdrawing their purchase
+        23. Address - Issues with delivery when customer changes address
+        24. Chronopost - Issues regarding Chronopost point.
+        25. Stuck - Issues with delivery when parcel is stuck in transit
+        26. No Stock - Issue when item is out of stock
+        27. Unrelated - Used when none of the other issues can match<|eot_id|>
         <|start_header_id|>user<|end_header_id|>
         Question: {question} <|eot_id|>
         <|start_header_id|>assistant<|end_header_id|>
@@ -117,6 +131,19 @@ if __name__ == '__main__':
         'When I shake my phone, I can hear something loose inside': 'Rattle',
         'How do I remove iCloud lock remotely': 'iCloud',
         'My device does not recognise my sim card': 'Sim',
+        'My package came empty.' : 'Lost',
+        'My package is lost' : 'Lost',
+        'Tracking link said delivered but customer did not receive it': 'Lost',
+        'Customer return device to us but parcel lost': 'Lost',
+        'I would like to withdraw': 'Withdraw',
+        'Customer would like to change their address': 'Address',
+        'Customer could not find the pin to retrieve their product from the chronopost point': 'Chronopost',
+        'Parcel stuck in transit': 'Stuck',
+        'Stock is out of order' : 'No Stock',
+        'I did not receive the case and screen protector indicated during the order purchase': 'Accessories',
+        'The cable is not working properly': 'Accessories',
+        'The charger is not working properly': 'Accessories',
+        'The order does not come with earphones': 'Accessories',
         'Today is a nice day': 'Unrelated',
         'Ba Ba Black sheep': 'Unrelated',
         'My phone has a dinosaur': 'Unrelated'
