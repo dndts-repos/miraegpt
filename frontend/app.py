@@ -34,6 +34,14 @@ def generate_response(current_message: str, graph_state):
     else:
         return Output(reply=response.text)
 
+
+def get_sources(chunks):
+    sources = set()
+    for chunk in chunks:
+        source = chunk['metadata']['source']
+        sources.add(source.split('/')[-1].split(' ')[0])
+    return sources
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -60,5 +68,7 @@ if prompt := st.chat_input("What is up?"):
         new_graph_state = generate_response(prompt, st.session_state.graph_state)
         st.session_state.graph_state = new_graph_state
         response = new_graph_state['reply']
+        sources = get_sources(new_graph_state['chunks'])
+        response = response + '\n\n' + "Reference sources: " + ', '.join(sources)
         st.write(response)
         st.session_state.messages.append({"role": "assistant", "content": response})
