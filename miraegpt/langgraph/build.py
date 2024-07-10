@@ -4,10 +4,12 @@ import miraegpt.langgraph.nodes.issue_type_handler as issue_type_handler
 import miraegpt.langgraph.nodes.information_handler as information_handler
 import miraegpt.langgraph.nodes.unrelated_handler as unrelated_handler
 import miraegpt.langgraph.nodes.summary_handler as summary_handler
+import miraegpt.langgraph.nodes.query_rewrite_handler as query_rewrite_handler
 from miraegpt.langgraph.nodes.retriever import retrieve
 
 workflow = StateGraph(GraphState)
 
+REWRITE_QUERY_HANDLER = 'query rewrite handler'
 ISSUES_CLASSIFIER = 'issue classifier'
 INFORMATION_HANDLER = 'information handler'
 UNRELATED_HANDLER = 'unrelated handler'
@@ -22,6 +24,7 @@ def unrelated_check(state: GraphState):
 
 
 # Add Nodes
+workflow.add_node(REWRITE_QUERY_HANDLER, query_rewrite_handler.handle)
 workflow.add_node(ISSUES_CLASSIFIER, issue_type_handler.handle)
 workflow.add_node(INFORMATION_HANDLER, information_handler.handle)
 workflow.add_node(UNRELATED_HANDLER, unrelated_handler.handle)
@@ -29,7 +32,8 @@ workflow.add_node(SUMMARY_HANDLER, summary_handler.handle)
 workflow.add_node(RETRIEVER, retrieve)
 
 # Create Edges
-workflow.set_entry_point(ISSUES_CLASSIFIER)
+workflow.set_entry_point(REWRITE_QUERY_HANDLER)
+workflow.add_edge(REWRITE_QUERY_HANDLER, ISSUES_CLASSIFIER)
 workflow.add_conditional_edges(ISSUES_CLASSIFIER, unrelated_check)
 workflow.add_edge(RETRIEVER, INFORMATION_HANDLER)
 workflow.add_edge(UNRELATED_HANDLER, SUMMARY_HANDLER)
@@ -69,5 +73,3 @@ if __name__ == "__main__":
         print(f"Question: {response['current_message']}")
         print(f"Reply: {response['reply']}")
         question = input('')
-
-    # question = 'I need your help to craft an email. The customer said that the battery health is terrible. They want to replace the phone.'
