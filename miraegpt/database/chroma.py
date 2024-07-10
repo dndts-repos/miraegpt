@@ -8,6 +8,7 @@ from langchain_community.document_loaders import UnstructuredWordDocumentLoader
 from miraegpt.models.llm import EMBEDDER_LLM
 
 TEMPLATES_COLLECTION_NAME = 'templates'
+CATEGORIES = ('technical', 'delivery', 'accessories')
 CHROMA_TEMPLATES_PATH = os.path.join('data', 'chroma', TEMPLATES_COLLECTION_NAME)
 
 CHUNK_SIZE = 1024
@@ -76,19 +77,20 @@ def connect_to_vectorstore(
 
 
 if __name__ == '__main__':
-    path_to_word_documents = os.path.join('data', 'templates', 'technical')
-    documents = load_word_documents(path_to_word_documents)
-    chunks, chunks_ids = chunk_documents(documents)
-    write_to_vectorstore(
-        persist_dir=CHROMA_TEMPLATES_PATH, 
-        chunks=chunks, 
-        chunks_ids=chunks_ids,
-        collection_name=TEMPLATES_COLLECTION_NAME
-    )
-    db = connect_to_vectorstore(
-        collection_name=TEMPLATES_COLLECTION_NAME,
-        persist_dir=CHROMA_TEMPLATES_PATH
-    )
+    for category in CATEGORIES:
+        path_to_word_documents = os.path.join('data', 'templates', category)
+        documents = load_word_documents(path_to_word_documents)
+        chunks, chunks_ids = chunk_documents(documents)
+        write_to_vectorstore(
+            persist_dir=CHROMA_TEMPLATES_PATH, 
+            chunks=chunks, 
+            chunks_ids=chunks_ids,
+            collection_name=TEMPLATES_COLLECTION_NAME
+        )
+        db = connect_to_vectorstore(
+            collection_name=TEMPLATES_COLLECTION_NAME,
+            persist_dir=CHROMA_TEMPLATES_PATH
+        )
     print(len(db))
 
 
