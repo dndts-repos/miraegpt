@@ -143,6 +143,7 @@ if __name__ == '__main__':
         'I did not receive the case and screen protector indicated during the order purchase': 'Accessories',
         'The cable is not working properly': 'Accessories',
         'The charger is not working properly': 'Accessories',
+        'The charging plug is not working properly': 'Accessories',
         'The order does not come with earphones': 'Accessories',
         'Today is a nice day': 'Unrelated',
         'Ba Ba Black sheep': 'Unrelated',
