@@ -7,9 +7,8 @@ class GraphState(TypedDict):
     Represents the state of our graph.
     """
     current_message: str
-    reply_type: Literal['Information', 'Email']
     issue_type: str
-    chat_histories: List[str] = []
-    summary: str = ''
+    chat_histories: List[tuple[str, str]] 
+    summary: str
     reply: str
     chunks: List[Document]

@@ -1,9 +1,0 @@
-Hello!
-The tracking status of this order has not changed in 7 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.
-
-Once all the paperwork has been gathered we’ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents
-If at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.
-
-Best regards,
-<name> - Back Market
-delivery
