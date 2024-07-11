@@ -1,0 +1,12 @@
+psutil
+fastapi
+langchain
+langserve
+langgraph
+langchain_core
+chromadb
+langchain_community
+langchain_experimental
+langchain_groq
+python-dotenv
+streamlit
