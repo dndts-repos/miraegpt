@@ -8,3 +8,4 @@ langchain_experimental
 langchain_groq
 python-dotenv
 sse_starlette
+unstructured[docx]

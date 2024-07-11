@@ -1,10 +1,14 @@
+from dotenv import load_dotenv
+import os
 from typing import List
 from langchain.pydantic_v1 import BaseModel
 import streamlit as st
 import requests
 from langchain_core.documents import Document
 
-LLM_URL = "http://localhost:8000/gpt/invoke"
+load_dotenv()
+
+LLM_URL = os.getenv('BACKEND_URL', 'http://0.0.0.0:8000/gpt/invoke')
 
 class Output(BaseModel):
     current_message: str =''
@@ -30,9 +34,23 @@ def generate_response(current_message: str, graph_state):
             output = response_body['output']
             return output
         except:
-            return "I'm sorry, I am unable to answer your question. Try again!"
+            return {
+                'current_message': '',
+                'issue_type': '',
+                'chat_histories': [],
+                'summary': '',
+                'reply': "I'm sorry, I am unable to answer your question. Try again!",
+                'chunks': []
+            }
     else:
-        return Output(reply=response.text)
+        return {
+                'current_message': '',
+                'issue_type': '',
+                'chat_histories': [],
+                'summary': '',
+                'reply': response.text,
+                'chunks': []
+            }
 
 
 def get_sources(chunks):

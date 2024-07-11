@@ -6,13 +6,28 @@ services:
       - ~/.ollama:/root/.ollama
     ports:
       - 11434:11434
-  frontend-server:
-    image: frontend-server
-    ports:
-      - 8501:8501
   miraegpt-server:
     image: miraegpt-server
     ports:
       - 8000:8000
     env_file:
       - .env
+  frontend-server:
+    image: frontend-server
+    ports:
+      - 8501:8501
+    environment:
+      - BACKEND_URL=http://miraegpt-server:8000/gpt/invoke
+    depends_on:
+      - miraegpt-server
+  ngrok:
+    image: ngrok/ngrok
+    command: 'http frontend-server:8501' 
+    ports:
+      - "4040:4040" 
+    environment:
+      - NGROK_AUTHTOKEN='2hPMeJRI2PsJSq2AwRIKSd5t8f3_5xrzYdBsM27cPWq99ciQL'
+    depends_on:
+      - frontend-server
+    expose:
+      - 4040
