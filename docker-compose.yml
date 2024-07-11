@@ -26,7 +26,7 @@ services:
       - miraegpt-server
   ngrok:
     image: ngrok/ngrok
-    command: 'http frontend-server:8501' 
+    command: 'http --domain marlin-winning-frequently.ngrok-free.app frontend-server:8501' 
     ports:
       - "4040:4040" 
     environment:
