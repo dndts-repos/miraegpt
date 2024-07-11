@@ -30,7 +30,7 @@ services:
     ports:
       - "4040:4040" 
     environment:
-      - NGROK_AUTHTOKEN='2hPMeJRI2PsJSq2AwRIKSd5t8f3_5xrzYdBsM27cPWq99ciQL'
+      - NGROK_AUTHTOKEN=${NGROK_AUTHTOKEN}
     depends_on:
       - frontend-server
     expose:
