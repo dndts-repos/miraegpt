@@ -1,0 +1,77 @@
+{
+    "sav_id": 4879815,
+    "last_modified_date": "2024-05-26T10:50:24.548436+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nI bought the iPhone 13 mini but I'm having trouble with the battery life. Therefore, I would like to exchange the device for a new one. The device has not been damaged during use and it has never fallen. It was always used with a screen protector and phone case. I hope you understand.\n\nBest regards!\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device was purchased in EXCELLENT condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return. \nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a 60 euros deduction is reasonable. Kindly confirm with the customer if this is agreeable.\nThank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nPlease initiate a full refund within the next 24 working hours.\n\nYou may not deduct anything from the refund.\n\nOtherwise, we will initiate the refund.\n\nThank You.\n\nRegards,\nLuciana from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nAs mentioned, the device was purchased in EXCELLENT condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return.\nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition.\n\nHowever, to provide a satisfactory outcome for the customer, we are amenable to a 50 euros deduction instead. Kindly confirm with the customer if this is agreeable.\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nPlease initiate a full refund within the next 24 working hours.\n\nYou may not deduct anything from the refund.\n\nOtherwise, we will initiate the refund.Deadline for REFUND are 06.06.2024\n\nThanks for your help in keeping our shared customers happy!\nRosa Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe customer wants a refund but as mentioned, the device was purchased in EXCELLENT condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return.\n\nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition. We are therefore unable to offer a full refund for this order. \n\nHowever, to provide a satisfactory outcome for the customer, we are amenable to a 50 euros deduction instead. Kindly confirm with the customer if this is agreeable. They would receive a partial refund of 340.54 euros\nThank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI have escalated this case to our experts for evaluation, and we will inform you of the outcome.\n\nRegards,\nRosa from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello ecomobile,\n\nas a response to the analysis,  I was informed that you can only  deduct something from the refund for the missing accessories.\n\nSo activate the refund in full within 24 hours, or we'll do it for you.\n\nThank you for understanding,\nRosa from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist mit Code/Muster gesperrt.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nUnfortunately, the device seems to be locked with a code. Kindly assist us in resolving this issue in order for us to proceed. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nare you talking about hi iCloud access code? \nPlease indicate the IMEI so we can check and help the customer if it is iCloud!\n\nThank you for understanding,\nRosa from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nPlease disregard the previous message regarding the code lock, we have resolved the issue.\n\nHowever, as mentioned, the device was purchased in EXCELLENT condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return.\n\nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition. We are therefore unable to offer a full refund for this order.\n\nHowever, to provide a satisfactory outcome for the customer, we are amenable to a 50 euros deduction instead. Kindly confirm with the customer if this is agreeable. They would receive a partial refund of 340.54 euros\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nAccording to our message to you on 06.06.24, 17:04 , we have now activated the refund for your client.\n\nThank you for understanding,\nRosa from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "sav_id": 4935095,
+    "last_modified_date": "2024-06-15T18:25:59.849472+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 12 is having a problem as follows:\r\n\r\nMy package is delayed. And when I called Chronopost, they told me it was consigned to another address. But I don't want to give another address. If you please, I don't know what to do. Thank you.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nAlice - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly assist the customer in preparing a handwritten CND with the IMEI of the device and their ID. We will check with our logistics partner. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the POD in this message. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_TRACKING_LINK_NOT_UNDERSTOOD",
+            "tag": "DELIVERY"
+        }
+    ]
+}

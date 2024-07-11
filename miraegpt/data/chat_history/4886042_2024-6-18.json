@@ -1,0 +1,83 @@
+{
+    "sav_id": 4886042,
+    "last_modified_date": "2024-05-28T18:07:24.452954+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 Pro has the above problem: The smoke detector was sent instead of the ordered goods. Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe customer claims that the parcel was delivered empty (The package had a Smoke detector instead of an iPhone 13 Pro)(see pictures in the details). We have requested the BM certificate of non-receipt, pictures of the package, picture of the label with tracking number visible, pictures of the package inside (with the product received inside if any) and police report.\n\nOnce all the paperwork has been gathered, we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents.\n\nBest regards,\n\nPaulo - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of this issue and will inform our logistcis partner. In the meantime, please assist the customer in filling up a valid CND as the IMEI is missing. Please also ask the customer to keep the parcel as the courier may require it for investigations.\n\nCan I also clarify if the customer wrote any comments on the delivery note? \n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\npicture is free.\n\nRegards,\nAysu from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe CND provided by the customer is not valid as the IMEI of the device is missing. Please assist the customer to add the IMEI:356942287272168 in the CND and send us again.  Please also ask the customer to keep the parcel as the courier may require it for investigations.\n\nKindly inform us if the customer wrote any comments on the delivery note as well.\n\nThank you.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nhere the document.\n\n\nKind Regards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for submitting the relevant documents. We will keep you updated.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe carrier seemed to have issues accessing the parcel to continue their investigation, could you kindly request the customer to contact the courier directly? I have attached the letter from the courier regarding this issue. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nOlga Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nDid the customer contact the courier?\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer says:\" I have tried to contact UPS. After several phone calls, I received the following e-mail.\n\n\"Dear Mr Hollen,\n\nThank you for your enquiry.\n\nWe are sorry for the inconvenience caused.\n\nI have checked the parcel. Unfortunately, the parcel has not been scanned since 28/05/24. We will be happy to investigate this matter.\n\nPlease complete the attached file and send it to us.\n\nIn order to start the investigation, we also need the contact details of the recipient and sender, e.g. e-mail and telephone number.\n\nThe response to the enquiry can take up to 10 working days. Only then does the claim process begin.\n\nThank you for your efforts. Please also attach the original text of your message to the reply.\n\nIf you have any further questions, please do not hesitate to contact us.\n\n\nYours sincerely\n\n\n\nShpresa Uka\nUPS Customer Resolution Group\"\n\nI have replied to the e-mail with the requested form.\n\nI am currently waiting for a reply.\"\n\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nSo please, refund the customer.\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur logistics partner has informed us that the claim was refused as the customer did not want to give the parcel to UPS\u2019s driver.\n\n\nHere is the carrier answer :\n\n\u201c Our tracking system indicates that the UPS driver attempted to pick up the damaged merchandise/original box on 05/31/2024 but the recipient refused to give it to him. \n\nThe damage investigation was canceled.\"\n\nCan we check why the customer did not give the parcel to UPS? On 30/5 we had already informed the customer to keep the parcel as the carrier needed to collect it for investigation purposes.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\n This order will be refunded in 24 hours \n\nYou can now blacklist the device.\n\nBest regards,\nCelia-Cristina - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_EMPTY_PACKAGE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

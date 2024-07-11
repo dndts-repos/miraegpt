@@ -1,0 +1,93 @@
+{
+    "sav_id": 4857257,
+    "last_modified_date": "2024-05-16T21:09:39.605447+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 has the above problem: The package was opened and was empty. Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe customer claims that the parcel was delivered empty. We have requested the BM certificate of non-receipt, pictures of the package, picture of the label with tracking number visible, pictures of the package inside (with the product received inside if any) and police report.\n\n\n Once all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\n\nBest regards,\nRicardo-Filipe - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n You can use the attached documents to investigate the matter with your delivery company\n\n\n\nThis order will be refunded in 24 hours \n\nPlease send a tracking link for a replacement within 24 hours or this order will be refunded\n\n\n\nYou can now blacklist the device.\n\nBest regards,\nRicardo-Filipe - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,  \n\nWe're working with our logistics partner to resolve this issue. They have requested the following documentation as well:\n\n1. Photographs of all four sides of the parcel.\n2. Photographs of all four sides of its contents.\n\nPlease also check if the customer left any comments on the delivery note. \n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe're working with our logistics partner to resolve this issue. They have requested the following documentation as well:\n\n1. Photographs of all four sides of the parcel.\n2. Photographs of all four sides of its contents.\n3. A clearer picture of the shipping label on the parcel\n\nPlease also check if the customer left any comments on the delivery note.\n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\n\nall docs was sent check details, you have today for send a new item if not we will refund \n\nThanks for your help in keeping our shared customers happy!\nRicardo-Filipe Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe pictures sent only contains the report, CND and a picture of the package. We would need clearer pictures of the package showing its content, as well as a picture of the shipping label. \n\nWe seek your understanding and cooperation to keep our shared customers happy. \n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nHello, the parcel and packaging are with the police for forensic purposes. According to the police, the logistics partner must request this directly from the police.\n\nRefund client!\n\n\nThank you for understanding,\nRicardo-Filipe from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of that. Thank you for your assistance.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nRicardo-Filipe Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly provide us with the pictures of the customer's IC as well.\n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded  the customer for deadline passed\n\n\nKind regards, Ricardo-Filipe from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nCould the customer please provide us with the address and phone number of the police station, as well as proof of the claim emitted at the police station?\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe courier requires the address of the police station in order to pickup the parcel. Without this crucial information, you are hindering our investigation. \n\nPlease provide the address and proof!\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\n\nAt the police station in Bruchsal, which also took the complaint. The address and contact details can be found on the police report that they have.\n\nThanks for your help in keeping our shared customers happy!\nRicardo-Filipe Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have informed our logistics partner regarding the information that they require. I will keep you updated if we require any other information from the customer. Thank you for your understanding.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_EMPTY_PACKAGE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

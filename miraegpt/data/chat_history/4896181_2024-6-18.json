@@ -1,0 +1,28 @@
+{
+    "sav_id": 4896181,
+    "last_modified_date": "2024-06-01T09:10:06.532563+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 13 Pro has the above problem:\n\nDear Backmarket Team,\nUnfortunately, I had to discover upon receiving my iPhone that the stated condition only partially applies. When evaluated as very good, the casing should only have minor micro-scratches.\nThe scratches visible on the images do not, in my opinion, match this description and are also easily recognizable from 1m distance.\nI would be happy if we could find a solution here.\n\nThank you,\nand\nBest regards,\nAlexander Resch\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe will make a partial refund of 60.00 \u20ac to the customer.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nDo let us know when you have partially refunded the customer and we take note of this. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4925696,
+    "last_modified_date": "2024-06-12T12:12:39.173138+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy product iPhone 13 has the above problem:\r\nDear Sirs and Madams, we received this iPhone. It was sold to us under the category 'very good condition'. In our opinion, it has some signs of wear, so it corresponds to a good condition but not very good condition. We have also ordered an iPhone in the past that was in a very good condition. No real signs of wear. Top. So we had hoped for this price as well.\r\nPictures are attached.\r\nBest regards\r\nSchn\u00f6dewind\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded \u20ac40 to the customer for grade discrepancy.\n\n\nKind regards, Tania from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

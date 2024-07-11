@@ -1,0 +1,28 @@
+{
+    "sav_id": 4906910,
+    "last_modified_date": "2024-06-05T13:10:25.603453+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 12 mini has the above problem: How do I get the \u20ac20 for my first order? Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare, please relay the following message to the customer. \n\nUnfortunately, we are unable to refund the discount because the payment has already been finalized. As your product has already been shipped, in the event that you do not wish to keep the device, our logistics partner has suggested you to do the following.\n\n1. Refuse the parcel when a delivery attempt is made.\n2. If unable to refuse a parcel, do not open the product packaging. Use the return label provided by BackMarket and send the device back immediately.\n\nBy doing the following, you would be sure to receive a much FASTER REFUND for this order. \n\nThank you.\nRegards, \nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device has been delivered to the customer according to the tracking link provided. If the customer does not require any further assistance, please close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

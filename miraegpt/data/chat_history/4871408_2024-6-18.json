@@ -1,0 +1,27 @@
+{
+    "sav_id": 4871408,
+    "last_modified_date": "2024-05-22T19:07:54.303744+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 12 Pro with the above problem:\nThe device refused to turn on from the start. Nothing. Nada. Dark. It won't even charge. Clear? How can you replace a device without realizing it doesn't work at all??? No one was notified and there are no data recorded because it won't turn on! Clear? Man, this is complicated here!\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

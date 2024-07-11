@@ -1,0 +1,33 @@
+{
+    "sav_id": 4856116,
+    "last_modified_date": "2024-05-16T15:57:07.409615+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product is iPhone 12 and it has the above problem:\r\nPackage could not be delivered.\r\nIt seems that the package could not be delivered and will now be sent back to you. Is it possible for it to still arrive at my place?\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have requested our logistics partner to make a redelivery to the same address:\n\nValerie Krystkowiak\nBredowstrasse 39\n10551 Berlin\nGermany\n01512 1188189\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe package arrived at your warehouse today.\n\nPlease send it within the next 24 hours and give me a TL.\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel has been shippped and the tracking number is 1ZBF1560D901148362\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

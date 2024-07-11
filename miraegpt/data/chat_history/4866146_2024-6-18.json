@@ -1,0 +1,38 @@
+{
+    "sav_id": 4866146,
+    "last_modified_date": "2024-05-21T10:03:53.003997+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has a problem:\nThe other day, I requested an iPhone 13 with 128 GB, blue color, and a very good appearance. However, it has many paint details on the edges due to impacts! The functionality is okay! It's my fourth phone with you guys, and the condition was very good, but considering what happened, I'm requesting a mobile phone change with the same technical characteristics and possibly without so many details! Or the option to opt for one with an aesthetic",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile:\n\nThe customer has returned the device, as it did not correspond to the requested aesthetic grade. \n\nHe requests to be sent a replacement, if this is not possible, he refunds the order.\n\nWe look forward to hearing from you.\n\nRegards,\nSkarlet from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of your message and will inform our repair team accordingly.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;replacement&lt;&lt;. Please provide a solution to the customer within 1 business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button at the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nAna Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BACK_COVER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

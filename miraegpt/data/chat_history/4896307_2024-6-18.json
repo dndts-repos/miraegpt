@@ -1,0 +1,27 @@
+{
+    "sav_id": 4896307,
+    "last_modified_date": "2024-06-01T10:17:01.848710+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product iPhone 13 Pro has the above issue:\r\n\r\nI would like to cancel this purchase. The device was not used.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOUND_CHEAPER",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

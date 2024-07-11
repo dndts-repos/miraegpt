@@ -1,0 +1,37 @@
+{
+    "sav_id": 4897610,
+    "last_modified_date": "2024-06-01T21:19:35.404200+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has the above problem.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the cancellation of the order. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI wonder if there is a new development ?\n\nRegards,\nOktay from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have cancelled the order and refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

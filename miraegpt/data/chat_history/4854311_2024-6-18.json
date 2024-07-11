@@ -1,0 +1,27 @@
+{
+    "sav_id": 4854311,
+    "last_modified_date": "2024-05-15T22:56:29.068486+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is experiencing the following issue:\nToo small a phone. I'll order an iPhone 12.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

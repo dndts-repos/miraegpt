@@ -1,0 +1,35 @@
+{
+    "sav_id": 4896684,
+    "last_modified_date": "2024-06-01T13:06:04.483922+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 product has the above problem:\r\n\r\nThe camera area has large scratches on the casing that are also visible from several meters away. This does not meet the statements of the purchased condition \"excellent\".\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

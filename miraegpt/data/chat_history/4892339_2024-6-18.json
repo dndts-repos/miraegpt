@@ -1,0 +1,57 @@
+{
+    "sav_id": 4892339,
+    "last_modified_date": "2024-05-30T18:21:33.417763+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\nThe device is unusable! I couldn't even sign in. I'd like another functioning device or my money back. The device belongs to the trash. I'm really disappointed that something like this wasn't checked.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nGurcan Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfotunately, the device is locked with a code. Kindly request the customer to unlock the device so that we can continue processing the device.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nYou received the package on 06.06. and today you inform us that the device is locked with a code. According to the quality charter, you have 3 working days, so I will initiate the refund today.\n\nRegards,\nGurcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BACK_BUTTON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CAN_NOT_LOG_IN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CAN_NOT_SETUP_PAIR",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CAN_NOT_UPDATE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SOFTWARE_SERVICES_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

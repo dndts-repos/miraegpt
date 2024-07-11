@@ -1,0 +1,23 @@
+{
+    "sav_id": 4863186,
+    "last_modified_date": "2024-05-19T21:25:16.280154+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has a problem:\nIt can't be configured, it won't connect via Bluetooth or Wi-Fi to transfer data from another iPhone.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAN_NOT_SETUP_PAIR",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

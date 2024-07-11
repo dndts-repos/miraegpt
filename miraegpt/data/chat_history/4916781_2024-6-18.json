@@ -1,0 +1,28 @@
+{
+    "sav_id": 4916781,
+    "last_modified_date": "2024-06-09T08:40:03.903978+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, I have the above issue with my iPhone 12 product: Hello, upon unpacking, I found that the casing on the side unfortunately has a scratch, although 'Excellent' was specified during ordering ;-(( This is not a micro-scratch, but rather a noticeable scratch (visible from 20cm). The item only meets the condition description 'Good'. Despite having an applied screen protector, the scratch is still visible (see attached images). Although the item does not meet my order's 'Excellent' condition, I would be okay with a corresponding credit based on the 'Good' condition description, as I could accommodate this unwanted small imperfection. Please provide me with a response regarding this. Many thanks in advance and best regards, Matthias Bahlinger",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\n\nThe customer complains that the housing unfortunately has a scratch on the side, although the condition \u201cexcellent\u201d was specified when ordering.\n\nI explained to the customer that he has 3 working days upon receipt to report any damage.\n\nHowever, the customer has now informed us that he went on holiday on the same day of receipt, 04.06.2024, and therefore did not have the time to take a closer look at the device before going on holiday.\nAccording to the customer, he waited extra for the postman to accept the delivery and then went on holiday without the smartphone). The smartphone was left unopened at home until his return from holiday on 7 June 2024!\n\nIs there any chance to give the customer a compensation?\n\nRegards,\nAna from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe customer will not get any commercial gesture because he reported the issue after 3 working days upon receiving the items. Apologies.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4871035,
+    "last_modified_date": "2024-05-22T17:29:09.254512+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 is experiencing the following issue:\r\nPhone contours are damaged.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

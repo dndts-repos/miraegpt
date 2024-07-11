@@ -1,0 +1,68 @@
+{
+    "sav_id": 4875454,
+    "last_modified_date": "2024-05-24T08:47:31.329996+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has the above problem:\n\nThe phone simply gave up without a drop, water damage, or external interference. It can no longer be turned on, and the data on the phone appears to be lost. Please request reimbursement of costs under warranty. Best regards, Mattias Malki\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device is currently locked by the customer's iCloud account. Inform the customer to unlink their account or we will not be able to proceed with the repair. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\ncustomer reports the following:\n\nWe say that the connection to the cell phone is deleted as soon as an internet connection is established.\n\nRegards,\nNisa from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe iCloud still seems to be linked to the customer's phone. Do let me know once the customer has unlinked the iCloud, if he requires any assistance, he can use this link for help: https://support.apple.com/de-de/guide/icloud/mmfc0eeddd/icloud\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\ncustomer reports the following:\n\nWe say that the connection to the cell phone is deleted as soon as an internet connection is established.\n\nKind regards,\nNisa from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare, \n\nIt has come to our attention that the device is locked with the customer's iCloud account, hence we are unable to proceed. We require the customer to unlink their iCloud account from the phone.\nKindly request the customer's help to resolve this issue. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nHave you tried to connect the device to the internet?\n\nThe customer states, that as soon as the device is connected to the internet, the iCloud will be removed.\n\nBest regards,\nAntonio from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nIt has come to our attention that the device is locked with the customer's iCloud account, hence we are unable to proceed. We require the customer to unlink their iCloud account from the phone.\nKindly request the customer's help to resolve this issue. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe device is now disconnected.\n\nPlease proceed within the deadlines.\n\nBest regards,\nAntonio from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for the confirmation, we will relay this information to our repair team and inform you of any updates\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have confirmed that the iCloud has been unlocked. Unfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

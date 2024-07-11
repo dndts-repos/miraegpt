@@ -1,0 +1,42 @@
+{
+    "sav_id": 4908782,
+    "last_modified_date": "2024-06-05T21:24:53.235859+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, I have an iPhone 13 with the following issue:\nToo damaged edges with colorless dots.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nI take the liberty of contacting you following the return of the iPhone 13. Indeed, the customer returned it for a refund.\n\nIn addition, the tracking link tells us that the package was delivered to you on 06/07/2024.\n\nIn this case, I invite you to process the customer\u2019s request within the deadline.\n\nThank you for helping us satisfy our customers,\nTiana-Rijamalala from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nSince we have no feedback from you, we will refund the customer.\n\nThank you for your understanding and wish you a great day.\n\nRegards,\nTiana-Rijamalala from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "PREFER_NEW",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

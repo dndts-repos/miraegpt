@@ -1,0 +1,32 @@
+{
+    "sav_id": 4884671,
+    "last_modified_date": "2024-05-28T11:50:50.443473+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 13 Pro has the above problem: \nThe device has a battery capacity of 85% in excellent condition... within a month it's under 85 and the device is worthless... \n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe customer sent his device back to you, for a repair/exchange of the battery.\nHe received the device with a battery capacity of 83%.\n\nPlease keep us informed.\n\nKind Regards,\nDerya from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

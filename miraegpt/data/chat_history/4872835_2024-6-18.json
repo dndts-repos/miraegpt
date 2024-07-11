@@ -1,0 +1,33 @@
+{
+    "sav_id": 4872835,
+    "last_modified_date": "2024-05-23T11:14:19.373217+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 12 Pro with the above problem:\nThe device was not functional as soon as I turned it on. After many attempts, I was able to transfer my data from my old iPhone. However, the screen becomes pink and pixelated (see photo) during use and restarts repeatedly. The received iPhone is not usable. I kindly request the sending of a new device with the same performance features like what was ordered, the color does not matter.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product, the 29.05.24. \n\nThe delay to repair or exchange the product is 3 days for technical issue. \nWithout answer with a valid tracking link before the 05.06.24 we will refund the customer.\n\nThank you for understanding,\nSema from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, the device is locked with a code. Please assist us in providing us the code to unlock the device.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe managed to unlock the device. Unfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

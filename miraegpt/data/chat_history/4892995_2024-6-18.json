@@ -1,0 +1,28 @@
+{
+    "sav_id": 4892995,
+    "last_modified_date": "2024-05-30T21:48:40.860111+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product is iPhone 13 and it has the above problem:\r\n\r\nI wanted to create a new Apple ID on my iPhone. Then, an error message appeared: The account could not be created. I searched online and read that you can only create up to three new Apple IDs on an iPhone (possibly per year) and then that's it. It seems like this limit has already been reached before I got the iPhone. What can I do now? Thank you very much!\r\n\r\nThank you for your help,\r\n\r\nThe customer confirms that the product has not suffered any damage from a fall or water and was not opened by a third party.\r\n\r\nForeign Text: German",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer contacted us with the following issue:\n\nI wanted to create a new Apple ID on the Iphone. Then it was displayed: Account could not be created. I googled and read that a maximum of 3 new Apple IDs can be created on an Iphone (possibly per year) and after that it's over. It seems that this limit had already been reached before I got the Iphone. What can I do now? Thank you very much!\n\n\nWhat's your solution?\n\nRegards,\nCelia-Cristina from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe customer can try to delete previous iCloud accounts on the device. They should be able to create a new account after that.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAN_NOT_SETUP_PAIR",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

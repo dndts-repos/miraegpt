@@ -1,0 +1,37 @@
+{
+    "sav_id": 4909588,
+    "last_modified_date": "2024-06-06T10:10:10.018479+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product is an iPhone 12 Pro with the above issue: The package is being returned to the sender, so I would like a refund. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe parcel will be returned to you.\n\nCustomer requests a refund.\n\nThank you\n\nRegards,\nGurcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the arrival of the parcel.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

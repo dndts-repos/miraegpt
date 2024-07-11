@@ -1,0 +1,47 @@
+{
+    "sav_id": 4899622,
+    "last_modified_date": "2024-06-03T08:27:53.587934+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy product iPhone 12 mini has the above problem:\nDisplay-touch doesn't work with letters i, k. Sometimes I can't write. I request an exchange. Thank you\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist \u00fcber iCloud\\Google gesperrt.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device is currently locked by the customer's iCloud. Inform the customer to unlink their account or we will not be able to proceed with the repair. The customer can follow the instructions from the link below to unlink their iCloud account from the phone.\n\nhttps://support.apple.com/de-de/guide/icloud/mmfc0eeddd/icloud\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAny updates on unlinking the iCloud account?\n\nThank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease forward the message to the customer.\nKindly remove the iCloud from the device for the sake of privacy. This is to prevent the leakage of sensitive data. Please unlink your iCloud by following the link provided. Thank you.\nhttps://discussions.apple.com/thread/254177735?sortBy=best\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer has already disconnected their iCloud account.\n\nPlease send the customer a new device\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_BLACK",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SCREEN_DAMAGED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

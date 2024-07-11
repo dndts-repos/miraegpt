@@ -1,0 +1,38 @@
+{
+    "sav_id": 4862750,
+    "last_modified_date": "2024-05-19T16:17:48.910087+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 has the above problem: My address is Regenpfeiferweg 24, 70378 Stuttgart. Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe parcel was returned to the sender and arrived at your warehouse today.\n\nThe customer wants a refund.\n\nPlease act accordingly.\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are checking with our logistics partner regarding the reception of the parcel. We would process the refund once we receive confirmation from them.\n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 420.16\u20ac to the customer for not respecting the deadline to make the refund\n\nKind regards, \nClaudia from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nCould we confirm if the customer is refunded?\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

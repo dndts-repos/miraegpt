@@ -1,0 +1,23 @@
+{
+    "sav_id": 4928232,
+    "last_modified_date": "2024-06-13T06:09:53.465239+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Dear Backcare,\n\nThe package of the order could be not delivered because the letter box is not accessible.\n\nPlease ask the customer to reschedule the delivery with the carrier.\n\nThank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is having the following problem:\n\nI didn't receive a charger with my iPhone, although it seemed to me that this one was supposed to be delivered with.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_MISSING_PART",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

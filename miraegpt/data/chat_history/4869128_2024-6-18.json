@@ -1,0 +1,52 @@
+{
+    "sav_id": 4869128,
+    "last_modified_date": "2024-05-22T08:34:07.679724+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy iPhone 12 Pro has the above problem:\r\nAs soon as you start the main camera on the back, it vibrates (perhaps the image stabilizer) so much that no pictures or videos are possible. This problem has been there since I first started using the phone. A restart or anything else doesn't change the problem.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device was purchased as a GOOD condition. According to the Quality Charter, Good condition requires the device to be free of scratches on the screen. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a 40 euros deduction is reasonable which indicates that the customer receives a partial refund. Please check with the customer and get back to me. \n\nThank you,\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThank you for your message. \n\nIf the device is not reparable, kindly issue the full refund, as there is no guideline in our quality charter that suggests a price deduction. \n\nOtherwise, we are obliged to continue by refunding the customer ourselves. \n\nWe appreciate your cooperation. \n\nKind regards,\nTansu from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist mit Code/Muster gesperrt.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nUnfortunately, the device seems to be locked with a code. Kindly assist us in resolving this issue in order for us to proceed. Thank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThank you for your message. \n\nPlease send the item back to the customer so that she can unlock it. Due to data protection, we are not allowed to ask the customer for the code.\n\nKind regards,\nTansu from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have managed to resolve the above issue. However, may we check if the customer has dropped the device before?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThank you for your message.\n\nThere is no indication that the phone was dropped. \n\nKind regards,\n\nTansu from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4923663,
+    "last_modified_date": "2024-06-11T17:51:19.659035+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 has the above problem: \nWhen will my order be delivered?\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nDevice delivered - Customer happy - Case and SAV closed accordingly. Thank you for understanding. \n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "sav_id": 4882338,
+    "last_modified_date": "2024-05-27T14:14:46.012862+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 12 mini with the above problem:\nOne of the cameras doesn't focus correctly. I've tried all possible options (update, restart, settings) but the problem remains. You can't change the focal point. The second camera works fine.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Elisa,\n\nYou will find your return label attached to this message. Your return package will be handled by Chronopost. Simply drop off your package at a nearby drop-off location. You can find the list of drop-off locations here: \n\nBefore you prepare your return:\n1. Find instructions on how to return an item here: <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions</a>\n2. Don't forget to include any accessories that came with your product.\n3. Remove any existing protective film or cover\n4. Package your product and its accessories according to the tips below.\n\nHow to package your product:\n\u2022 The box should be sturdy and stable, and your product should fit snugly inside so it doesn't move during transit.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside for identification in case the original label is lost or damaged).\n\u2022 Take photos of the package from both inside and outside before sending it. This will protect you in case your product is damaged during transit.\n\nYour return is now ready to be sent! We'll inform you when it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product to repair the 05.06.24. The delay to repair or exchange the product is 3 days for technical issue. Without answer with a valid tracking link before the 11.06.24 we will refund the customer.\n\nThank you for understanding.\n\nRegards,\nReyhan from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

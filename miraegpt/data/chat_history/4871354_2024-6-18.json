@@ -1,0 +1,23 @@
+{
+    "sav_id": 4871354,
+    "last_modified_date": "2024-05-22T18:54:39.146483+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 5G has the above problem:\nThe device has a model name SCG 09, not as stated in the technical specifications SM-G991B.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PRODUCT_MODEL_BRAND",
+            "tag": "BAD_PRODUCT"
+        }
+    ]
+}

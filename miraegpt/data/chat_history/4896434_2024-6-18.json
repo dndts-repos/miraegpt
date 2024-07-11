@@ -1,0 +1,43 @@
+{
+    "sav_id": 4896434,
+    "last_modified_date": "2024-06-01T11:26:03.875315+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 Pro has the above problem: Hello everyone, no package has arrived so far, no status change in the tracking history, address checked and reported to UPS and confirmed by UPS, UPS is still expecting \"Address information\" to name the delivery date\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer has contacted UPS and requested delivery, as the delivery address is correct. However, there is no new delivery movement.\n\nCan you please also check the delivery?\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will check with our logistics partner about this issue. We will update you soon.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nany news?\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are still waiting for a response by our logistics partner. In the meantime, kindly assist the customer in preparing a handwritten CND with the IMEI of the device and their ID. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nThe carrier tried to deliver yesterday but the firm was closed. They will deliver today.\n\nCordialement, Sincerely\n\nVal\u00e9rie DECAMPS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

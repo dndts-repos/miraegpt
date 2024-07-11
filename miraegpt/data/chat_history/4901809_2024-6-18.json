@@ -1,0 +1,37 @@
+{
+    "sav_id": 4901809,
+    "last_modified_date": "2024-06-03T18:59:00.846802+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\nThe battery may have a capacity of 100%, but it discharges unusually quickly. Only answering an email costs 1-2% battery, which I think is not normal. I've also compared it with other iPhone 12 Minis from friends. This was already communicated via mail with Backmarket employees. I request verification and possibly replacement of the battery or a new device.\n\nBest regards,\nLeonie Drechsel\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nAlthough the battery has a capacity of 100%, it discharges abnormally quickly. Just replying to an email drains 1-2% of the battery, which he says is not normal. He also compared it with other IPhone 12 Mini from friends. \n\nHe asks for the battery to be exchanged or for a new device.\n\nThank you very much in advance.\n\nKind regards,\nDerya from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repair&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the repair. Please use the \"Report a Problem\" button at the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nJorge Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

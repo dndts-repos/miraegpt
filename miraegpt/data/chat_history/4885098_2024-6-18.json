@@ -1,0 +1,27 @@
+{
+    "sav_id": 4885098,
+    "last_modified_date": "2024-05-28T13:38:16.419297+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 12 mini has the above problem:\n\nThe camera is no longer sharp but blurs permanently. As a result, it's no longer possible to take photos and videos. The phone has two lenses; the problem only occurs with the main lens (the primary lens). The wide-angle mode focuses normally. However, during video recording, you can hear a noise because the other lens is constantly trying to focus. This issue did not occur due to a drop. Initially, it took a few seconds longer for the photo to focus. Then, it worked fine. But next time, it took even longer. Now, the camera no longer focuses at all. I've updated the software and reset the phone. I suspect that there's a technical error in the lens itself.\n\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "sav_id": 4925361,
+    "last_modified_date": "2024-06-12T10:38:17.347300+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe package could  not  be delivered because the customer is absent.\n\nPlease ask your customer to reschedule the new delivery with the carrier .\n\nThank you.",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

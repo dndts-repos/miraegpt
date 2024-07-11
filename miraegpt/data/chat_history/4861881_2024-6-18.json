@@ -1,0 +1,47 @@
+{
+    "sav_id": 4861881,
+    "last_modified_date": "2024-05-18T20:40:51.722339+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 is having the issue mentioned above.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\n\nThe customer does not wish to receive the parcel, as the order was placed in error.\n\nThank you for taking care of the customer's request.\n\nBest regards, \n\nLinda, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\n\nI acknowledge receipt of your email and confirm that I have taken note of your request.\n\nI will contact the seller to inform him of your cancellation request, if he still has the possibility of cancelling your order, as it may already be in the process of being shipped, but I will get back to you as soon as I have confirmation.\n\nBest regards,\nLinda, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the cancellation of the order. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThank you for your feedback. We look forward to hearing from you.\n\nBest regards\nLinda Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

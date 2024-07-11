@@ -1,0 +1,43 @@
+{
+    "sav_id": 4914416,
+    "last_modified_date": "2024-06-07T18:59:14.381719+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 Pro has the following problem: It was estimated to be delivered last June 5th, but as of today I have not received any updates on the delivery status. Can you tell me where it is currently and how I can retrieve my package? Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer has informed me that he has not received the parcel.\n\nAnd I've just seen the link and I see that the parcel has been returned to sender and that you received it on 6/06.\n\nCan you please provide some information?\n\nThanks for your help in keeping our shared customers happy!\nPatrizia Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will be returning the phone back to the customer. Please provide us with an updated address in the following format:\nNAME\nADDRESS\nPOSTAL CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\nEMAIL ADDRESS\n\nThank you for your understanding and cooperation.\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nHere is the customer's address :\nNAME : Rizzi Mariasole\nADDRESS : via capitello 19 Vigodarzere 35010 (PD)\nPOSTAL CODE : 35010 \nTOWN/STREET NAME : Vigodarzere \nCOUNTRY : Italia\nPHONE NUMBER : 320 013 5946\n\nThanks for your help in keeping our shared customers happy!\nPatrizia Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed and made arrangements with our logistics partner in regards with the reshipment of the parcel accordingly. \n\nThank you.\n\nRegards, \nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nHere is the tracking number for the BIS order : 1ZBF1560D901236614\n\n Regards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_TRACKING_LINK_NOT_UNDERSTOOD",
+            "tag": "DELIVERY"
+        }
+    ]
+}

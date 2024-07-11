@@ -1,0 +1,23 @@
+{
+    "sav_id": 4855798,
+    "last_modified_date": "2024-05-16T14:34:59.991282+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 13 with the above problem. \nWe ordered a green iPhone 13 128 GB. Please send return label and refund.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PRODUCT_COLOR",
+            "tag": "BAD_PRODUCT"
+        }
+    ]
+}

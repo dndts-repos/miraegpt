@@ -1,0 +1,32 @@
+{
+    "sav_id": 4891024,
+    "last_modified_date": "2024-05-30T12:16:42.418539+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 13 Pro and it has the above problem:\nReturn and Refund.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\n\nThe quality charter period has already expired. Please carry out the refund today.\n\nThanks for your help in keeping our shared customers happy!\n\nKing regards\nEsra Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

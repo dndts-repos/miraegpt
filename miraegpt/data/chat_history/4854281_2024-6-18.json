@@ -1,0 +1,33 @@
+{
+    "sav_id": 4854281,
+    "last_modified_date": "2024-05-15T22:43:37.403789+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 mini has the above problem:\nThe product was purchased in excellent condition. However, the housing shows scratches and dents. This is the second product within a short time that does not meet the expected state. Very disappointing. I have already purchased several devices and was always satisfied. In the future, I will probably look for another provider when buying further devices.\nThank you very much for your help,\n\nThe customer confirms that the product has not been damaged due to drop or water, and has not been opened by a third party.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer wants to exchange the device and sends it back.\n\nRegards,\nEbru from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello Michael,\r\n\r\nYou can find the return shipping label attached to this message. Your return will be processed by Chronopost. Simply drop off your package at a nearby return location listed here: \r\n\r\nTo prepare for your return:\r\n1. Follow the instructions on how to return an item at <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\r\n2. Don't forget to include any accessories that came with your product\r\n3. Remove any existing protective wrapping or film\r\n4. Wrap your product and its accessories according to the tips below\r\n\r\nHow to wrap your product:\r\n\u2022 The box should be strong and stable, with your product positioned so it won't move during transit.\r\n\u2022 Attach the return shipping label on top of the box (you can also attach a backup label inside for identification in case the original label is lost or damaged).\r\n\u2022 Take photos of the package from inside and out before sending. This will protect you in case your product is damaged during transit.\r\n\r\nYour return is now ready to be dropped off! We'll notify you when it arrives at our facility.\r\n\r\nBest regards,\r\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4858836,
+    "last_modified_date": "2024-05-17T14:14:09.687172+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has a problem:\r\nDENT IN THE LEFT SIDE OF THE IPHONE JUST TO THE RIGHT OF THE SIM CARD SLOT. THE SCREEN HAS MOTION AND COULD LEAD TO TOUCHSCREEN ISSUES.\r\nI BOUGHT IT IN SUPPOSEDLY EXCELLENT CONDITION, NOW I HAVE A PROBLEM SINCE I'M WITHOUT A PHONE UNTIL THIS ISSUE IS SOLVED.\r\nI THINK THERE'S NO REPAIR AS IT'S A CHASSIS ISSUE AND IF WE COULD FIND AN ALTERNATIVE SO I DON'T GET LEFT WITHOUT A PHONE THAT WOULD BE GRATEFUL.\r\nI HOPE FOR A RESPONSE.\r\nTHANK YOU\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and household appliances) to repair or replace the product, or 2 business days to make a refund if it's necessary.\r\nThe customer meets the following requirements to initiate the return:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that they have deleted their personal data\r\n\u2714 Has confirmed that they have the return label\r\n\u2714 Understands that they must include accessories and proof of purchase in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: once shipped, the seller has 3 business days (5 business days for laptops and household appliances) to repair or replace the item and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile \n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repair&lt;&lt;.\n\nPlease provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter. \n\nCustomer issue: The screen has movement which could cause touch screen problems\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nSarah from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BACK_COVER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

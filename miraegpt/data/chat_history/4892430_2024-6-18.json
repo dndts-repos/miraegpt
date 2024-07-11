@@ -1,0 +1,32 @@
+{
+    "sav_id": 4892430,
+    "last_modified_date": "2024-05-30T18:43:45.845995+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has the above issue:\nThe battery is very weak. I'd like to return the phone.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\n\nWhen none of the following issues apply or when they are not correctly communicated, we would like to ask you to carry out the refund within the next 12 hours, or we will refund the order on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected.\niCloud: https://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\n\nBest regards,\nEsra-Nur Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOUND_CHEAPER",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

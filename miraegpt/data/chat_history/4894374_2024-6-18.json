@@ -1,0 +1,28 @@
+{
+    "sav_id": 4894374,
+    "last_modified_date": "2024-05-31T13:45:59.565814+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has a problem as follows:\r\n\r\nHello,\r\nI ordered an item in \"perfect condition\".\r\nIt arrived quickly, well packed, without the original box.\r\n\r\nAfter unpacking I inspect it... it's not what I consider to be \"perfect condition\", there are two huge scratches on the edge =&gt; see attached photo.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe package has been delivered since June 3, the deadline has passed. Please reimburse the customer within 24 working hours, otherwise we will do it for you.\n\nIf you still have not received the package, please complete the attached document so that I can launch the investigation with the carrier.\n\nThank you for understanding,\nMarijo Georgelluca from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

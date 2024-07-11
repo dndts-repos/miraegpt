@@ -1,0 +1,28 @@
+{
+    "sav_id": 4862755,
+    "last_modified_date": "2024-05-19T16:24:26.373411+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy Galaxy S21+ 5G is having the following problem:\n Hello. Yesterday water spilled on my phone, and Today when I accidentally want to take photos and I can't enter the camera. And I found it a little open on the side of the camera.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\n\nThe customer has declared that their device is out of warranty because Water leaked onto my phone, and today when by chance I want to take photos and I can't get in front of the camera. And I found it a little open on the side of the camera.\n\nKind regards,\n\nClaver from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe are sorry to hear about this. However, as the customer mentioned that \"water leaked into the phone\", and hence leading to problems on the camera, the device is water damaged. According to the BackMarket Quality Charter 3.4.4, the seller contractual warranty doesn\u2019t cover when the item is oxidized. The device is hence out of warranty and we are unable to issue a return/ refund. Please assist the customer and kindly close the case if no further assistance is required.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

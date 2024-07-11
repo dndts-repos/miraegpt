@@ -1,0 +1,28 @@
+{
+    "sav_id": 4878977,
+    "last_modified_date": "2024-05-25T15:56:59.976875+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 Pro has the above problem: Why isn't my order neither shipped nor arrived? I had relied on a punctual delivery, as I needed it urgently. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nAccording to the shipment tracking, I see that you have not yet handed over the parcel to the carrier.\nPlease ship the device and provide the tracking number by 05/27/2014 or we will have to initiate the refund process\n\nRegards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate event. As a gesture of our commitment to customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

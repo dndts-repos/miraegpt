@@ -1,0 +1,52 @@
+{
+    "sav_id": 4900535,
+    "last_modified_date": "2024-06-03T13:23:36.704616+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 is experiencing the following problem:\nIs it possible to expedite my order as soon as possible? This is a very important gift\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nWhere is the shipment of the customer\u2019s package, please ?\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe're getting ready to ship the parcel and want to ensure everything's perfect. Can we quickly re-confirm the customer's address?\n\nYour satisfaction is our priority, and this small step helps us guarantee a seamless delivery experience. Just a moment of your time could prevent any delivery issues.\n\nThank you for your understanding and cooperation.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\nMy iPhone 12 is having the following problem:\nHello, the order should have left yesterday, do you have any news please? This is delaying everything...\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nMatthieu INGOLD\n53 rue joseph depierre 68700 Cernay, FRANCE.\n0780057556\n\nRegards,\n\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order is currently being shipped under the tracking number GH202902635JB. Here is the tracking link:\nhttps://www.chronopost.fr/tracking-no-cms/suivi-page?listeNumerosLT=GH202902635JB&amp;langue=fr_FR\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer. If the customer requires no further assistance, kindly close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

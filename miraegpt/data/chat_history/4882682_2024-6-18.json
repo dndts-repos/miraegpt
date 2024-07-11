@@ -1,0 +1,31 @@
+{
+    "sav_id": 4882682,
+    "last_modified_date": "2024-05-27T16:01:24.458260+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has the above problem:\r\n\r\nThe battery life doesn't meet my requirements.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe refund request has been processed.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

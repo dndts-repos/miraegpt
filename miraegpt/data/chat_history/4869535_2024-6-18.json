@@ -1,0 +1,67 @@
+{
+    "sav_id": 4869535,
+    "last_modified_date": "2024-05-22T11:05:51.387889+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has a problem:\nThe battery is not functioning as expected.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Ecomobile:\n\nIt is a pleasure to contact you.\n\nThe reason for my message is to inform you that the customer proceeded with the return of the phone, but the tracking link does not show updates.\n\nHere is the link: https://www.chronopost.fr/tracking-no-cms/suivi-page?listeNumerosLT=XJ335712367JF\n\nI would appreciate if you could provide me with the non-receipt document as soon as possible to proceed with an investigation to the carrier with the corresponding equipment.\n\nI look forward to your message and cooperation.\n\nRegards,\nJulieta from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are currently checking with our logistics partner regarding the receival of the parcel. In the meantime, kindly do not refund the customer. Thank you for your understanding and patience.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have not received the parcel. Attached is the CND.\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile:\n\nIt is a pleasure to greet you.\n\nThank you for providing the documentation.\n\nI want to inform you that the client is still in his term, and we are waiting for him to provide us with the documentation.\n\nWe will keep you informed\n\nRegards,\nJulieta from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will be awaiting for your reply. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello, ecomobile:\n\nI hope you are feeling well.\n\nWe are waiting for a response from the customer shortly we will inform you the next step.\n\nHave a nice day.\n\nSincerely\nDiego, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear BAckcare,\n\nWe take note of your message.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt; and we have seen that the device has been marked as delivered to you as of 05/06/2024, and in view of this, the two working days deadline for reimbursement has been met. \n\nThanks for your help in keeping our shared customers happy!\nJose Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

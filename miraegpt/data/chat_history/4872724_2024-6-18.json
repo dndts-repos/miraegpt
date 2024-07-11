@@ -1,0 +1,28 @@
+{
+    "sav_id": 4872724,
+    "last_modified_date": "2024-05-23T10:36:59.846265+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 mini has the above problem: \nThe provided address does not match. Now I've changed it but the package is already on its way to the wrong address.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile \n\nPlease send the device to the customer \n\nthe new address is: \n\nSimone Blomenkamp\nObstgartenweg 6\n69181 Leimen\nGermany\n\n\nRegards,\nHamza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will update our logistics partner with the new address, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

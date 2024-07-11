@@ -1,0 +1,28 @@
+{
+    "sav_id": 4892483,
+    "last_modified_date": "2024-05-30T18:59:34.673858+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Good day,\nMy iPhone 13 is experiencing the following problem:\nGood day, \nUpon opening the package, I noticed a scratch on the screen. Upon removing the protective film, I confirm that it's the screen. The attached photos prove that the product does not conform to the order placed. I chose the state 'perfect condition' to receive a new screen. However, what I received is not what I expected.\nI am requesting a refund for the product and cancellation of my old phone return.\nThank you in advance for any necessary actions taken.\nSincerely,\nMrs. Manon Collibeaux\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\n You have the return of the item in local svos for trace.\nThank you for doing the necessary for leremnursemeny\nThank you for helping us satisfy our customers\nJessica-Eleonore, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

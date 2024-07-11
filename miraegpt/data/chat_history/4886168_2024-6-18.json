@@ -1,0 +1,48 @@
+{
+    "sav_id": 4886168,
+    "last_modified_date": "2024-05-28T18:42:59.896363+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 is experiencing the following issue:\nHello, I was expecting my package to be delivered to my home initially, but I received a notification saying it couldn't be delivered when I was at home and the delivery person didn't contact me. Additionally, the package was later delivered to a different relay point than the one I had indicated. And towards the end of the afternoon when I went to pick it up, the phone wasn't inside and the box had been opened. I'm disoriented because my phone is essential for tomorrow's day; therefore, I would like another phone delivery as soon as possible and request a commercial offer from you due to the complete lack of seriousness in your delivery. I am completely disappointed with your services.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Bonjour,\n\nLe client pr\u00e9tend que le colis a \u00e9t\u00e9 livr\u00e9 vide. Nous avons demand\u00e9 le certificat de non-r\u00e9ception BM, des photos de l\u2019emballage, une photo de l\u2019\u00e9tiquette avec num\u00e9ro de suivi visible, des photos de l\u2019emballage \u00e0 l\u2019int\u00e9rieur (avec le produit re\u00e7u \u00e0 l\u2019int\u00e9rieur, le cas \u00e9ch\u00e9ant) et un rapport de police.\n\nUne fois que nous aurons rassembl\u00e9 tous les documents, nous vous ferons savoir si le client pr\u00e9f\u00e8re un remboursement ou une r\u00e9exp\u00e9dition. Le d\u00e9lai est de 24 heures \u00e0 compter de la r\u00e9ception des documents\n\nCordialement,\nMiora, service client Back Market.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our logistics partner about this situation. They have requested the following documents:\n\n1. Photographs of all four sides of the parcel. \n2. Photographs of all four sides of its contents. \n3. A clearer picture of the shipping label on the parcel. \n4. Handwritten BackMarket CND with the IMEI included.\n\n Kindly check with the customer if they left any comments on the delivery note as well.\n\nThank you for your assistance.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello\n\nThe package has not yet been successfully delivered, and all refund conditions described in our lost parcel policy have been met. All relevant documents were provided by the client and communicated as part of this conversation.\n\nYou can use the documents in detail to review the issue with your delivery company.\n\nPlease send a tracking link for a replacement within one business day, or this order will be refunded.\n\nYou can now block the device remotely, if possible.\n\nAll the best,\nMiora, Back Market Customer Service.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly inform the customer to keep the parcel. Also, please provide us with the necessary documents mentioned above:\n\n 1.A clearer picture of the shipping label on the parcel. \n\nPlease also check with the customer if they left any comments on the delivery note. These documents are essential to open an investigation. We seek your understanding and assistance.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer stated that the package was empty upon receipt. The documents necessary to open an investigation with the carrier are available in this after-sales service.\n\nThe customer wants a new shipment of his order, thank you to do the necessary within 24 hours and provide us a tracking number.\n\nRegards,\nJo\u00ebl, Back Market Customer Service.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we do not have enough stock to process a replacement. I have proceeded with a refund instead.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_EMPTY_PACKAGE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

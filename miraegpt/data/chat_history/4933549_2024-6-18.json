@@ -1,0 +1,32 @@
+{
+    "sav_id": 4933549,
+    "last_modified_date": "2024-06-14T20:49:45.418390+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has the following problem.\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Ecomible\n\nI hope you're having a great day!\n\nThis is Wilber from Back Market Customer Care\n\nWe wanted to let you know Jon hasn\u2019t received their order.\n\nThe tracking link doesn't work, so we\u2019re unable to check the package's location. The customer is waiting for their device.\n\nCan you let us know if the order was shipped, and under which tracking number?\n\nIn case the order was not shipped yet, please ship it and provide a valid tracking number, or refund the order under 1 business day.\n\nIf the order was already shipped, we\u2019ll need you to send us Proof of Handover within the next 2 business days. This will allow us to open an investigation with the shipping provider and compensate you for the lost item.\n\nFYI \u2014 We\u2019ll collect the paperwork from the customer and we will open a claim with the BackShip team, who will handle the investigation for you.\nWe'll let you know if the order needs to be reshipped or if it will be refunded. The deadline is 1 business day after we've received the documents.\n\nOnce we\u2019ve got all the paperwork, we\u2019ll let you know within one business day if the customer prefers a refund or a reshipment.\n\nIf the delivery starts moving again, a refund won\u2019t be issued, and the order will be considered late.\n\nLet us know if you have any questions or concerns \u2014 we\u2019ll keep an eye out for your reply.\n\nBest regards,\nWilber Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have cancelled the order and processed the refund.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOUND_CHEAPER",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4872881,
+    "last_modified_date": "2024-05-23T11:28:23.114821+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 mini has a problem:\nI have to charge it 2 or 3 times a day and I don't use it, for example, social media, only WhatsApp. I have a company phone and almost never call. I don't use GPS since I use my company's device. It charges completely in very little time and discharges quickly\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

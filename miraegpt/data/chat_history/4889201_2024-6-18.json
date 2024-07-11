@@ -1,0 +1,42 @@
+{
+    "sav_id": 4889201,
+    "last_modified_date": "2024-05-29T18:00:27.393214+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 product has the above problem:\nThe phone has shown since a few days ago that it has a 'non-genuine display' installed. Then, the phone went out and only started again after a factory reset, then went out and hasn't been able to start since. When plugging in the charging cable, there is no notification tone and the screen also shows nothing.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nWe confirm the receipt of the device, however after inspecting, we found that the iCloud account is still linked. Attached is the photo which shows the iCloud account. Please advise the customer to unlink the account before we can proceed with the nescessary actions.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\niCloud is off.\n\nRegards,\nAysu from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for unlinking the account, we will continue to process the device and get back to you shortly.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_UNCERTIFIED_COMPONENT",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

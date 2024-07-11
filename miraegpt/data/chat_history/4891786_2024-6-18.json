@@ -1,0 +1,28 @@
+{
+    "sav_id": 4891786,
+    "last_modified_date": "2024-05-30T15:37:06.122515+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has a problem:\r\nHello I would like to change the name of the bill\r\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThis is Laura from the Back Market team.\n\nThe customer contacted us because he needs the invoice, please generate it and send us in the next 24 business hours.\n\nThis is the customer data:  Carolina Gonzalez Guerra\n\nI will be attentive to your answer.\n\nHave a good day.\n\nRegards,\nLaura from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the invoice in this message. Do let me know if the customer still requires any further assistance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

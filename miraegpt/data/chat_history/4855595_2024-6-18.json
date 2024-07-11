@@ -1,0 +1,23 @@
+{
+    "sav_id": 4855595,
+    "last_modified_date": "2024-05-16T13:34:08.790570+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has the above problem:\n\nHello,\nThe phone was ordered in excellent condition, but one can definitely notice significant wear and tear. The real problem is the battery. It consumes too much power, even though the capacity is at 100%. Therefore, I request a refund.\n\nThank you very much.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

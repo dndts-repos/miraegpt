@@ -1,0 +1,43 @@
+{
+    "sav_id": 4868556,
+    "last_modified_date": "2024-05-21T21:12:27.137277+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 12 mini has the above problem: The package was apparently opened and resealed with brown adhesive tape. The seal of the inner, small packaging was damaged. Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Johanna,\r\n\r\nYou can find your return label attached to this message. Chronopost will handle your return. Simply drop off your package at a nearby drop-off location. You can find the list of locations here: \r\n\r\nTo prepare your return:\r\n1. Follow the instructions on how to return an item at <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">this link</a>.\r\n2. Don't forget to include any accessories that came with your product.\r\n3. Remove any existing protective covering or film.\r\n4. Package your product and its accessories according to the tips below.\r\n\r\nTo package the product:\r\n\u2022 The box should be sturdy and stable, with your product lying flat inside so it can't move during transit.\r\n\u2022 Attach the return label on top of the box (you can also attach a backup label inside the box in case the original one is lost or damaged).\r\n\u2022 Take photos of the package from both inside and out before you send it. This will protect you in case your product gets damaged during transit.\r\n\r\nYour return is now ready to be shipped! We'll let you know as soon as it arrives with us.\r\n\r\nBest regards,\r\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nAysu Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur repair team is currently processing the phone, we will take note this. Thank you for your patience.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer states that the case from another order was sent together with the phone by mistake. Can you check this and send the cover back to the customer?\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we were unable to find a case with the device. Kindly check with the customer if they are sure the case was delivered together with the device.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_PACKAGING_DAMAGED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

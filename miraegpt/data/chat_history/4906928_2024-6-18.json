@@ -1,0 +1,52 @@
+{
+    "sav_id": 4906928,
+    "last_modified_date": "2024-06-05T13:15:03.647094+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has the above problem.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\ni cant open the tracking link.\n\nCan you please send it again.\n\nThank you\n\nRegards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, please relay the following message to the customer. \n\nWe are so sorry that you are unhappy with our product, as your product is still in transit, our logistics partner has suggested you to do the following.\n\n1. Refuse the parcel when a delivery attempt is made.\n2. If unable to refuse a parcel, do not open the product packaging. Use the return label provided by BackMarket and send the device back immediately.\n\nBy doing the following, you would be sure to receive a much FASTER REFUND for this order. \n\nAttached is  the tracking link for your reference: https://www.ups.com/track?loc=de_de&amp;requester=QUIC&amp;tracknum=1ZBF1560D901191154/\n\nThank you.\nRegards, \nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe tracking link is not working.\n\nPlease check it\n\nRegards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have noticed this issue and brought it up with our logistics partner. We will rectify it and get back to you soon. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI will get back to you.\n\nPlease send me a valid and working tracking link today, otherwise we will have to initiate the refund at your expense\n\nRegards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe tracking link was unable to work as the order had been cancelled. We have refunded you the corresponding amount. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

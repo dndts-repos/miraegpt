@@ -1,0 +1,33 @@
+{
+    "sav_id": 4864970,
+    "last_modified_date": "2024-05-20T18:36:12.267149+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, I have a problem with my iPhone 12 Pro that occurred less than a year after purchase. The battery state is still in warranty and the maximum capacity is 78%. Since the product is still under warranty, I would like to request assistance regarding the issue found. Thank you\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Salve agente,\n\nIl venditore non pu\u00f2 elaborare la restituzione a causa del seguente problema:\nProdotto fuori garanzia.\nHa aggiunto ulteriori dettagli nel seguente messaggio: Dear Backcare,\n\nAccording to the BackMarket Quality Charter 3.4.2, the device is out of warranty. Please note that if the battery state is below 80%, the customer has to open the technical service request within 6 months of receiving their item. It has been almost a year since the customer receive their item on 24/05/2023. Hence, we would be returning the out of warranty device to the customer. I have attached a picture of the Quality Charter for your reference.\n\nKindly provide the customer's address in the following format:\n\nNAME\nADDRESS\nPOST CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nproceed to shipment in the next 24 business hours, or we will refund the order.\n\nThanks for understanding.\n\nBest regards,\nAndreia, from Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order is currently being shipped. The tracking number is 10084001710596.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

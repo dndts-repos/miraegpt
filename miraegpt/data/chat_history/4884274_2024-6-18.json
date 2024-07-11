@@ -1,0 +1,18 @@
+{
+    "sav_id": 4884274,
+    "last_modified_date": "2024-05-28T09:33:02.200353+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe package of the order 40747549 could be not delivered because the letter box is not accessible.\n\nPlease ask your customer to reschedule the delivery with the carrier.\n\nThank you.\n\nVal\u00e9rie DECAMPS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello, \n\nI hope you are well.\n\nThank you for your feedback and cooperation.\n\nI have just taken the necessary steps on my side and will keep you informed as soon as I have any new information.\n\nI wish you a pleasant day.\n\nBest regards,\nFifaliana from Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": []
+}

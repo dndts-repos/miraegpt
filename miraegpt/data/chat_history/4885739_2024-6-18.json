@@ -1,0 +1,27 @@
+{
+    "sav_id": 4885739,
+    "last_modified_date": "2024-05-28T16:45:46.571145+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has a problem:\r\nThe battery is faulty, the battery health is at 84%, instead of the 100% indicated, which I have been able to verify using the 3uTools program. It appears that the battery chip is reset and does not meet the minimum 85% guarantee that BackMarket ensures with all its devices. Therefore, I want a refund.\r\n\r\nThank you,\r\n\r\nWhen the seller receives the package, they have 3 working days (5 working days for laptops and household appliances) to repair or replace the product, or 2 working days to make a refund if necessary.\r\nThe customer must meet the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that they have deleted their personal data\r\n\u2714 Have confirmed that they have the return label.\r\n\u2714 Understands that accessories and purchase proof must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nRemember: once delivered, the seller has 3 days (5 days for laptops and household appliances) to repair or replace the article and 2 days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "sav_id": 4866914,
+    "last_modified_date": "2024-05-21T13:35:20.960490+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 Pro has a problem: It hasn't been sent yet and now it's cheaper. I want to match the price\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has a problem:\r\n\r\nIt was cheaper the next day. Additionally, it's a Japanese version and didn't specify. I don't want it.\r\n\r\nThank you,\r\n\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and appliances) to repair or replace the product, or 2 business days to make a refund if necessary.\r\nThe customer meets the following requirements for a return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water or suffered an impact or fall\r\n\u2714 Confirms that they have deleted their personal data\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that accessories and purchase receipt must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: Once delivered, the seller has 3 business days (5 business days for laptops and appliances) to repair or replace the item and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer makes the return, it is in its withdrawal period, please, once you receive the order, proceed with the refund.\n\nRegards.\nPaola from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will take note of this. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nTracking shows that you have received the order, please proceed to generate the refund to the customer, remember the deadline is 2 business days for the refund.\n\nRegards.\nPaola from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of the deadline.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nWe are waiting for you to generate the refund to the customer, please proceed with the refund since the deadline expires tomorrow at 11:00 am.\n\nRegards.\nPaola from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe phone seems to be locked with a code, could you kindly ask the customer for the code so that we can continue to process the device? In the meantime please do not refund the customer. Thank you for your understanding and patience.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur repair team managed to resolve the following issue and we have processed the refund.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOUND_CHEAPER",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        },
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "sav_id": 4926727,
+    "last_modified_date": "2024-06-12T16:37:28.455019+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has a problem:\nThe phone came with the broken screen I want a new phone\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there!\n\nThe customer claims that their device was delivered damaged. We have requested pictures of the outside of the package (with damages visible), a picture of the package label with the tracking number visible, a picture of the package showing the item inside, pictures of the packaging of the item received, and pictures of the damaged item (with damages visible) report.\n\n\nOnce we have all the paperwork, we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 1 business day after we've received the documents.\n\n\nAll the best,\nRosal\u00eda, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner. We await the relevant images from the customer and will proceed with the necessary actions once we have received them. Thank you for your cooperation. \n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nMay we confirm if the customer has left any comments on the delivery note. Please also ask the customer to keep the parcel first because the carrier may still need to conduct some investigations. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare, \nAny update??\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile, \n\ncustomer hasn't responded, \n\nWe are still waiting for customer pictures, \n\nI will keep you updated.\n\nRosal\u00eda, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease inform us once the customer has sent the relevant pictures.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

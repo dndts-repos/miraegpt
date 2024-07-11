@@ -1,0 +1,32 @@
+{
+    "sav_id": 4899070,
+    "last_modified_date": "2024-06-02T20:16:35.827195+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 11 Pro has the above problem:\r\nThe volume button hasn't been reliable since I received the device. It sometimes had a wobbly connection and worked temporarily, then stopped working again. For some time now, it doesn't work at all.\r\nI kindly request that you send me the device repaired.\r\nThank you and many best wishes!\r\n\r\nMany thanks for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair, the 07/06/2024. The delay to repair or exchange the product is 3 days for technical issue. Without an answer with a valid tracking link before the 14/06/2024 we will refund the customer.\n\nThank you for understanding,\nLuciana from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_BUTTON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "VOLUME_BUTTON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

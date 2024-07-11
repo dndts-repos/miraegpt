@@ -1,0 +1,46 @@
+{
+    "sav_id": 4887640,
+    "last_modified_date": "2024-05-29T11:25:30.997983+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy product is iPhone 13 and it has the above problem:\r\nI would like to change the delivery address. Siegesstr12, 80802 Munich\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has the above problem.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nPlease cancel the shipment and refund the customer within 24 hours.\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will contact our logistics partner to inform them of the cancellation of the order. In the meantime, kindly do not refund the customer. Thank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare, please relay the following message to the customer. \n \nDear customer,We are so sorry that you are unhappy with our product, as your product is still in transit, our logistics partner has suggested you to do the following.\n\n1. Refuse the parcel when a delivery attempt is made.\n2. If unable to refuse a parcel, do not open the product packaging. Use the return label provided by BackMarket and send the device back immediately.\n\nBy doing the following, you would be sure to receive a much FASTER REFUND for this order. \n\nHowever, if we may interrupt, if this change of mind is due to a cheaper alternative found, we are able to offer you a commercial gesture of 20 euros instead. \n\nThank you.\nRegards, \nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

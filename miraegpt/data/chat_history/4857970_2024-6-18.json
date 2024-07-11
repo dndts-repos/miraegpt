@@ -1,0 +1,28 @@
+{
+    "sav_id": 4857970,
+    "last_modified_date": "2024-05-17T09:32:40.033202+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy Galaxy S21 Ultra 5G has the above problem:\n\nHello, I haven't received an invoice yet. I urgently need the purchase date from the previous owner due to a insurance damage claim. Someone dropped this phone, and unfortunately the display is broken and the insurance only pays for the depreciation value. In the assessment, it's assumed that the phone is over 36 months old. To determine the correct depreciation value, I need the invoice and the purchase date or evidence of the first use. The repair costs exceed the current depreciation value of \u20ac260. I hope you can help me further and have the necessary information for me. I would like to thank you in advance for your efforts. Best regards, Anja Degens\nPS: The phone (which I had been saving up for a long time) was delivered as described and I was thrilled.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\ncustomer asks if they have the invoice from the previous owner. This is needed because of an insurance claim.\n\nOtherwise, please send the invoice for this order as a PDF.\n\nThank you for understanding,\nGul-Figen from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttatched is the invoice for this order.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_UNAVAILABLE",
+            "tag": "INVOICE"
+        }
+    ]
+}

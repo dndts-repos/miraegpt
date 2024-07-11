@@ -1,0 +1,13 @@
+{
+    "sav_id": 4918446,
+    "last_modified_date": "2024-06-10T04:36:49.724774+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe parcel with tracking number 1ZBF1560D901191298 - 41082702 could not be delivered due to an incorrect or incomplete address.\n\nPlease provide us with the correct address, the recipient's name, and phone number. Alternatively, you may ask the carrier to reschedule the delivery.\n\nThank you.\n\nRegards\nMandi Xhaferaj",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

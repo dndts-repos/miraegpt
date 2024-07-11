@@ -1,0 +1,37 @@
+{
+    "sav_id": 4864230,
+    "last_modified_date": "2024-05-20T13:51:16.169693+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 has the following issue.\r\n\r\nThanks,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and home appliances) to repair or replace the product, or 2 business days to process a refund if necessary.\r\n\r\nThe customer must meet the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall.\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that accessories and purchase receipts must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nRemember: once delivered, the seller has 3 days (5 days for laptops and home appliances) to repair or replace the item and 2 days to process a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you're having a great day!\n\nThis is Wilber from Back Market Customer Care\n\nOur customer has asked for a refund, regarding that you have not sent the device, I was wondering if you couldn't ship this device and just process with the refund as a customer's solution.\n\nThanks for your matters!\n\nBest regards,\nWilber Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will contact our logistics partner to inform them of the cancellation of the order. In the meantime, kindly do not refund the customer. Thank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

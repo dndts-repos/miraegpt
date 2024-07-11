@@ -1,0 +1,33 @@
+{
+    "sav_id": 4904691,
+    "last_modified_date": "2024-06-04T18:06:28.533842+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 Pro is experiencing the issue above.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there!\n\nThe customer claims that their device was delivered damaged. We have requested pictures of the outside of the package (with damages visible), a picture of the package label with the tracking number visible, a picture of the package showing the item inside, pictures of the packaging of the item received, and pictures of the damaged item (with damages visible) report.\n\nOnce we have all of the paperwork we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 1 business day after we've received the documents.\n\n\nAll the best,\nPaul, Back Market Customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the documents.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer informed us that after cleaning the phone, it turns out that there are no scratches and he keeps his smart phone.\n\nRegards,\nMirana from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "sav_id": 4886201,
+    "last_modified_date": "2024-05-28T18:52:30.621217+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 mini has the above issue.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nRabia Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device was purchased in GOOD condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return. \nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a ? euros deduction is reasonable which indicates that the customer receives a partial refund of 40 euros. Kindly confirm with the customer if this is agreeable.\nThank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nPlease arrange for a full refund.\nThe customer reported the defect immediately. See photos of the customer.\n\nIf you don't refund the money within 24 hours, I have to refund it.\n\nRegards,\nRabia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

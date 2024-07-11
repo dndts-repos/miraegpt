@@ -1,0 +1,33 @@
+{
+    "sav_id": 4868295,
+    "last_modified_date": "2024-05-22T11:01:16.538384+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 is experiencing the following problem:\nThe phone has not been delivered, although it's declared as delivered. Instead, I just received an envelope with all the elements for sending back the old phone.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI am Dieu Donn\u00e9, I hope you are well.\n\nI would like to inform you that the recipient of this order claims not to have received it, although the tracking shows that it has been delivered.\n\nI have asked the customer to look for the parcel in case it has been delivered to a neighbour or family member. If they cannot find the parcel, I have asked them to provide the certificate of non-receipt and their ID.\n\nPlease send me a proof of delivery (POD) with the customer's signature, or a photo of the parcel given to the customer, within 48 hours.\n\nPlease note that a POD without a signature will not be taken into account.\n\n- If the POD is provided, a police report will be requested from the customer to process the claim.\n- If no POD is provided within 2 working days: only an identity document + a certificate of non-receipt will be required.\n\nIf the parcel is lost and the customer has provided all the necessary documents, they can choose between a refund or reshipment.\nIf the order cannot be found and the customer chooses a replacement, are you able to send one?\nIf not, we will arrange a refund.\n\nOnce the loss has been confirmed, we recommend that you block the device, if possible - I will remind you of this in due course.\n\n\nBest regards,\nDieu Donn\u00e9 from the BackCare team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner regarding the situation and are awaiting their reply. In the meantime may we ask for a handwritten CND with the IMEI of the device, 358184147946677, written on it?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD. If the customer wishes to contest, kindly send us the necessary documents. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "sav_id": 4886898,
+    "last_modified_date": "2024-05-28T23:12:46.911302+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 13 has the above problem:\nWhen inserting the charging cable, wobble contact in the charging socket. This leads to the phone being very difficult to charge, as the contact is lost.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe customer initially purchased two phones, can we check with the customer that he only wishes to send back this phone only for repair/replacement? Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nUnfortunately, I do not understand your message.\n\nThe customer has returned a device with the following order number 40484917 and would like to receive an exchange.\n\nRegards,\nAngelica from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe noticed that the customer ordered two iPhone 13 devices, one in red and one in starlight. So far, we have only received the red iPhone from the customer. Hence, we are only confirming whether if the customer intended to return just the red phone. Your assistance is greatly appreciated. Thank you for your cooperation.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nOnly the iPhone 13 256GB - red\n\nRegards,\nAngelica from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of this. We will proceed with the necessary actions soon. In the meantime, please do not refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair/exchange the 05/06/2024. \n\nThe delay to repair or exchange the product is 3 days for technical issue. \n\nWithout answer with a valid tracking link before the 12/04/2024 we will refund the customer.\n\nThank you for understanding,\nAngelica from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

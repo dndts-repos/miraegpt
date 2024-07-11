@@ -1,0 +1,28 @@
+{
+    "sav_id": 4926700,
+    "last_modified_date": "2024-06-12T16:27:53.851948+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 mini has the above problem: All inputs are very dirty. Both speakers on the front and bottom speakers as well as the charging port\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe have carried out a commercial gesture of \u20ac80 on your behalf to the customer. \n\nIndeed, according to our quality charter, the customer is entitled to this type of compensation because of grade issue.\n\nThank you for your understanding.\n\nBest Regards,\nAstrid of Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThis is not a grade issue as the appearance of the device is not altered and can be resolved. \n\nCould you please request the customer to try to brush the device with a toothbrush and alcohol to resolve the issue in hopes to resolve the issue on their end?\n\nPlease let us know if the issue persists.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

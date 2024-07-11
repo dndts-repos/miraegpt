@@ -1,0 +1,38 @@
+{
+    "sav_id": 4927291,
+    "last_modified_date": "2024-06-12T19:07:23.370384+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy product iPhone 13 Pro has the above problem:\r\nThe package was delivered privately to Ehrmann according to the UPS tracking. At that time, no one was at home to accept the package. You will receive a proof from the UPS side in an annex. The delivery confirmation cannot be downloaded as there is none.\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID, ---- ONLY IF THE ORDER IS AN IPHONE 12/13/14 (to remove) --- along with a proof of address.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\ndnr:\n\nRegards,\nAysu from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner regarding the issue. In the meantime please request a picture of the back of the cutomer's ID.\n\nThank you\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur logistics partner informed us that the customer has received the parcel. Kindly confirm with the customer if this is true. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_SIGNED_BY_SOMEONE_ELSE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

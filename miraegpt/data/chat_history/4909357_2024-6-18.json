@@ -1,0 +1,38 @@
+{
+    "sav_id": 4909357,
+    "last_modified_date": "2024-06-06T08:30:27.413783+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 Pro is having the following issue:\nI still haven't received my phone and I haven't gotten any updates. I wanted to know where the problem was. Thank you\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe package is delivered on 06/06/24.\n\nWhile the package is not even shipped yet.\n\nNot even a tracking number.\n\nRegards,\n\nFran\u00e7ois from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped out the device to the customer.\n\nHere is the tracking number: 10694000320660\n\nPlease note that as the courier has just picked up the parcel, it might take a while before it is accurately displayed on their website.\n\nIn the meantime please do not refund.\n\nIf you initiate a refund while the product is being shipped, we will lodge a case with SSC.\n\nRegards,\nHB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device has been delivered to the customer according to the tracking link provided. If the customer does not require any further assistance, please close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer has received the package.\n\nThe ticket is solved.\n\nRegards,\n\nFran\u00e7ois from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

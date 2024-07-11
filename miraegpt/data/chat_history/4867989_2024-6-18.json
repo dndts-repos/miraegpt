@@ -1,0 +1,28 @@
+{
+    "sav_id": 4867989,
+    "last_modified_date": "2024-05-21T18:11:59.390325+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 5G is having the following issue:\n\nHello,\nIt would be necessary to add on the invoice VAT FR53 983 1080 44\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer would like you to add this VAT number to his invoice: FR53 983 1080 44.\nPlease send it to us.\nRegards,\nGbadia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the invoice to this message.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4882650,
+    "last_modified_date": "2024-05-27T15:53:16.308203+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 is experiencing the following problem:\r\n\r\nmy package tracking does not show up, I did order it about a week ago.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped out the device to the customer.\n\nHere is the tracking number: 10694000292284\n\nPlease note that as the courier has just picked up the parcel, it might take a while before it is accurately displayed on their website.\n\nIn the meantime please do not refund.\n\nIf you initiate a refund while the product is being shipped, we will lodge a case with SSC.\n\nRegards,\nHB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4872181,
+    "last_modified_date": "2024-05-22T23:21:46.840542+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has the above problem:\nThe phone was purchased in a condition of 'Excellent, screen like new. No scratches.'\nThe phone was delivered with a display film and looked okay otherwise.\nUnder the film were two massive scratches, about 5mm long, hidden alongside some smaller ones.\nI don't understand how something can be sent as excellent with such damage. The phone was urgently needed. All the hassle of returning it is very frustrating and would have been completely unnecessary if the phone had been correctly declared. Then I definitely wouldn't have chosen it. My previous Apple devices purchased from BackMarket were all delivered without a display film, which gave me confidence that the condition reports are always serious. Since this wasn't the case, I will be returning the phone and expecting a refund of the purchase price.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nAysu Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

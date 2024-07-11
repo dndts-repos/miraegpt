@@ -1,0 +1,53 @@
+{
+    "sav_id": 4864057,
+    "last_modified_date": "2024-05-20T12:49:34.271968+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21+ 5G has a problem:\nThe screen started flashing white, even when the phone is turned off. It seems that the phone works fine and everything else is correct. Nothing has been hit or anything, so maybe something just got out of alignment. Thank you.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Eduardo:\n\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a place that is comfortable for you to send your package. You can find a list of delivery points here: https://www.seur.com/en/busqueda-tiendas.do\n\nPreparing Your Return:\n1. <a target='_blank' href='https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions'>Check the instructions on how to return a product</a>\n2. Don't forget to include any accessories that came with your article\n3. Remove any protective film or screen protector it has\n4. Package your article and its accessories following these guidelines\n\nPackaging Your Article:\n\u2022 The box must be strong and resilient. You should place your article safely inside the box so it doesn't move during transportation.\n\u2022 Attach the return label to the top of the box (you can also add an additional label on the inside to help identify your shipment if the original label peels off or becomes damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case your article is damaged during transportation.\n\nYour return is ready for shipping! We'll let you know when it arrives.\n\nBest regards,\nThe Customer Service Team at Back Market, The Customer Service Team at Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nOtros.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nIn the event that our repair team is unable to fix the issue, we are more than willing to offer a refund to the customer. \nHowever, the device was purchased in EXCELLENT condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the back of the device is damaged upon return. \nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has been damaged upon return, the grade is degraded to a FAIR condition.\n\nHence, a 60 euros deduction to the refund is reasonable. Kindly confirm with the customer if this is agreeable.\nThank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile \n\nUnfortunately, deduct money of the full refund, is no longer possible, now! \n\nPlease, contact with the SSC, and refund the order.\n\nSincerely, \nManuel from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nOtros.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nThe device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the shell. The customer has had the device for almost a year. This suggests that he was satisfied with the device condition upon receipt.\n\nThe phone also had visible scratches before the customer returned the device to us, as seen in the photos attached by them. As such the grade is degraded to a FAIR condition.\n\nHence, a \u20ac60 deduction will be made in the event our repair team is unable to fix the device. Please check with the customer on this.\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their full refund, since we cannot deduct money by grade discrepancy. \n\nPlease provide it, customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\n\nSincerely, \nManuel Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team was unable to resolve the issue.\n\nHowever as mentioned above, the device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the shell. The customer has had the device for almost a year. This suggests that he was satisfied with the device condition upon receipt.\n\nThe phone also had visible scratches before the customer returned the device to us,. As such the grade is degraded to a FAIR condition.\n\nHence,we are unable to offer a full refund and a \u20ac60 deduction will be made. Please check with the customer on this.\n\nThank you.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded \u20ac355,00 to the customer, given that you couldn't repair or replace the device.\n\nPlease contact with the SSC, if necessary.\n\nKind regards, \nManuel from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

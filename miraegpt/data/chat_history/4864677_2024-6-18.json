@@ -1,0 +1,61 @@
+{
+    "sav_id": 4864677,
+    "last_modified_date": "2024-05-20T16:46:18.757124+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 has a problem:\nThe phone heats up and drains the battery quickly. When I use it minimally, the screen starts to malfunction (due to overheating) and minimized windows of the screens I have open appear.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Dani:\nYou'll find the return label attached to this message. Chronopost will process your return. Please choose a location that's convenient for you to send your package. You can find a list of drop-off points here: https://www.seur.com/en/busqueda-tiendas.do\n\nPreparing Your Return:\n1. Check out the instructions on how to return a product <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Don't forget to include any accessories that came with your item\n3. Remove any protective case or screen protector it may have\n4. Package your item and its accessories following the guidelines below\n\nPackaging Your Item:\n\u2022 The box should be sturdy and resistant. You must place your item securely inside the box so it doesn't move during transit.\n\u2022 Attach the return label to the top of the box (you can also add a supplemental label on the inside to help identify your shipment in case the original label peels off or gets damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case your item is damaged during transportation.\n\nYour return is ready for shipping! We'll notify you when it arrives.\nBest regards,\nThe Customer Service Team at Back Market, The Customer Service Team at Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hi Ecomobile,\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repair&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"\"Report a Problem\"\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n2. In case of a user account (e.g. iCloud, Google) still connected:\niCloud:\nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\u279c Please provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, tomorrow at morning, according to the Back Market Quality Charter.\nThanks for your help in keeping our shared customers happy!\nJhon From Back Market Customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_OTHER_ISSUE",
+            "tag": "ACCESSORIES"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_NOT_CHARGING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_WARM_OR_INFLATED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CALLING_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "ITEM_GETS_HOT",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

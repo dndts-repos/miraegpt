@@ -1,0 +1,37 @@
+{
+    "sav_id": 4898179,
+    "last_modified_date": "2024-06-02T12:43:49.775799+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 mini has the above problem:\nThe Face ID on my iPhone stopped working two weeks ago. It wasn't possible to unlock my phone using Face ID after turning it on. I visited an Apple Store, where they told me this was a problem with the True Depth camera. Now my question is whether you could help me further since I still have warranty on my device and don't necessarily need Face ID.\nBest regards Lucie Butenandt\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Lucie,\n\nYou can find your return label attached to this message. Chronopost will handle your return. Just drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nTo prepare your return:\n1. Follow the instructions on how to return an item: <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Don't forget to include any accessories that came with your product.\n3. Remove any existing protective cover or film.\n4. Package your product and its accessories according to the tips below.\n\nTo package your product:\n\u2022 The box should be sturdy and stable, with your product lying flat so it won't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside for identification in case the original label is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before sending it. This will protect you in case your product is damaged during transport.\n\nYour return is now ready to be dropped off! We'll notify you when it arrives at our location.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\nsend device to : Bahnhofstr. 2 35037 Marburg.\n\n\n\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nRicardo-Filipe Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_UNCERTIFIED_COMPONENT",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

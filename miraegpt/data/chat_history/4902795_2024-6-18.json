@@ -1,0 +1,52 @@
+{
+    "sav_id": 4902795,
+    "last_modified_date": "2024-06-04T09:12:31.465259+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 13 mini with the above problem:\nThe phone sometimes doesn't react and the screen is blurry. The phone needs to be turned off and restarted. Calls drop in mid-conversation - no sound. The purchased phone does not meet the product description - according to my order.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for 40073456 the 06.06.2024. The delay to repair or exchange the product is 3 days for technical issue. Without answer with a valid tracking link before the 13.06.2024 we will refund the customer.\n\nThank you for understanding,\nRabia from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_INCALL",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "OTHER_BUTTON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SCREEN_BLACK",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SCREEN_MULTITOUCH",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SCREEN_NO_VIBRATION_FEEDBACK",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

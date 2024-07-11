@@ -1,0 +1,23 @@
+{
+    "sav_id": 4919505,
+    "last_modified_date": "2024-06-10T13:40:18.262620+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has the above problem:\r\n\r\nHello Backmarket Team,\r\n\r\nI have a problem with my iPhone. I bought it in excellent condition, as described on your homepage, where external damage is only noticeable at a maximum distance of 20cm without magnification.\r\nThe iPhone arrived at my place on Thursday. The excitement was, of course, great. Yesterday, something fell off my phone. I was very surprised. Both lenses of the rear camera were equipped with small protective caps. Underneath, there were clear signs of wear and tear. I wouldn't describe it as excellent condition. These scratches can be seen even when viewed from at least one meter away.\r\nI'm very disappointed that I paid a lot of money for a device and then as the seller tried to hide this damage.\r\n\r\nI would like you to take steps to compensate me accordingly and refund part of the costs.\r\nThe scratches can be seen in the attachment.\r\n\r\nBest regards,\r\nFemke Lorenzen\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 60\u20ac to the customer for grad discrepancy.\n\nKind regards, \nClaudia from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

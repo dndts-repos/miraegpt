@@ -1,0 +1,38 @@
+{
+    "sav_id": 4924936,
+    "last_modified_date": "2024-06-12T06:34:05.160326+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe package of the order 41178979 could be not delivered because your customer refused the parcel.\n\nWhat should the carrier do with this parcel?\n\nThank you.\n\n\nVal\u00e9rie DECAMPS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe carrier must send it back to you, on receipt of the parcel please refund the order\n\nKind regards,\n\nGacebe-Yann-Emmanuel from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe are currently awaiting the arrival of the parcel. In the meantime, please do NOT refund the parcel. \n\nThank you.\n\nRegards, \nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Bakcare,\n\nThe carrier informs us that the customer asked a delivery in a pick up point. Can you check it out please?\n\nCould you kindly ask what he wants to do?\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Le client souhaite une livraison au point relai.\n\nMerci de confirmer cela.\n\nBien cordialement,\nMiora, Service client Back Market.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel has been delivered to the pickup point. KIndly confirm if the customer has received it. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

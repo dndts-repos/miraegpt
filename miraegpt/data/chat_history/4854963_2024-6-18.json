@@ -1,0 +1,23 @@
+{
+    "sav_id": 4854963,
+    "last_modified_date": "2024-05-16T10:29:54.854732+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product Galaxy S23+ has the above problem:\nWhen I got my phone, there were no sub-options under Phone settings for WLAN calls, Mailbox, and Additional services (see photo). As a result, it's not possible to transmit a phone number.\nPlease respond quickly and provide repair or replacement if necessary.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAN_NOT_SETUP_PAIR",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

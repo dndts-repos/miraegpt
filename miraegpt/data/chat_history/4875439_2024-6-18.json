@@ -1,0 +1,53 @@
+{
+    "sav_id": 4875439,
+    "last_modified_date": "2024-05-24T08:36:14.818095+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 Pro has a problem:\r\n\r\nGood morning, the order still doesn't have a delivery date and it should've arrived by now. Is there any way to find out when it will arrive? I need to return another one that I bought because of a screen issue and days are passing\u2026\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nMaria - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\nPlease send a tracking link for a replacement within 24 hours or this order will be refunded\n\nYou can now blacklist the device.\n\nBest regards,\nMaria - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for the documents. We will contact our logistics partner. In the meantime, please do not refund the customer. Thank you for your patience and understanding.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;new device&lt;&lt;.\n\nRemember, the customer does not have to wait until the investigate finish.\n\nPlease send the new device and send us a valid tracking link and the carrier name, sends the new IMEI as well within 1 business day. Remember that if you do not send a valid tracking link in a message to us, it is as if you did not send it since we can not verify, and according to the QC, we have to refund.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nMaria Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have forwarded the relevant documents to our logistics partner and await confirmation that the parcel is truly lost. In the meantime, please confirm the customer's address:\n\nNoem\u00ed Aldana Vilalta\nC/ de l'alf\u00e0brega, 14, 2-2\n43206 Reus\nSpain\n644 24 26 17\n\nWe will check if we have sufficient stock to send a replacement.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI hope you are having a great day, This is Maria from Back Market.\n\nThe customer confirms her address:\n\nNoem\u00ed Aldana Vilalta\nC/ de l\u2019alf\u00e0brega, 14, 2-2\nReus - 43206\n644242617\n\nPlease send it within 1 business day.\n\nThanks so much for your assistance, we wait for your reply. \n\nRegards,\nMaria from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of the customer's address, we will update you soon.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

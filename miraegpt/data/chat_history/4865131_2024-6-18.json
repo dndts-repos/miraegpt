@@ -1,0 +1,27 @@
+{
+    "sav_id": 4865131,
+    "last_modified_date": "2024-05-20T19:34:24.892473+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has the above problem:\r\n\r\nDear Sirs and Madams,\r\n\r\nI purchased an iPhone 13 from you.\r\nUnfortunately, I need to return the device due to personal reasons. Here are the details of the device:\r\nModel: iPhone 13\r\nColor: Gold\r\nStorage size: 256 Gb\r\nPlease let me know the procedure for returning the item. I would like a prompt processing of my request.\r\nThank you very much for your support.\r\nBest regards,\r\nHossein Abdollahi\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe refund has been processed.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "sav_id": 4885660,
+    "last_modified_date": "2024-05-28T16:21:27.285494+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has a problem:\nThe battery health is at 86% while I expected much more since it was purchased in Excellent condition.\n\nThank you,\n\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and appliances) to repair or replace the product, or 2 business days to make a refund if necessary.\nThe customer meets the following requirements to process the return:\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\n\u2714 Confirms that all personal data has been deleted\n\u2714 Has confirmed that they have the return label\n\u2714 Understands that accessories and purchase receipt must be included in the return package.\n\u2714 Understands that they have 14 days to use the return label.\n\nRemember: Once delivered, the seller has 3 days (5 business days for laptops and appliances) to repair or replace the item and 2 days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer requests a refund, has changed his mind, is in his withdrawal period and wants a refund.\n\nRegards.\nPaola from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nEl art\u00edculo est\u00e1 bloqueado por un c\u00f3digo o patr\u00f3n.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nThe phone is locked with a code. Kindly assist the customer in unlocking their device or we will not be able to proceed with the refund. Thank you for your understanding and cooperation.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

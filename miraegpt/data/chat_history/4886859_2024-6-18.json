@@ -1,0 +1,42 @@
+{
+    "sav_id": 4886859,
+    "last_modified_date": "2024-05-28T22:55:21.965244+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has a problem:\r\n\r\nThe battery lasts less than expected.\r\n\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Luc\u00eda:\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a location that is most convenient for you to send your package. You can find a list of drop-off points here: https://www.seur.com/en/busqueda-tiendas.do\nReturn Preparation:\n1. Check the instructions on how to return a product.\n2. Do not forget to include any accessories that came with your item.\n3. Remove any protective film or screen protector that it has.\n4. Pack the article and its accessories following these guidelines.\nPacking Instructions for the Article:\n\u2022 The box must be strong and resistant. You should place the article safely inside the box so that it does not move during transportation.\n\u2022 Stick the return label on top of the box (you can also add an additional label on the inside to help identify the shipment in case the original label peels off or gets damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case the article is damaged during transportation.\nThe return is ready for shipping! We'll let you know when it arrives.\nBest regards,\nBack Market Customer Service, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has a problem:\nThe battery drains too quickly.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nPlease provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter. \n\nThanks for your help in keeping our shared customers happy!\nPaula Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4875651,
+    "last_modified_date": "2024-05-24T10:12:05.026813+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has the above issue: I accidentally entered the wrong postal code and city. I've changed it in the account now. Can they still change the delivery address? Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\n\nPlease send the device to this Address:\n\nTuttlinger Stra\u00dfe 14\n80686 M\u00fcnchen\n\n+4915901392783\n\nRegards,\nAysah, from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will update our logistics partner with the new address, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "sav_id": 4881264,
+    "last_modified_date": "2024-05-27T05:21:55.719825+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Dear Backcare,\n\nThe customer's parcel has been at a pickup point since 15/05. Please ask the customer to pick up their parcel or it will be returned to us. Thank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease disregard the previous message.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

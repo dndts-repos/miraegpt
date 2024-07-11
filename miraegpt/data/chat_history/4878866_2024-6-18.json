@@ -1,0 +1,28 @@
+{
+    "sav_id": 4878866,
+    "last_modified_date": "2024-05-25T15:02:25.274823+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has a problem:\r\nI need to change the billing address of the bill\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nOur customer opened a new request, because he wants a modification of the invoice for this order.\n\nCould you please add the next information to the invoice?\n\n\u2726 CIF (Company identification): B83658898\n\n\u2726 Company name: Administraciones Arroyo SL\n\n\u2726 Address: C/ R\u00edo Jarama 11 28924 M\u00f3stoles, Madrid\n\nI appreciate your support.\n\nRegards,\nLinda from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have updated the invoice and attached it to this message. Do let me know if the customer still requires any further assistance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

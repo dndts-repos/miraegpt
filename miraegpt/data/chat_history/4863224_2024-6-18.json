@@ -1,0 +1,28 @@
+{
+    "sav_id": 4863224,
+    "last_modified_date": "2024-05-19T21:53:25.907984+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my Galaxy S22 Ultra 5G has a problem:\r\nSince receiving the terminal, the connection to the network has been bad or zero. The service falls and remains without internet connection. I've updated the terminal, changed the SIM card for a new one, and performed a factory reset on the terminal without achieving any improvement.\r\nThanks,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and appliances) to repair or replace the product, or 2 business days to issue a refund if it proceeds.\r\nThe customer meets the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that all personal data has been deleted\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that accessories and purchase receipt must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: once delivered, the seller has 3 business days (5 business days for laptops and appliances) to repair or replace the item and 2 business days to issue a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile.\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repair&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: https://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nPlease provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter. \n\nThanks for your help in keeping our shared customers happy!\n\nRegards,\nJuan-Pablo Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we are unable to repair the device and we do not have enough stock to process an exchange. I have proceeded with a refund instead.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

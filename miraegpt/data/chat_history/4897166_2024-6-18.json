@@ -1,0 +1,52 @@
+{
+    "sav_id": 4897166,
+    "last_modified_date": "2024-06-01T17:01:04.179257+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is experiencing the issue above.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the cancellation of the order. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI'm really sorry, but the customer wants to receive the order after all.\n\nRegards,\nCedric-Bonaventure from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nI'm really sorry, but the customer wants to receive the order after all.\n\nRegards,\nCedric-Bonaventure from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped it out. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped out the device to the customer.\n\nHere is the tracking number: 10694000318600\n\nPlease note that as the courier has just picked up the parcel, it might take a while before it is accurately displayed on their website.\n\nIn the meantime please do not refund.\n\nIf you initiate a refund while the product is being shipped, we will lodge a case with SSC.\n\nRegards,\nHB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device has been delivered to the customer according to the tracking link provided. If the customer does not require any further assistance, please close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

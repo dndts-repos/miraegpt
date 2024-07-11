@@ -1,0 +1,28 @@
+{
+    "sav_id": 4900949,
+    "last_modified_date": "2024-06-03T15:04:01.756657+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product Galaxy S21 Ultra 5G has the above problem:\r\nCharging port defective, plug comes out at slightest movement.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nYou received this device for a repair on 06.06.2024.\n\nWe remind you that the processing time for those cases is 3 working days.\n\nWe confirm that the address at which you should send back the device to the customer is the following:\n\nAddress: Jaspersweg 8\nCity: Bielefeld\nCode: 33659\nCountry: Deutschland\n\nPlease provide the tracking link in this interface when the device has been shipped back to the customer. \n\nI will come back to this SAV on 14.06.2024. \n\nIf you are unable to handle this device because of a warranty exclusion or a user account still activated, please let us know so that we can assist you. \n\nAs a reminder, failure to do so will lead to a refund of the customer in accordance with our Quality charter.\n\nRegards,\nLibania from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

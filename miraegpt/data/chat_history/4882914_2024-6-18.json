@@ -1,0 +1,28 @@
+{
+    "sav_id": 4882914,
+    "last_modified_date": "2024-05-27T17:08:21.225929+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has the above problem:\n\nHello, I have noticed very strong wear and tear on the camera at the casing.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile \n\n\nCould you please do a partial refund of \u20ac60 because the customer didn't receive the product in the right grade?\n\nRegards,\nAna from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe are truly sorry that we are not able to provide the customer with a satisfactory outcome. Hence, we have provided a 60 euros commercial gesture to the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BACK_COVER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

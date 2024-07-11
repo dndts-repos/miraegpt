@@ -1,0 +1,23 @@
+{
+    "sav_id": 4882034,
+    "last_modified_date": "2024-06-03T22:30:08.804914+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product iPhone 12 Pro has the above problem:\r\nThe phone initially flashed green and then shut off. When charging, it still made a charging sound. However, the screen was black and the phone could no longer be turned on. At the store, I was told that the screen is broken.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

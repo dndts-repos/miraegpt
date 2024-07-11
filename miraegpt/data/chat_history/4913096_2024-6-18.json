@@ -1,0 +1,38 @@
+{
+    "sav_id": 4913096,
+    "last_modified_date": "2024-06-07T12:38:03.725991+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 Pro has the above problem: Hello, the invoice I received is not correct. The total amount is okay, but the rest is not understandable and the applicable sales tax. I kindly request a correction! Many thanks for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe customer's invoice has errors, please fix it, the price of the product is not correct. \n\nPlease see attached invoice\n\nRegards,\nOktay from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe apologise for the inconvenience caused. Atttached is the corrected invoice. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nUnfortunately, the invoice is wrong again. Now the sums are correct, but not the invoice address. It must contain the company name (as before): solutionsense OHG, Wundtstr. 10, 14059 Berlin\n\nRegards,\nRabia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe apologise for the inconvenience caused. Attached is the correct invoice. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

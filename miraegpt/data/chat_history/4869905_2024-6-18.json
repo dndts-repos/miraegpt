@@ -1,0 +1,23 @@
+{
+    "sav_id": 4869905,
+    "last_modified_date": "2024-05-22T12:48:48.158436+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy product iPhone 13 has the above problem:\nThe condition of the article is not 'Excellent', with several visible scratches. Furthermore, the display is covered with fingerprints. That's not very professional. I would accept the optical condition if you could offer me a 10% discount. Best regards\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we will refund \u20ac60 to the customer for aesthetic discrepancy.\n\nKind regards, Diogo from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

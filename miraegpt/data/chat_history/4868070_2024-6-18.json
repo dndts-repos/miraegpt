@@ -1,0 +1,48 @@
+{
+    "sav_id": 4868070,
+    "last_modified_date": "2024-05-25T18:17:46.909203+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 mini has the above problem: Hello, according to tracking (see proof of delivery in the appendix) the package was delivered to me today. This is definitely not the case! I haven't had a UPS employee at the door, nor has a package been left with us. This is now the third time the package hasn't arrived! An absolute absurdity, apart from the effort involved in this annoying correspondence. And so much said beforehand, I will not fill out and sign a third inquiry request! Clarify the situation with UPS and please refund promptly, otherwise I'll dispute it at PayPal.\n\nThank you!\nJoachim Ax\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID, ---- ONLY IF THE ORDER IS AN IPHONE 12/13/14 (to remove) --- along with a proof of address.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have updated our logistics partner regarding this issue. In the meantime, please assist the customer in providing a handwritten CND and pictures of the customer's ID.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have attached the POD in this message. Shall the customer wishes to contest, please assist them in providing the necessary documents mentioned above.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer has provided all documents \n\nYou have 24 hours to initiate the refund \n\nRegards,\nErmelinda from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for providing us with the relevant documents. We will continue our investigation with our logistics partner. In the meantime, please do NOT refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nYou did not meet the deadline. \n\nThe refund will therefore be initiated. \n\nRegards,\nErmelinda from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

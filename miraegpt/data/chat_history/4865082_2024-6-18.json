@@ -1,0 +1,47 @@
+{
+    "sav_id": 4865082,
+    "last_modified_date": "2024-05-20T19:13:57.709692+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy iPhone 12 product has the above problem.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nJiaxu Shen expressed their wish to cancel the order 40635524.  \n\nCan you please immediately stop the shipping and issue a refund?  \n\nIf the package has already been dispatched, please contact the shipping provider directly and ask that they stop the delivery and return the parcel to your warehouse. \n\nThat will enable you to get the product back faster. \n\nYou can refund the customer as soon as the shipping provider confirms that the delivery was averted to optimize customer satisfaction.\n\nPlease note that you have 48h to refund once the tracking confirms that the package is being returned to your warehouse.  \n\nPlease let us know the package\u2019s status under 24h so we can inform the customer of the next step.  \n\nThanks a lot for your help!\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the cancellation of the order. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you.\n\nHave a great day.\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nKindly close the case if no further assistance is required to avoid affecting the KPI of \"Long Term Contact Rate\". Please click the \u201cclose/to enclose\u201d button located at the bottom right. \n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

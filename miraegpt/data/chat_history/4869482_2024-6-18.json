@@ -1,0 +1,13 @@
+{
+    "sav_id": 4869482,
+    "last_modified_date": "2024-05-22T10:51:12.653761+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Dear Backcare,\n\nThe parcel cannot be delivered as the letter box is not accessible. Please ask the customer to reschedule the delivery with the courier.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

@@ -1,0 +1,31 @@
+{
+    "sav_id": 4862405,
+    "last_modified_date": "2024-05-19T11:59:03.460467+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 mini has a problem:\r\nThe phone is generally not well conditioned. The speakers fail, suddenly stop working, the microphone also fails, and in calls, the audio starts to suffer from a series of interference and becomes unclear. When I try to configure iCloud and make a backup, it says my memory is full when my phone is completely empty and just reset since I just received it.\r\nAt this point, I've stopped investigating if there are more failures and have decided to return it as it doesn't even fulfill its primary function of making phone calls.\r\n\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_INCALL",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "AUDIO_SOUND_QUALITY",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "MICRO_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "sav_id": 4904322,
+    "last_modified_date": "2024-06-04T16:28:57.211875+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 is experiencing the following issue:\nPackage indicated as delivered to the relay point but the relay point declares it has received nothing.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered.\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have informed my logistics partner of this issue and await the POD. \n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly confirm with the customer whether if they went to this pick up point address below in the attached picture to find their package. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the POD in this message. \n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer has received the package.\n\nThanks for your help in keeping our shared customers happy!\nPhilbertrice Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4873124,
+    "last_modified_date": "2024-05-23T12:35:43.448051+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro is having the following issue:\n\nHello, my phone got stolen and when I'm leaving to report it at the police station, they asked me for the IMEI number 2 and I only have the first one, please consider my request.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nConcerning the order placed with you on our site, the customer comes back to us and sends us this message for you:\n\n[My phone was stolen and when I went to the police to report it, they asked me for IMEI 2 (IMEI: 353742334249216) and I only have the first, thank you for taking my request into consideration.]\n\nHow can we help him in such a situation?\nPlease get back to us upon receipt of this message.\n\nPaul from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe IMEI2 for the device is 353742333817914. Please inform the customer accordingly.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "IMEI_REQUEST",
+            "tag": "IMEI"
+        }
+    ]
+}

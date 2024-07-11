@@ -1,0 +1,23 @@
+{
+    "sav_id": 4899583,
+    "last_modified_date": "2024-06-03T07:46:57.297583+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has the above problem: The screen has a black spot in the display with a green stripe going up. See picture\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "sav_id": 4855335,
+    "last_modified_date": "2024-05-16T12:18:36.043891+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product iPhone 13 Pro has the above problem:\r\nUPS tracking number: 1ZBF1560D901080363\r\nIn the UPS tracking app, it says my delivery was signed for, but there is no signature (which is also marked as 'required'). So, somehow, my package was dropped off or set down somewhere, I have no idea, since I wasn't home, as I was already on my way to work. I've asked everyone in my surroundings if they know anything about the package or any clue - of course not.\r\nTo file a complaint with UPS, I need the sender's phone number to complete the corresponding form. Therefore, I'm not only asking for your help in processing my request but also for providing a phone number that I can enter into the form.\r\nI appreciate your help in advance and would like a rapid solution to this problem.\r\nBest regards,\r\nNikita Schachmeier\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi!\n\nThe package hasn't been successfully delivered yet and all the requirements for a refund as described by our lost package policy have been fulfilled. Any and all relevant paperwork has been provided by the customer and shared in this conversation.\n\nYou can use the documents in the details to look into the matter with your delivery company\n\nThis order will be refunded within 1 business day. \n\nYou can now block the device remotely, if possible.\n\nAll the best,\nAngelica, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner regarding the situation. In the meantime, could we request for a HANDWRITTEN CND fro the customer that includes the IMEI of the phone? Furthermore, please do not refund the customer first.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 752,55 \u20ac\u20ac to the customer.\n\nKind regards, \nAngelica from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello, \n\nthe customer is requesting a credit note from the refund.\n\nCould you please create one and send it to me?\n\nMany thanks in advance.\n\nKind regards,\nKubra, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the credit note in this message. Do let me know if the customer still requires any assistance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur logistics partner has provided this POD. Kindly check with the customer if they signed it.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

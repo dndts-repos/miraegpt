@@ -1,0 +1,23 @@
+{
+    "sav_id": 4904388,
+    "last_modified_date": "2024-06-04T16:48:41.585874+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product is iPhone 12 and it has the above problem: \nWhen unpacking the iPhone, I noticed a slight damage to the casing (top left) . \nI ordered in 'very good' condition and paid for it. If there's a price adjustment according to the condition 'good', I'll keep the iPhone. Otherwise, please ask for return.\nBest regards\nSilvia Nehring \nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe have carried out a commercial gesture of 60 \u20ac on your behalf to the customer. Indeed, according to our quality charter, the customer is entitled to this type of compensation because the Condition is not as ordered.\n\nThank you for your understanding.\n\nBest Regards,\nErmelinda of Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

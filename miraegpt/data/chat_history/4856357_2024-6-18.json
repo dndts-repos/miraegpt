@@ -1,0 +1,38 @@
+{
+    "sav_id": 4856357,
+    "last_modified_date": "2024-05-16T16:58:02.232171+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 12 mini has the above problem: The order should have arrived by today, but it's still not shipped. What's holding it up? Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nAccording to the tracking, I see that you have not yet delivered the package to the carrier.\n\nPlease ship the device today and provide a valid tracking number.\n\nThomas Hand\nNewtonstra\u00dfe 7A\n12489 Berlin\nDeutschland\n+493024333477\nmail@hand-thomas.de\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our logistics partner to ship out the device. The tracking number should be sent out by the end of the day. Please do not refund the customer as the order has already been dispatched.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped out the device to the customer.\n\nHere is the tracking number: 1ZBF1560D901094250\n\nPlease note that as the courier has just picked up the parcel, it might take a while before it is accurately displayed on their website.\n\nIn the meantime please do not refund.\n\nIf you initiate a refund while the product is being shipped, we will lodge a case with SSC.\n\nRegards,\nHB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer would like the refund.\nCustomer says the following: I ordered another device.\nAs soon as you have received the device, I ask you to initiate the refund within 2 working days.\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

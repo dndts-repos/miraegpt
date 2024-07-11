@@ -1,0 +1,27 @@
+{
+    "sav_id": 4869423,
+    "last_modified_date": "2024-05-22T10:36:57.918774+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has the above problem.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

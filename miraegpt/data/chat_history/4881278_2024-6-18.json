@@ -1,0 +1,27 @@
+{
+    "sav_id": 4881278,
+    "last_modified_date": "2024-05-27T06:07:23.975824+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 12 mini with the above problem:\nThe device was purchased in a condition of 'excellent'. However, as shown in the photos, there are several noticeable scratches and signs of use, including on the camera and Lightning port. Additionally, there was still a protective film stuck to the device, apparently from the previous owner. In summary, this quality is absolutely unacceptable and frustrating for me.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "sav_id": 4918084,
+    "last_modified_date": "2024-06-09T21:06:44.025064+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\n\nHello, my camera, Wi-Fi, and Bluetooth stopped working one after another within a few days. A restart made Wi-Fi (and probably also BT) available again for a short time, but then it went out and stayed that way. An appointment at the Apple Store support revealed that the parts for the support were not reachable and the device likely comes from Japan. He suspects based on his diagnostic that individual components (e.g., Wi-Fi/BT antenna) were not retrofitted with original parts. He couldn't make an offer for repair. The device has always been in a case and cover and hasn't fallen or gotten wet, etc.\n\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe customer wants a repair but unfortunately, we are unable to process the repair. As such, we are willing to offer a refund. However, the device was purchased in GOOD condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return.\n\nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition. We are therefore unable to offer a full refund for this order.\n\nHowever, to provide a satisfactory outcome for the customer, we are amenable to a 40 euros deduction instead. Kindly confirm with the customer if this is agreeable. They would receive a partial refund of 239.66 euros\nThank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nCelia-Cristina Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAs mentioned above,\n\nThe customer wants a repair but unfortunately, we are unable to process the repair. As such, we are willing to offer a refund. However, the device was purchased in GOOD condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return.\n\nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition. We are therefore unable to offer a full refund for this order.\n\nHowever, to provide a satisfactory outcome for the customer, we are amenable to a 40 euros deduction instead. They would receive a partial refund of 239.66 euros.\n\nKindly confirm with the customer if this is agreeable. Thank you.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 279,66 \u20ac to the customer for [repair delay].\n\n\nKind regards, Celia-Cristina from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_UNCERTIFIED_COMPONENT",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BLUETOOTH_NOT_DETECTED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WIFI_NOT_DETECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

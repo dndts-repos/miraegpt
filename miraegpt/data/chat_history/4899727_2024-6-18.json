@@ -1,0 +1,33 @@
+{
+    "sav_id": 4899727,
+    "last_modified_date": "2024-06-03T09:24:03.120792+02:00",
+    "language": "portugese",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has the following issue:\r\n\r\nGood morning, I paid for the article and received an email saying that my payment was rejected, and then another one saying it was accepted. Could you please tell me if my payment was actually accepted by your system? Thank you very much.\r\n\r\nThank you for the help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nCould you kindly inform the customer that we have successfully confirmed the payment and that the phone is now on its way to them?\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nWe have already informed the customer of this.\n\nKind regards,\n\nVictor from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for informing the customer. Once the customer acknowledges, kindly close this case. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

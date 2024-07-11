@@ -1,0 +1,27 @@
+{
+    "sav_id": 4855629,
+    "last_modified_date": "2024-05-16T13:47:38.090069+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, I'm returning my iPhone 12 Pro because I accidentally ordered an iPhone 13 model from you instead.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "sav_id": 4883285,
+    "last_modified_date": "2024-05-27T19:00:18.924639+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy Galaxy S21 5G has a problem:\r\nThe phone always worked well, but the issue it has is that the battery drains faster than normal (at least faster than my old mobile and it already had its years) and when I've been using it for a while, it starts to heat up (especially when gaming or doing multiple things at once) and I have to stop using it until it cools down.\r\n\r\nThanks,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and home appliances) to repair or replace the product, or 2 business days to process a refund if necessary.\r\nThe customer meets the following requirements to make the return possible:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that all personal data has been deleted\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that accessories and purchase proof must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: once delivered, the seller has 3 business days (5 business days for laptops and home appliances) to repair or replace the item and 2 business days to process a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we are unable to repair the device and we do not have enough stock to process an exchange. I have proceeded with a refund instead.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_WARM_OR_INFLATED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "ITEM_GETS_HOT",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "sav_id": 4861912,
+    "last_modified_date": "2024-05-18T21:10:54.592905+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is experiencing the following issue:\nCamera focusing dysfunction. Blurry images and videos.\nThank you for your help,\n\nOnce received, the seller has 3 business days (5 if it's a laptop or electrical appliance) to replace or repair your product. Alternatively, they have 2 business days to process a refund (if eligible). \nA return is considered complete when the customer confirms that:\n\u2714 The product has not been repaired by a third party and has not sustained any damage due to a fall or exposure to water.\n\u2714 Personal data has been deleted.\n\u2714 They have confirmed they have the return label.\n\u2714 They understand that they must include accessories and proof of purchase in their package.\n\u2714 They have 14 days to use the return label.\n\nReminder: once received, the seller has 3 business days (5 if it's a laptop or electrical appliance) to replace or repair your product. Alternatively, they have 2 business days to process a refund (if eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

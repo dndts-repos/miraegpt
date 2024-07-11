@@ -1,0 +1,38 @@
+{
+    "sav_id": 4902644,
+    "last_modified_date": "2024-06-04T06:24:07.388247+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe package of the order 40914241 could not be delivered because the address is wrong or incomplete.\n\nPlease send us the good address + the name of your customer + phone number or ask your customer to reschedule the new delivery with the carrier.\n\nThank you.\n\n\nVal\u00e9rie DECAMPS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer's address is correct:\nLucas Todisco\n30 Avenue de Valence\nR\u00e9sidence la rollandiere Bat c3\n38360 Sassenage\nFrance\n06 16 02 36 11\nlucas.nuovo.38@gmail.com\n\nThank you for understanding,\nMarijo Georgelluca from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have relayed this information to our logistics partner. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer informed that he has still not received his order. Please, do the necessary.\n\nThank you for understanding,\nMarijo Georgelluca from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer. Kindly assist the customer in preparing a handwritten CND with the IMEI of the device and their ID. We will check with our logistics partner. In the meantime, kindly do not refund the customer. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

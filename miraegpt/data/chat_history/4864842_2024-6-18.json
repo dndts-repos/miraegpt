@@ -1,0 +1,23 @@
+{
+    "sav_id": 4864842,
+    "last_modified_date": "2024-05-20T17:46:48.499413+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 mini has the above problem:\nAs I unpacked the delivered iPhone 13mini, the small frame of the lower camera on the phone's back was detached. This was not what I expected from a device in 'excellent' condition. I therefore request that the damaged device be replaced with an intact one. Thank you in advance!\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

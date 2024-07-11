@@ -1,0 +1,28 @@
+{
+    "sav_id": 4901867,
+    "last_modified_date": "2024-06-03T19:15:39.205322+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has a problem: I need the CIF to be put on the invoice. Thank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile:\n\nI hope you are having a great day.\n\nThe customer requests that the invoice shows the VAT number, here I share it with you.\nVAT NUMBER: G04212536\n\nCan you please send us the invoice within 48 hours? If we do not receive it in time, we will be forced to apply the Back Market letter and grant a commercial gesture to the customer for the value of 20% of the order, which is 50 euros at your expense.\n\nPlease make sure that the invoice contains:\n1. The IMEI number (if the device is a smart phone)\n2. the customer's billing address (which may be different from the delivery address)\n3. the mention [VAT not applicable \u201cSpecial regime - second hand goods\u201d] or any other equivalent (if you are in marginal VAT regime).\nIf you need more information about the invoice, here is an article that will answer your questions: https://merchant-support.backmarket.com/hc/fr/articles/360019750759-Comment-%C3%A9tablir-une -B2C-invoice-complies-%C3%A0-the-r%C3%A8regulation-\n\nWe are counting on you! Thank you very much.\n\nI will be waiting for your message.\n\nRegards,\nJulieta from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the invoice in this message. Do let me know if the customer requires any further assistance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4865791,
+    "last_modified_date": "2024-05-21T02:03:20.064798+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\nGreen and white stripes on the screen (photo)\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist au\u00dferhalb der Garantie.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nAs the device has suffered considerable damage and its screen is coming off, the device is considered out of warranty. We will ship the phone back to the customer.\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nYour order is ready and will be shipped today with DPD.\n\nThe tracking number is :     10084001689716        \n\nRegards,\nH\u00e9l\u00e8ne",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

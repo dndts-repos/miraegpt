@@ -1,0 +1,60 @@
+{
+    "sav_id": 4893119,
+    "last_modified_date": "2024-05-30T22:50:37.823013+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy S21 Ultra 5G has the above issue:\r\n\r\nThe screen of my phone simply went out. It's still vibrating, but no display. I couldn't even delete data because the verification code wasn't visible. Data transfer was also not possible.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt nicht erhalten.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nOur logistics partner received an empty package from the customer. I have attached the pictures in this message as well as the BM's CND. Please check back with the customer if they indeed place the phone inside the packaging. Thank you for your understanding and patience.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nI'm sorry to hear that you're having issues with the return of this item. \n\nIf the package you received didn't include the item, we have to open an investigation of the shipping provider.\n\nIn order to get started, please provide us with the signed Certificate of Non-Receipt (see attachment) AND the following photos as soon as possible:\n- The package (with the damage visible if the package was damaged)\n- The label on the package with the tracking number visible\n- The package showing the item inside (if any)\n- The item received (if any) and its packaging\n\nPlease note that after 30 days from the shipping date, the case will be outdated, and we won't be able to compensate you.\n\nDon't hesitate to reach out if you have any questions.\n\nOlga, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear backcare,\n\nWe have contacted our logistics partner about this issue. Please open a backship investigation and we will provide you with the CND soon.\n\nAttached are all the pictures of proof that our logistics partner have provided us with.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nplease provide us with the signed Certificate of Non-Receipt (see attachment)\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the CND.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nBack Ship confirm the open of the investigation.\n\nI will now initiate the refund for the customer.\n\nBack Ship will handle the carrier investigation and their compensation.\n\nThanks for your help in keeping our shared customers happy!\nRui Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "OTHER_BUTTON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SCREEN_BLACK",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

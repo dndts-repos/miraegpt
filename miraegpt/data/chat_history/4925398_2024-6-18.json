@@ -1,0 +1,13 @@
+{
+    "sav_id": 4925398,
+    "last_modified_date": "2024-06-12T10:49:24.649071+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe package could be not delivered because the letter box is not accessible.\n\nPlease ask your customer to reschedule the delivery with the carrier.\n\nThank you.\n\nVal\u00e9rie",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

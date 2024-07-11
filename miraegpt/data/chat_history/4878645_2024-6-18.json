@@ -1,0 +1,78 @@
+{
+    "sav_id": 4878645,
+    "last_modified_date": "2024-05-25T13:24:34.837257+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 Pro is having the issue above. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe customer claims that the parcel was delivered empty (He received a perfume instead of an iphone). We have requested the BM certificate of non-receipt, pictures of the package, picture of the label with tracking number visible, pictures of the package inside (with the product received inside if any) and police report.\n\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nBest regards,\nMirana - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe require the customer to send us:\n\n- Pictures of the shipping box from all 4 sides \n- The shipping label with the tracking number visible\n- A handwritten CND with the IMEI included\n- Their ID\n\nPlease also ask the customer to keep the box as the courier may have to collect it for further investigations.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease also ask the customer if they have emitted any comments on the delivery note.\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi!\n\nAny and all relevant paperwork has been provided by the customer and shared in this conversation.\n\nYou can use the documents in the details to look into the matter with your delivery company\n\nCustomer requests a refund, please make the refund of the order within 24 hours.\n\nYou can now block the device remotely, if possible.\n\nAll the best,\nMirana, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease kindly ask the customer to provide a handwritten CND. Please also remind the customer to keep the parcel so that the carrier can come and pick it up for investigation.\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease also ask the customer to take pictures of all sides of the parcel if possible.\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile, \n\nI've just shared the customer's documents with you.\n\nFatoumata from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nDid the customer physically collect it from the deliveryman themselves or was the parcel left at their doorstep?\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile, \n\n\nThe parcel was picked up at a relay point, which is where the customer picked it up.\n\nFatoumata from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nDid the customer write any comments on the POD regarding the empty parcel?\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile, \n\nWhen the customer arrived home, he found that the package did not contain the item he had ordered.\nHave a lovely day!\n\nFatoumata from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_EMPTY_PACKAGE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

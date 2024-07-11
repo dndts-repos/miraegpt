@@ -1,0 +1,45 @@
+{
+    "sav_id": 4910877,
+    "last_modified_date": "2024-06-06T16:32:41.276909+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product Galaxy S21 Ultra 5G has the above problem:\r\n\r\nI had ordered a Samsung Dual-SIM and yesterday I wanted to insert another SIM card, and it became clear that only one is possible. Moreover, an eSIM cannot be inserted either.\r\nFurthermore, I haven't even had it for 10 months yet, and the battery does not last long at all and gets very hot.\r\n\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Karim,\nYou'll find your return label attached to this message. Chronopost will process your return. Simply drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nBefore you prepare your return, please follow these steps:\n1. Check our article on how to return an item: <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">Here</a>\n2. Don't forget to include all accessories that came with your product\n3. Remove any protective film or wrapping from your product\n4. Package your product and its accessories according to the tips below:\n\nHow to package your item:\n\u2022 The box should be sturdy and stable, with your product positioned so it won't move during transit.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside for identification in case the original label is lost or damaged).\n\u2022 Take photos of the package from both inside and out before sending. This will protect you in case your item is damaged during transit.\n\nYour return is now ready to be dropped off! We'll let you know when it arrives at our location.\nBest,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer has not received a device in dual SIM as the customer ordered and the device becomes hot \n\nThe customer wants a replacement device \n\nRegards,\nErmelinda from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe acknowledge your customer's concern regarding the absence of dual SIM functionality in the phone you purchased. We apologize for any inconvenience this may have caused. Regrettably, the product description did not accurately indicate this feature. To make amends for the inconvenience, we would like to offer you a compensation of 40 euros.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_WRONG_MODEL",
+            "tag": "ACCESSORIES"
+        },
+        {
+            "customerIssue": "BATTERY_UNCERTIFIED_COMPONENT",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "ITEM_GETS_HOT",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

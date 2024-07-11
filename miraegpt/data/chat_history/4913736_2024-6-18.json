@@ -1,0 +1,28 @@
+{
+    "sav_id": 4913736,
+    "last_modified_date": "2024-06-07T15:41:16.864144+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 13 has the above problem: \nHello. Alleged delivery date is 05.06.? \nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\n\nWhen will you send the device?\n\nRegards,\nAysah, Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer on 7th June. Kindly check with the customer if he has received the device. Thank you.\nhttps://www.ups.com/track?loc=de_de&amp;requester=QUIC&amp;tracknum=1ZBF1560D901179963/trackdetails\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

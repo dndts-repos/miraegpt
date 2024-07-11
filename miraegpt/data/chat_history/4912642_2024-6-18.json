@@ -1,0 +1,27 @@
+{
+    "sav_id": 4912642,
+    "last_modified_date": "2024-06-07T10:15:00.400122+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has the following issue.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have cancelled the order and refunded the customer. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "PREFER_NEW",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

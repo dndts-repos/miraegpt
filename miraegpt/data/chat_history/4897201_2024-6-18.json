@@ -1,0 +1,27 @@
+{
+    "sav_id": 4897201,
+    "last_modified_date": "2024-06-01T17:08:00.970771+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product Galaxy S21 Ultra 5G has the above problem: \nCamera: Does not take sharp pictures and videos, regardless of distance or proximity. \nThe device: constant spontaneous reboots or automatic shutdowns, sometimes the device even crashes again during reboots. \nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair of the 10.06.24. \nThe delay to repair or exchange the product is 3 days for technical issue. \nWithout an answer with a valid tracking link before the 15.06.24 we will refund the customer.\n\nThank you for understanding.\n\nRegards,\nReyhan from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

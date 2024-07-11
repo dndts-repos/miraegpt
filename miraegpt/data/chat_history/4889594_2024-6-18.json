@@ -1,0 +1,31 @@
+{
+    "sav_id": 4889594,
+    "last_modified_date": "2024-05-29T19:49:18.349911+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 product has the above problem:\nReturn of iPhone 13, as the condition is not as expected. I have already had experiences with refurbished phones in the past, based on which my expectation is formed.\nThe flaws are too big for me. This goes beyond normal wear and tear signs in my understanding of smartphone handling. Additionally, there's a 'crevice' between the screen and frame at the bottom that seems too large to me. I've checked display samples at individual retailers, and this gap didn't catch my attention. Therefore, I don't find the price-performance ratio for the iPhone reasonable.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

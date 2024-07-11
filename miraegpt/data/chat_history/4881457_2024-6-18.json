@@ -1,0 +1,28 @@
+{
+    "sav_id": 4881457,
+    "last_modified_date": "2024-05-27T09:27:02.307778+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 has the above problem:\n\nDear Sirs and Madams, unfortunately I'm not getting along with my phone because of the switch from Android to iOS. Is there still a possibility that I can send back the phone, even though the withdrawal period has expired by a few days?\nThat would be very nice.\n\nBest regards and many thanks, Patrick Wirth \n\nThank you for your help,\n\nThe customer confirms that the product has not suffered any damage from a fall or water, and was not opened by a third party.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\ncustomer asks f he can sent the device back, also if he is out of the date.\n\nRegards,\nAysu from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately as the withdrawal period has expired, we are unable to issue a repair/return for the customer. Please assist the customer and kindly close the case if no further assistance is required, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

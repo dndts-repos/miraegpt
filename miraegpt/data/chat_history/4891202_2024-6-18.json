@@ -1,0 +1,38 @@
+{
+    "sav_id": 4891202,
+    "last_modified_date": "2024-05-30T13:02:12.191454+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 12 has the above problem:\n\nBest regards,\ntoday we got to unwrap our daughter's phone while we discovered that a wrong charging cable was included, see photo!\nIt's actually a USB-C on Apple Lightning, we only have adapters with normal USB connections not USB-C.\nPlease send us the correct charging cable!\nBest regards \nFrank Dargel\n\n1 Photo - wrong charging cable\n2 Photo our adapter\n\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nthe customer has received the wrong cable please send the customer the correct cable\n\nRegards,\nHamza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, please relay the following message to the customer.\n\nWe are truly sorry that we are still not able to provide you with a satisfactory outcome, hence, we would like to offer you a 10 euros commercial gesture. With this commercial gesture, you can use this amount to purchase a new charging cable. This helps reduce the harmful carbon dioxide emissions produced by logistics carriers when shipping an item.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nsend the 10 euro.\n\n\nRegards,\nHamza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the commercial gesture.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

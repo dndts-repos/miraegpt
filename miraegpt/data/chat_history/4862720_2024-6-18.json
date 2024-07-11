@@ -1,0 +1,37 @@
+{
+    "sav_id": 4862720,
+    "last_modified_date": "2024-05-19T15:51:58.033268+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 Pro has the following issue.\r\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,    \n\nThe customer has expressed his wish to cancel the order 40622424.    \n\nPlease stop the shipment and proceed with the refund.    \n\nIf the parcel has already been dispatched, please contact the carrier directly and ask them to stop the delivery and return the parcel to your warehouse. This will allow you to retrieve the product more quickly.    \n\nWe look forward to hearing from you.    \n\nAnthonio, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will contact our logistics partner to inform them of the cancellation of the order. In the meantime, kindly do not refund the customer. Thank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

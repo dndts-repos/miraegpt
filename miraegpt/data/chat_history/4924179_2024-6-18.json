@@ -1,0 +1,28 @@
+{
+    "sav_id": 4924179,
+    "last_modified_date": "2024-06-11T20:01:59.796865+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\n\nHello, unfortunately, the display has a small error. A permanent black dot is noticeable. Since the dot is at the bottom, it doesn't bother me that much. However, the device cannot be considered in an excellent state as a result. Can you accommodate me on the price?\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\n\nThe customer says that there is a small black dot in the bottom right of the display, see photo I have unlocked it.\n\nThe customer would like a price reduction or a possible refund.\nRegards,\nFiliz from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will offer 20 euro ONLY as commercial gesture. \n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

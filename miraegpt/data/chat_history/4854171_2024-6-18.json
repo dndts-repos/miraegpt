@@ -1,0 +1,28 @@
+{
+    "sav_id": 4854171,
+    "last_modified_date": "2024-05-15T22:06:25.084521+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has a problem.\nThe rear camera doesn't autofocus when the subject is more than 1 meter away. I have to get very close to make it focus and then, when I try to force the camera to autofocus by tapping on the subject, the camera makes a grinding noise.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair, the 24/05/2024. The delay to repair or exchange the product is 3 days for technical issue. Without answer with a valid tracking link before the 30/05/2024 we will refund the customer.\n\nThank you for understanding,\n\nHeritinasoa-Fenitriniaina from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have received the device. We will proceed with the necessary actions soon. In the meantime, please do NOT refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

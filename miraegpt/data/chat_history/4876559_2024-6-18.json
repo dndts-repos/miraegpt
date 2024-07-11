@@ -1,0 +1,68 @@
+{
+    "sav_id": 4876559,
+    "last_modified_date": "2024-05-24T14:43:26.118224+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 has the above problem: I have a VAT ID number and forgot to mention it, so I don't need to pay the 20% value-added tax, since the item is for my company, my ID number is DE265 713 692 Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer would like the VAT identification number to be included in the invoice.\n\nVAT ID number is: DE265 713 692\n\nThis is the billing address:\n\nB\u00e4rbel Teufel-Zawisza\nLohn-u.Finanzbuchhaltung\nAltenbergweg 20\n97999 Igersheim\nDeutschland\n\nPlease send us the newly issued invoice.\n\nThank you very much for your efforts.\n\nKind Regards,\nDerya from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the updated invoice in this message. Do let me know if the customer still requires any assistance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\r\nMy iPhone 13 has the above problem:\r\nThe phone often hangs up, and you're kicked out of different apps randomly, the battery is depleted very quickly despite being at 100% capacity, the phone often doesn't respond.\r\n\r\nThank you for your help,\r\n\r\nIf sellers: receive a package, they have 3 working days (5 working days for laptops and household appliances) to repair or replace the product. To initiate a refund if applicable, they have 2 working days.\r\nThe customer or customer has met the following requirements for a successful return:\r\n\u2714 They confirm that the device has not been opened by a third party nor damaged (through drop or water exposure).\r\n\u2714 They confirm that all personal data has been removed from the device.\r\n\u2714 Confirmed that the return label has arrived.\r\n\u2714 Knows that the entire accessories and purchase receipt must be attached to the package.\r\n\u2714 Knows that the return label is valid for 14 days.\r\n\r\nDon't forget: As soon as the package arrives, sellers have 3 working days (5 working days for laptops and household appliances) to repair or replace the product, respectively, or 2 working days to refund the amount.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello, \r\nMy product iPhone 13 has the above problem:\r\nI sent my phone back for exchange on May 30, 2024 and I still haven't received a shipment confirmation yet. Although it was stated on the website that the phone will be delivered within 5 to 7 working days.\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for exchange the 04/06/2024. The delay to repair or exchange the product is 3 days for technical issue. \n\nThe customer had the following problems with the device: It frequently hangs, you are kicked out of various applications, the battery drains very quickly despite 100 percent capacity and the device often no longer responds at all.\n\nCustomer is waiting for information from you.\n\nKind regards\nDerya from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        },
+        {
+            "customerIssue": "DELIVERY_MISSING_TRACKING_LINK",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_WARM_OR_INFLATED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "ITEM_GETS_HOT",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

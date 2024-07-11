@@ -1,0 +1,55 @@
+{
+    "sav_id": 4902709,
+    "last_modified_date": "2024-06-04T08:14:59.381417+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 has a problem:\nHello, the order was not sent please make it happen by May 5.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\nMy iPhone 12 has the following problem.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nHave a good day.\n\nThe cx need the device, please send it ASAP.\n\nThanks.\n\nRegards,\nOscar from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\n\nMy iPhone 12 has the following problem.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nHas the customer changed his mind about the item or does he still wish to proceed with the delivery? Please kindly confirm with the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nthe customer received the device on 4 June. If there are no further issues please close this case. thank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NEED_FASTER_DELIVERY",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        },
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

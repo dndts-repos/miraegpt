@@ -1,0 +1,31 @@
+{
+    "sav_id": 4882930,
+    "last_modified_date": "2024-05-27T17:11:58.179396+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 Ultra 5G is having a problem as follows:\nSince receiving the phone, I've started experiencing some network issues for a few minutes a day at first: 'no service'. As time went on, I had no network at all for several hours a day. I tried putting my SIM card in another phone and there was no problem. I still decided to change my SIM card just in case, but it got worse - I couldn't get any network signal at all at any point in the day. My SIM card works very well on other phones and other SIM cards don't work with this phone.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "MOBILE_DATA_NOT_AVAILABLE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SIM_CARD_TRAY_DAMAGED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "sav_id": 4898285,
+    "last_modified_date": "2024-06-02T13:45:31.915989+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 is experiencing the following problem: Hello I made a mistake in the payment mode, how can I change it? I want to pay by PayPal for $4 instead of cash. Can you help me please? Thanks for your assistance,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nBased on the payment details for this order, it appears that the customer has used PayPal to complete their purchase. Could you please kindly inform the customer about this? Thank you. \n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nHas the customer been informed?\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nYes, the customer has already been informed, thank you informed.\n\nSincerly,\n\nFaratiana \nBack Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for informing the customer. Kindly close this case if no further assistance is required. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

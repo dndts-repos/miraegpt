@@ -1,0 +1,33 @@
+{
+    "sav_id": 4902912,
+    "last_modified_date": "2024-06-04T10:01:05.003657+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy product iPhone 13 has the above problem:\r\nUnfortunately, the phone is still not shipped. Please give me an update.\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nIf you don't send the device within 24 hours, we'll refund you.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped out the device to the customer.\n\nHere is the tracking number: 1ZBF1560D901187187\n\nPlease note that as the courier has just picked up the parcel, it might take a while before it is accurately displayed on their website.\n\nIn the meantime please do not refund.\n\nIf you initiate a refund while the product is being shipped, we will lodge a case with SSC.\n\nRegards,\nHB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe package has been delivered. \n\nIf the customer requires no further assistance, kindly close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4897576,
+    "last_modified_date": "2024-06-01T20:52:41.863421+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product is iPhone 13 Pro and it has the above problem: Hello Backmarket, I just ordered through the app and paid with PayPal. I entered the discount code APPKASSIEREN unfortunately, the \u20ac20 was not deducted. Best regards Axel Schulte D\u00f6inghaus\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner to cancel the order, we will then refund the customer once the cancellation has been made. Kindly inform the customer to purchase the device again after getting the refund. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have cancelled the order and processed the refund. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

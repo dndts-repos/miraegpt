@@ -1,0 +1,33 @@
+{
+    "sav_id": 4853653,
+    "last_modified_date": "2024-05-15T19:24:12.594710+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 Pro has the above problem:\n\nThe casing of the iPhone is much more scratched and battered, so it's not 'very good' as ordered, and utterly disgusting is the dirt and grime in all the crevices - not cleaned at all!\n\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Kathleen,\n\nYou can find your return label in this message attachment. Your return will be processed by Chronopost. Simply drop off your package at a nearby drop-off location. A list of locations is available here: \n\nBefore you prepare your return, please follow these steps:\n1. <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">Find instructions on how to return an item</a>\n2. Don't forget to include any accessories that came with your product\n3. Remove any existing protective film or covering\n4. Pack your product and its accessories according to the tips below\n\nHow to pack your product:\n\u2022 The box should be sturdy and stable, with your product placed so it won't move during transport.\n\u2022 Attach the return label on top of the box (you can also place a replacement label inside for identification purposes, in case the original label is lost or damaged).\n\u2022 Take photos of the package from inside and outside before sending. This will protect you in case your product is damaged during transit.\n\nYour return is now ready to be dropped off! We'll let you know as soon as it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair/exchange the 24/05/2024. \n\nThe delay to repair or exchange the product is 3 days for technical issue. Without answer with a valid tracking link before the 30/05/2024 we will refund the customer.\n\nThank you for understanding,\nMarco from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

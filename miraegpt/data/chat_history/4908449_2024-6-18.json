@@ -1,0 +1,23 @@
+{
+    "sav_id": 4908449,
+    "last_modified_date": "2024-06-05T19:41:13.802939+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has the above problem:\r\nThe scratches are clearly visible from a further distance. We would like to keep the device, please suggest a proposal for depreciation. Thank you\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe costumer has encountered the following problem with his item: scratches and dents (please take a look at the pictures).\n\nThe customer would like a partial refund of 60\u20ac\n\nThis is the amount pre-defined at QC for the difference between \u2018Very Good\u2019 and \u2018Good\u2019.\n\nFor information purposes only. We will take care of the partial refund.\n\nRegards,\nMario from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

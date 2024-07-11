@@ -1,0 +1,43 @@
+{
+    "sav_id": 4856684,
+    "last_modified_date": "2024-05-16T18:22:18.197813+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 Pro has a problem:\r\nIt came with much less health than I expected.\r\n\r\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi Ecomobile,\n\nJust a friendly reminder that the customer is waiting for their refund.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nZayra Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are confirming with our logistics partner if they received the parcel. Could you please send us the tracking link?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile, \n\nThe shipping provider informed us that the package has been delivered, as indicated in the tracking link. If you didn't receive it, we have to open an investigation of the shipping provider.\n\nIn order to get started please provide us the signed Certificate of Non-receipt of the package (see attachment) as soon as possible.\nPlease note that after 30 days from the shipping date, the case will be outdated and we won't be able to compensate you.\n\nOnce we've received it I'll transfer it to the BackShip team to open the investigation on your behalf. \n\nPlease note that if they receive a signed Proof of Delivery (POD) from the shipping provider, you will also need to provide a copy of the complaint filed against X for identity theft or theft, to get compensated for the item. The police report needs to include:\n- company\u2019s name\n- the order number\n- the product name\n- the tracking number\n- the product price\n- the IMEI if available\n- an explanation of the situation\nPlease make sure that this police report is hand-stamped or electronically signed.\n\n\nI'll get back to you with the POD if that's the case.\n\nDon't hesitate to reach out if you have any questions.\n\nJose, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have received the device. We will proceed with the necessary actions soon. In the meantime, please do not refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

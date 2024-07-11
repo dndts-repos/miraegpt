@@ -1,0 +1,28 @@
+{
+    "sav_id": 4873618,
+    "last_modified_date": "2024-05-23T14:54:53.059459+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has a problem:\n\nHello, in the bill it doesn't appear my NIF, which I provided for the issuance of the same, and I need it to appear so I can deduct the purchase (I'm self-employed). Thank you.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer requests the VAT number on his invoice 53160421S.\n\nThe customer requested an invoice several days ago. We would like to remind you that, according to article 2.4 of the Quality Charter, you are supposed to provide an invoice within 24 hours after shipment of the product.\n \nCould you please send us the invoice within 48 hours? If we do not receive it in time, we will be obliged to apply the Back Market Charter and grant a commercial gesture to the customer amounting to 20% of the order, i.e. XXX euros at your expense.\n \nPlease make sure that the invoice contains\n1. the IMEI number (if the device is a smartphone)\n2. the customer's billing address (which may be different from the delivery address)\n3. the mention [ VAT not applicable \u201cSpecial regime - second hand goods\u201d ] or any other equivalent (if you are subject to marginal VAT).\n \nIf you need more information about invoicing, here is an article that will solve your doubts: https://merchant-support.backmarket.com/hc/fr/articles/360019750759-Comment-%C3%A9tablir-une-facture-B2C-conforme-%C3%A0-la-\n\nRegards,\nAdriana from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the invoice with the VAT number in this message. Do let me know if the customer still requires any other assistance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

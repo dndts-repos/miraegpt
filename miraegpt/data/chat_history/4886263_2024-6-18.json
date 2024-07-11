@@ -1,0 +1,28 @@
+{
+    "sav_id": 4886263,
+    "last_modified_date": "2024-05-28T19:13:04.245695+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy Galaxy S21 Ultra 5G has a problem:\nThe phone doesn't receive any calls or anything, it's like it's turned off, it can't even read my SIM or anything\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThis is Leidy from Back Market, I hope you're having a great day.\n\nI wanted to let you know that the customer share the pictures with us of the state of the device, the device turn off and didn't turn on, could you please check the photos?\n\nThanks for your help, we wait your reply.\n\nRegards,\nLeidy from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe phone was initially bought under EXCELLENT condition which means that the phone is free of scratches and dents upon purchase. Since the customer has had the phone for some time, it suggests that they were satisfied with the device upon receipt. After reviewing the pictures that the customer has sent us, it seems like the phone has a huge crack on the screen which is highly likely due to the phone being dropped, which may also explain why the phone has issues starting. Unfortunately, the warranty has been broken due to this and we are unable to help the customer with any repair or exchange of the device. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAN_NOT_SETUP_PAIR",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

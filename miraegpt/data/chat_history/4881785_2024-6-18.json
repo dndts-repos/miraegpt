@@ -1,0 +1,23 @@
+{
+    "sav_id": 4881785,
+    "last_modified_date": "2024-05-27T11:20:59.591391+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 Pro has the above problem: Apple ID cannot be registered. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CAN_NOT_LOG_IN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

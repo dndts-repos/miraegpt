@@ -1,0 +1,66 @@
+{
+    "sav_id": 4885475,
+    "last_modified_date": "2024-05-28T15:21:27.256207+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has the above problem:\r\n\r\nThe device was purchased for our child. Shortly after the purchase, we decided that this phone is not needed. It was clear that it would be returned. It arrived. I opened the package to check if the phone is inside. Upon closer inspection, a scratch on the front side immediately caught my eye. Upon further examination, it can be seen that the display is also slightly affected externally. If I buy a phone with the rating '-very good-', I assume that the display will be in a brand new condition. Regardless of whether it would have been returned anyway.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nAs soon as you receive the customer's parcel, please initiate the refund process \n\nRegards,\nErmelinda from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the arrival of the parcel. Thank you for your patience and understanding.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nDid you receive the package?\n\n\nRegards,\nMaxime from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe phone is locked with a code. Kindly assist the customer in unlocking their device. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nHere is the proof once again that everything counts for you in order to gain time. Why are you doing this?\n\nWith your actions, you are only ensuring that we will very soon no longer take you seriously. \n\nThe customer says: \"That can't be. I only switched this mobile phone on once and then switched it off again. I didn't make any settings whatsoever.\"\n\nRefund it or I will do!\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nCan I confirm if the customer had dropped the device during use? This infomration determines whether the device is still under warranty. Thank youfor your understanding and coopertion.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nNo, she didn't! I will initiate the refund.\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

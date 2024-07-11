@@ -1,0 +1,33 @@
+{
+    "sav_id": 4892611,
+    "last_modified_date": "2024-05-30T19:37:24.981093+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 12 mini has a problem:\r\nThe part where you insert the SIM card seems to have been displaced, so that the metal pin does not enter and cannot be removed, which means I cannot put in my SIM card. The package just arrived, which came like that\r\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Antonio:\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a location that is most convenient for you to send your package. You can find a list of drop-off points here: https://www.seur.com/en/busqueda-tiendas.do\nReturn Preparation:\n1. Check out the instructions on how to return a product.\n2. Don't forget to include any accessories that came with your item.\n3. Remove any protective cover or screen protector.\n4. Package the item and its accessories following these guidelines.\nPacking the Item:\n\u2022 The box should be strong and resistant. You must put the item safely inside the box so it doesn't move during transportation.\n\u2022 Stick the return label on top of the box (you can also add an additional label inside to help identify the shipment in case the original label peels off or gets damaged).\n\u2022 Take photos of the package's interior and exterior before sending it. This will protect you in case the item gets damaged during transportation.\nThe return is ready for shipping! We'll let you know when it arrives.\nBest regards,\nBack Market Customer Service, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nJerry Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_PACKAGING_DAMAGED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

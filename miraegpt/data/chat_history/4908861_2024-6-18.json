@@ -1,0 +1,38 @@
+{
+    "sav_id": 4908861,
+    "last_modified_date": "2024-06-06T11:07:51.678837+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 Pro has the following issue:\nThe camera is scratched, it's the only flaw of the phone but I wanted to know if it's possible to replace it without having other defects, because the phone seems perfect otherwise (display intact, shock-absorbing case intact, battery 100%, and so on).\nIs there a phone with the same battery capacity and fewer aesthetic flaws? Even at a different price. Thank you!\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nI am taking the liberty of contacting you following a customer request.\n\nHe has received an item that does not meet his expectations. There are scratches on the camera. You can view the photos sent by the customer in the shared files.\n\nAs a result, the customer wants to replace it with a similar item. And we'd like to know if it's available in stock.\n\nIn the meantime, I thank you for your understanding and wish you an excellent day.\n\nRegards,\nTiana-Rijamalala from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe would like to politely offer a commercial gesture of 40 euros for the inconvenience caused. We hope these solutions would prove helpful to you, and will not necessitate a return which will generate a lot of harmful carbon emissions, as the phone do not have any hardware issues. We will await your response. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nJ'ai pris note de votre message et je vous en remercie.\n\nAvant d'informer le client, l'article de remplacement est-il disponible en stock, s'il vous pla\u00eet ?\n\nRegards,\nTiana-Rijamalala from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThere is no replacement item available in stock currently. Hope you understand. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

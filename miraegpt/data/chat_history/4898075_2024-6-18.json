@@ -1,0 +1,53 @@
+{
+    "sav_id": 4898075,
+    "last_modified_date": "2024-06-02T11:42:36.322433+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 12 mini has the above problem: The smartphone was unfortunately extremely dirty delivered. Dirt is still stuck on the side buttons and in the microphone outlets of the previous owner. This is very unpleasant and does not meet the standard of a 'Excellent' device.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Judith,\r\n\r\nYou can find your return label attached to this message. Your return will be handled by Chronopost. Simply drop off your package at a nearby drop-off location. You can find a list of locations here:\r\n\r\nBefore you prepare your return, please follow these steps:\r\n1. Check our instructions on how to return an item at <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">this link</a>.\r\n2. Don't forget to include any accessories that came with your product.\r\n3. Remove any existing protective covering or film.\r\n4. Package your product and its accessories according to the tips below.\r\n\r\nHow to package your item:\r\n\u2022 The box should be sturdy and stable, and your product should be placed inside so it won't move during transport.\r\n\u2022 Stick the return label on top of the box (you can also attach a backup label inside in case the original gets lost or damaged).\r\n\u2022 Take a photo of the package from both inside and outside before sending it. This protects you in case your product is damaged during transport.\r\n\r\nYour return is now ready to be dropped off! We'll let you know when it arrives at our facility.\r\n\r\nBest regards,\r\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\n\nI will come back to you again.\n\nThe customer would like the refund.\nPlease refund the remaining amount after you have received the device.\n\nThank you for your help and have a nice day.\n\nRegards,\nReyhan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are waiting for the arrival of the device. Once we receive, we will proceed the refund.\nThank you!\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nAngelica Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device is iCloud locked, please assist the customer in unlocking the device. In the meantime, please do not refund the customer.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\niCloud off.\n\nYou have received the product for refund the 13/06/2024. \n\nThe delay to refund the product is 2 days. \n\nWithout answer before the 18/06/2024 we will refund the customer.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe have refunded the customer. Thank you. \n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

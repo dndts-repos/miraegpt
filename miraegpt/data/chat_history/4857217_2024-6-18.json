@@ -1,0 +1,43 @@
+{
+    "sav_id": 4857217,
+    "last_modified_date": "2024-05-16T20:56:14.086400+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has the above problem:\nAccording to UPS, the package has been in delivery for three days, but a UPS employee never shows up. The delivery is being postponed from day to day. This is very frustrating when you need the smartphone.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customer's ID to arrange a refund or a replacement.\n \nOnce all the paperwork has been gathered, we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents.\n\nIf at any point the delivery begins to move again, a refund will not be issued and the order is considered to be late.\n\nBest regards,\nLibania - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly assist the customer in preparing a handwritten CND with the IMEI of the device and their ID. We will check with our logistics partner. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. \n\nAny and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company.\n\nThis order will be refunded in 24 hours.\n\nYou can now blacklist the device.\n\nBest regards,\nLibania - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly provide us with a handwritten CND with IMEI included, the current one is invalid as the CND is not handwritten.\n\nThank you for your assistance.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe certificate must only be signed by hand. \n\nThe certificate has been signed by hand. \n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded \u20ac545.35 to the customer for not having met the deadlines. \n\nKind regards, Libania from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

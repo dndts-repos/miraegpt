@@ -1,0 +1,23 @@
+{
+    "sav_id": 4923388,
+    "last_modified_date": "2024-06-11T16:42:12.694017+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has the above issue:\r\n\r\nHello Team, I've purchased my first product at Back market. Unfortunately, the device is in",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer had the following issue with their item: The unit has scratches on the display (see proofs in the details of this SAV)\n\nThey would like a partial refund.\n\nThis message is just an FYI. I will take care of the partial refund. \n\nThank you,\n\nPaulo Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

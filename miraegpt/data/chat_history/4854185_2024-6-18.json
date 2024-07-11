@@ -1,0 +1,63 @@
+{
+    "sav_id": 4854185,
+    "last_modified_date": "2024-05-15T22:10:34.142690+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is experiencing the following issue:\n\nMy phone is overheating extremely. Then it always goes into overheat mode.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Bonjour,\n\nLe vendeur n'est pas en mesure de traiter le retour en raison du probl\u00e8me suivant :\nAutre.\nPlus de d\u00e9tails ont \u00e9t\u00e9 ajout\u00e9s dans le message suivant : Dear Backcare,\n\nThe device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the screen. SInce you had the device for a certain amount of time. This suggests that you were satisfied with the device\u2019s condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition. I have attached the photos that shows the visible scratches.\n\nHence, a deduction of 60 euros will be made in the event our repair team is unable to fix the device and a partial refund has to be made.\n\nPlease check back with the customer and get back to me. In the meantime, please do not refund the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,Please proceed with the repair of the customer's device.\n\nPlease proceed with the repair of the customer's device.\n\nThe customer's unit is faultless\n\nThanks for your help in keeping our shared customers happy!\n\nNabilat-Adebeji Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAs stated previously, the device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the screen. SInce you had the device for a certain amount of time. This suggests that you were satisfied with the device\u2019s condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition. \n\nHence, a deduction of 60 euros will be made in the event our repair team is unable to fix the device and a partial refund has to be made.\n\nPlease check back with the customer and get back to me. In the meantime, please do not refund the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThanks for your message.\n\nPlease note that the customer is under warranty.\n\nThe item has a problem with the battery overheating\n\nIf you cannot repair it, you are required to replace it or the refund integrally as long as it is within its commercial warranty period.\n\nRegards,\nMarie-Florienne from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAs previously mentioned, we are unable to repair the device and do not have enough stock to process an exchange. We apologise for any inconveniences caused and would like to offer a refund.\n\nUnfortunately, some unforeseen factors have caused a drop in its value, affecting the overall grade. Since the device was returned in different condition from what it was sold in, we must deduct from the refund. The device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the screen. Now that the device has scratches upon return, the grade is degraded to a FAIR condition. \n\nSince the customer has had the device for a long time, we believe that this is a reasonable adjustment given the circumstances. However, we are willing to reduce the deduction to 50 euros. Please check with the customer and get back to me. Thank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nAs mentioned in my previous message, the customer is covered pa the commercial warranty of 12 months.\n\nPlease make the full refund otherwise we will do it for you.\n\nThank you for understanding,\nMarie-Florienne from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAs mentioned above, the customer has had the device for many months, and since we are unable to repair the device and do not have sufficient stock for an exchange, we would like to issue a partial refund. The device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the screen. Now that the device has scratches upon return, the grade is degraded to a FAIR condition. Since there was a drop in the device's value, we must deduct 50 euros from the refund. Kindly confirm with the customer if this is agreeable, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI have received your message, however, the photos provided by the customer have no visible impact.\n\nWe do not agree with your proposal.\n\nWe will reimburse the customer within 24 working hours, all at your expense.\n\nRegards,\nMarie-Florienne from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAs mentioned above, the customer has had the device for many months, and since we are unable to repair the device and do not have sufficient stock for an exchange, we would like to issue a partial refund. The device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the screen. Now that the device has scratches upon return, the grade is degraded to a FAIR condition. Since there was a drop in the device's value, we must deduct 50 euros from the refund. Kindly confirm with the customer again if this is agreeable, thank you.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_GETS_HOT",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

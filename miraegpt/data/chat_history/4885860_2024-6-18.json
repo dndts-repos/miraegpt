@@ -1,0 +1,28 @@
+{
+    "sav_id": 4885860,
+    "last_modified_date": "2024-05-28T17:18:19.350572+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 has the above problem: Hello everyone, as noted, the phone should have been shipped on May 24th, 2024. Unfortunately, it hasn't happened yet. It should arrive according to your site today. Please check! Thank you very much. Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile\n\nWe wanted to let you know Luca hasn\u2019t received their order.\n\nThe tracking link doesn't work, so we\u2019re unable to check the package's location.\n\nCan you let us know if the order was shipped, and under which tracking number?\nIn case the order was not shipped yet, please ship it and provide a valid tracking number, or refund the order under 1 business day.\n\nLet us know if you have any questions or concerns \u2014 we\u2019ll keep an eye out for your reply.\n\nThanks for your help,\n\nClaudia, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate event. As a gesture of our commitment to customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

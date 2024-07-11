@@ -1,0 +1,38 @@
+{
+    "sav_id": 4896536,
+    "last_modified_date": "2024-06-01T12:05:48.351630+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 is having the following problem:\nDpd says package delivered but it has not been.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to provide the Certificate of Non-receipt and their ID.\n\nPlease send us a Proof of Delivery (POD) with the customer's signature, a photo of the package being handed to the customer, or a screenshot showing the GPS location of the delivery, within 2 business days. \n\nPlease note: any other POD will not be considered relevant (ie: unsigned document or unclear photo).\n\n- If a POD is provided, a police report will be required from the customer to process the claim. \n\n- If no POD is provided within 2 business days: only ID + Certificate of Non-receipt.\n\nIf the package is lost and the customer has provided all the necessary paperwork they can choose between a refund or a reshipment. In this case, we recommend that you block the device, if possible.\n\nLooking forward to hearing from you,\n\nFaratiana, \nBack Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our logistics partner regarding the issue. in the meantime, please request a handwritten CND with IMEI from the customer, as well as his ID.\n\nReagrds,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the POD in this message. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi there,\n\nWe have asked the customer to provide the Certificate of Non-receipt and their ID.\n\nA police report will be required from the customer to process the claim.\n\nSincerly,\n\nFaratiana,\nBack Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

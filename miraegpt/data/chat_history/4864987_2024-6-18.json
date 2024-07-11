@@ -1,0 +1,37 @@
+{
+    "sav_id": 4864987,
+    "last_modified_date": "2024-05-20T18:42:17.142577+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Samsung S21 Ultra is having the following issue:\n\nAfter updating on May 19, 2024, my SIM card was lost and it won't charge anymore.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nYour customer has returned their item and based on follow-up, it looks like you received it on: 05/23/24.\n\n1. Your customer has requested a repair.\n\n2. He indicated that the technical condition of his item is DEFECTIVE: \n\n- the device has charging problems\n- eSIM cannot be enabled\n\nBe sure to take the next step within the time frame set by our quality charter.  \n\nSincerly,\n\nFaratiana \nBack Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi ecomobile,\n\nYour customer has returned their item and based on follow-up, it looks like you received it on: 05/23/24.\n\nBe sure to take the next step within the time frame set by our quality charter.\n\nSincerly,\n\nFaratiana\nBack Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_NOT_CHARGING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "ESIM_CANT_ACTIVATE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

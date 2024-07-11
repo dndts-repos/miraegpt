@@ -1,0 +1,31 @@
+{
+    "sav_id": 4855427,
+    "last_modified_date": "2024-05-16T12:45:18.005862+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has a problem:\r\nThe phone has multiple dents on the left corners, I've attached 2 photos of the damages, they are deep scratches one of them goes into the screen with the possibility of damaging it and they feel dangerous to the touch.\r\nThanks,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for portable electronics and home appliances) to repair or replace the product, or 2 business days to make a refund if necessary.\r\nThe customer meets the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that they have deleted their personal data\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that all accessories and purchase receipt must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: once delivered, the seller has 3 business days (5 business days for portable electronics and home appliances) to repair or replace the item and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BACK_COVER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

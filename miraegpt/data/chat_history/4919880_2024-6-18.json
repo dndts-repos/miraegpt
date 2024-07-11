@@ -1,0 +1,58 @@
+{
+    "sav_id": 4919880,
+    "last_modified_date": "2024-06-10T15:16:57.368197+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 product has the above problem:\nI did not receive the package. According to UPS, it was handed over to Marc Rustige as proof of delivery. That's me and I definitely didn't pick it up.\nI would like to know where it was delivered.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID.\n\nPlease send us a Proof of Delivery (POD) with the customer's signature, or a photo of the package being handed to the customer, within 48 hours. \n\nPlease note: a POD without a signature will not be considered relevant.\n\n- If POD is provided, a police report will be required from the customer to process the claim.\n- If no POD is provided within 2 business days: only ID + Certificate of Non-receipt will be required.\n\nIf the package is lost and the customer has provided all the necessary paperwork they can choose between a refund or a reshipment. In this case, we recommend that you block the device, if possible.\n\nIn case the order is not found and the customer chooses a replacement, are you able to send one?\n\nIf not, we'll handle the refund.\n\nThanks for your help.\n\nLooking forward to hearing from you,\nFabio, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer has already sent us the necessary documents, please open an investigation and reimburse the customer within the next 24 hours\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe customer had written the tracking number instead of the IMEI in the IMEI field in the CND. Kindly assist the customer in filling it up correctly with the IMEI of the phone, which is 353048112743234. Thank you for your cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer has already sent us the necessary documents, please open an enquiry and send a new device within the next 24 hours.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nCould the customer take a picture of the handwritten CND and their ID in the same frame?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nUnfortunately, that's not possible.\n\nPlease open an enquiry and send a new device within the next 24 hours.\n\nRegards,\nFabio from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate incident. As a gesture of our commitment to our customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

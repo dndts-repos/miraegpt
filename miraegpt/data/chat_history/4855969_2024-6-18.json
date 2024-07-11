@@ -1,0 +1,42 @@
+{
+    "sav_id": 4855969,
+    "last_modified_date": "2024-05-18T16:36:13.004788+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has a problem:\nI want to make a refund on the order, so I can buy another item.\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nIt\u00b4s Edison, from BackMarket customer care, I'm glad to have the chance to connect with you. How are you? I hope you are having a great day, despite this matter!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\nOnce all paperwork is collected we will open a claim with the BackShip team, you can follow the claim in SSC. We will let you know if the order needs to be reshipped or if it will be refunded. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nEdison - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner regarding the issue and will update you accordingly.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nIt\u00b4s Edison, from BackMarket customer care, I'm glad to have the chance to connect with you. How are you? I hope you are having a great day, despite this matter!\n\nJust a friendly reminder that the customer is waiting for their refund.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nPlease provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter.\n\nThanks for your help in keeping our shared customers happy!\nEdison Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

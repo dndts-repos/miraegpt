@@ -1,0 +1,62 @@
+{
+    "sav_id": 4895174,
+    "last_modified_date": "2024-05-31T17:21:48.086893+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has the above problem:\nI'd like to cancel.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare, \n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device was purchased in EXCELLENT  condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return. \nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a 60  euros deduction is reasonable which indicates that the customer receives a partial refund of 60  euros. Kindly confirm with the customer if this is agreeable.\nThank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nWhen making a refund, unfortunately, it is not deducted from the amount due to Back Market rules.\n\nPlease give the customer a full refund.\n\nRegards,\nAysah, Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe customer had the device for 2 weeks and returned the device with a grade drop. Since the customer is requesting a refund, we re unable to offer a full refund but are open to reducing the deduction. \n\nThe device was purchased in EXCELLENT condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return.\nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a 60 euros deduction is reasonable which indicates that the customer receives a partial refund of 208.31 euros. Kindly confirm with the customer if this is agreeable.\nThank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nRabia Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe understand the customer's concern regarding the deduction. However, it is important to note that the device was returned with visible scratches, which have downgraded its condition from EXCELLENT to FAIR. Our policy, as outlined in the Quality Charter, necessitates a deduction in such cases to reflect the current condition of the device.\n\nThe \u20ac60 deduction is a fair assessment considering the device's depreciation due to the scratches. This results in a partial refund of \u20ac208.31.\n\nWe hope the customer understands that this deduction is necessary to maintain the integrity and fairness of our quality standards.\n\nPlease let us know if there are any further questions or concerns.\n\nThank you for your understanding.\n\nBest regards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you for your message.\nPlease arrange for a full refund.\nFurthermore, please contact the SSC.\n\nIf you do not do so within 7 hours, I will request a full refund.\n\nRegards,\nRabia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAs mentioned above, the customer had the device for 2 weeks and returned the device with a grade drop. Since the customer is requesting a refund, we re unable to offer a full refund but are open to reducing the deduction.\n\nThe device was purchased in EXCELLENT condition, which indicates that it is free of scratches according to the Quality Charter. As seen from the pictures attached, the device has scratches upon return.\nThe customer has had the device for a certain amount of time, which suggests that he was satisfied with the device condition upon receipt. Now that the device has scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a 60 euros deduction is reasonable which indicates that the customer receives a partial refund of 208.31 euros. Kindly confirm with the customer if this is agreeable.\nThank you.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

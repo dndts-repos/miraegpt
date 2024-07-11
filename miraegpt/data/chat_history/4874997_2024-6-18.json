@@ -1,0 +1,32 @@
+{
+    "sav_id": 4874997,
+    "last_modified_date": "2024-05-23T21:55:44.907914+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is having the following problem:\n\nFor half a day, it was stuck at 1% and would shut down every two minutes, and impossible to charge. It showed that maybe the battery wasn't original even though I hadn't changed it.\n\nThen it completely shut off and wouldn't turn back on; all that appeared was the Apple logo.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nI will come back to you as part of the Ana\u00efs Marchal client file.\n\nAccording to our quality charter, you have 3 working days to take charge of the request and proceed with the shipment.\n\nAfter this period, we will refund the customer at your expense.\n\nHowever, I find that the repair or replacement time has passed, so you will have to find a solution within 24 hours.\n\nPlease send us an active tracking link.\n\nThanks for the understanding.\n\nSincerely,\n\nJacques-Elie from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_UNCERTIFIED_COMPONENT",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

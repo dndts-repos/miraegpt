@@ -1,0 +1,38 @@
+{
+    "sav_id": 4854839,
+    "last_modified_date": "2024-05-16T09:55:50.398577+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 has a problem:\nThe product was going well at first, but after a few weeks the battery started to last less and significantly decreased, but I passed it off as just needing to be reset and then put back together. However, now the issue is more severe - when I woke up in the morning, the screen would turn green and I couldn't do anything. I looked online and people said to restart the phone, so I did, but it was still the same. I also saw that this often happens with iPhones, so since my phone is still under warranty, I'm requesting its repair or refund if not. Honestly, I'm not very happy with the phone due to all that's been happening.\n\nI hope for a response and that this won't be forgotten, thank you.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repair&lt;&lt;.\n\nPlease send it and send us a valid tracking link and the carrier name. If it is a replacement, sends the new IMEI as well within 1 business day. Remember that if you do not send a valid tracking link in a message to us, it is as if you did not send it since we can not verify, and according to the QC, we have to refund.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nMaria Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe phone is locked with a code, could you inform the customer to provide the code to unlock the phone?\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI hope you are having a great day, This is Maria from Back Market.\n\nIf the device has a code or PIN, please use this article https://merchant-support.backmarket.com/hc/en-us/articles/4404918550812-Received-an-iPhone-with-a-passcode \n\nPlease send it and send us a valid tracking link and the carrier name. If it is a replacement, sends the new IMEI as well within 1 business day. Remember that if you do not send a valid tracking link in a message to us, it is as if you did not send it since we can not verify, and according to the QC, we have to refund.\n\nThanks so much for your assistance, we wait for your reply. \n\nRegards,\nMaria from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nEl art\u00edculo est\u00e1 conectado a iCloud o Google.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nThe device is currently locked by the customer's iCloud account. Inform the customer to unlink their account or we will not be able to proceed with the repair.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

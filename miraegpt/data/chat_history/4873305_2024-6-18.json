@@ -1,0 +1,28 @@
+{
+    "sav_id": 4873305,
+    "last_modified_date": "2024-05-23T13:25:42.498981+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 Pro has the above problem:\nThe house number is missing for delivery. Please share the house number with UPS. Address: Triftstra\u00dfe 13\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe house number is missing for delivery. Please let UPS know the house number. Address: Triftstra\u00dfe 13\n\nRegards,\nOlga from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have informed our logistic's partner regarding the updated house address. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

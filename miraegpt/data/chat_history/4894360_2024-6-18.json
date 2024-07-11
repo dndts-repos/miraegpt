@@ -1,0 +1,23 @@
+{
+    "sav_id": 4894360,
+    "last_modified_date": "2024-05-31T13:40:52.950826+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product is iPhone 13 and it has the above problem:\r\n\r\nGood day! The phone case shows more scratches than expected. We would like to keep this gift, so we won't give it away.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe refund request has been processed.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

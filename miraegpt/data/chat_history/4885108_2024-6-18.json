@@ -1,0 +1,43 @@
+{
+    "sav_id": 4885108,
+    "last_modified_date": "2024-05-28T13:40:10.234135+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, the issue with my iPhone 13 is that I cannot remove the sound of the camera shutter, despite trying all available online methods (including Apple's official guides). Even after updating the device software as suggested by Back Market, the problem persists. Thank you for your help.\n\nWhen the seller receives the package, they will have 3 business days (5 business days for laptops and appliances) to repair or replace the product, or 2 business days to process a refund if eligible.\n\nThe customer has satisfied the following requirements for a successful return:\n\u2714 Confirms that the product has not been opened by third parties, nor damaged or exposed to liquids.\n\u2714 Confirms that they have removed their personal data.\n\u2714 Has confirmed possession of the return label.\n\u2714 Accepts including accessories and purchase proof within the package for the return.\n\u2714 Is aware of having 14 days to use the return label.\n\nReminder: once the package is delivered, the seller has 3 business days (5 business days for computers and appliances) to repair or replace the item and 2 business days to process a refund if entitled.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Salve agente,\n\nIl venditore non pu\u00f2 elaborare la restituzione a causa del seguente problema:\nAltro.\nHa aggiunto ulteriori dettagli nel seguente messaggio: Dear Backcare,\n\nThe device was purchased as a GOOD condition. According to the Quality Charter, GOOD condition requires the device to be free of scratches on the screen. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a \u20ac40 deduction will be made once we have completed the diagnosis of the phone and confirm that there are no further issues with it. In the meantime, please do not refund the customer.\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Good morning,\n\n1. Your customer requested\nREIMBURSEMENT\n\nYou cannot deduct the refund amount.\n\nMake sure you move on to the next step within the time frame set by our quality charter.\n\nThanks for your help,\n\nStriel\nBack Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Salve agente,\n\nIl venditore non pu\u00f2 elaborare la restituzione a causa del seguente problema:\nAltro.\nHa aggiunto ulteriori dettagli nel seguente messaggio: Dear Backcare,\n\nWe understand that the customer would like a reimbursement. However, as mentioned, the device was purchased as a GOOD condition. According to the Quality Charter, GOOD condition requires the device to be free of scratches on the screen. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a \u20ac40 deduction will be made once we have completed the diagnosis of the phone and confirm that there are no further issues with it. Please check with the customer on this, and in the meantime, please do NOT refund the customer.\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nAs I already told you, you cannot deduct the amount from the customer's refund.\n\nYou can contact your SSC for more information, please reimburse the customer within the stipulated time.\n\nKind regards,\n\nVictor from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SHUTTER_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "sav_id": 4861751,
+    "last_modified_date": "2024-05-18T19:07:12.700240+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 has the following issue.\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi,  ecomobile:\n\nI hope you are doing well!\n\nPlease could you help us modify the billing information, our customer reports that the ones he has registered in his account did not appear in the invoice:\n\nBilling Address\nCarolina Muedra Izquierdo\nCarrer Pintor Velazquez 5\nbajo n\u00b05\n46130 Massamagrell\nEspa\u00f1a\n\nThank you!\n\nI will be attentive to your answer.\n\nRegards,\nAdriana, from Back Market Customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the invoice.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

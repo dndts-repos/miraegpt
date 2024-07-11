@@ -1,0 +1,23 @@
+{
+    "sav_id": 4857821,
+    "last_modified_date": "2024-05-17T08:12:12.806630+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has a problem:\r\nthe phone has an impact on the casing, we bought it in a state of \"very good\", that is without impact, the phone has not turned on.\r\n\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

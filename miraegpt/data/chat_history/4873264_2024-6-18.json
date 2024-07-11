@@ -1,0 +1,27 @@
+{
+    "sav_id": 4873264,
+    "last_modified_date": "2024-05-23T13:15:32.996427+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 mini has a problem:\r\n\r\nIt wasn't exactly the product I wanted.\r\n\r\nThank you,\r\n\r\rWhen the seller receives the package, they have 3 business days (5 business days for portable electronics and home appliances) to repair or replace the product, or 2 business days to process a refund if it proceeds.\r\n\rnThe customer meets the following requirements to make the return:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or drop.\r\n\u2714 Confirms that they have deleted their personal data.\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that accessories and purchase receipt must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nRemember: once delivered, the seller has 3 business days (5 business days for portable electronics and home appliances) to repair or substitute the article and 2 business days to process a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

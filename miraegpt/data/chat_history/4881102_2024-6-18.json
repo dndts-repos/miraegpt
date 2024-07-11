@@ -1,0 +1,38 @@
+{
+    "sav_id": 4881102,
+    "last_modified_date": "2024-05-26T22:44:20.879325+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has a problem:\nThe screen stopped working and I can't do anything with the phone, not even turn it off, etc...\nThank you,\n\nThe customer confirms that the device has not been opened or repaired by a third party, exposed to water or suffered damage from impact or fall.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Lourdes:\n\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a location that is convenient for you to send your package. You can find a list of drop-off points here: https://www.seur.com/en/busqueda-tiendas.do\n\nPreparation of your return:\n1. Check the instructions on how to return a product <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">here</a>\n2. Don't forget to include any accessories that came with your item\n3. Remove any protective case or screen protector it may have\n4. Package your item and its accessories following the below guidelines \n\nPackaging of the item:\n\u2022 The box should be strong and resistant. You must place your item safely inside the box so it won't move during transit.\n\u2022 Stick the return label on top of the box (you can also add an additional label inside to help identify your shipment in case the original label peels off or gets damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case your item is damaged during transport.\n\nYour return is ready for shipping! We'll notify you when it arrives.\n\nBest regards,\nCustomer Service at Back Market, Customer Service at Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nEl art\u00edculo est\u00e1 conectado a iCloud o Google.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nThe phone we received was of a different IMEI of 354980618039627 instead of 356885190937528, and the phone is still linked to the iCloud, can you kindly request the customer to unlink their iCloud account? Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer remove iCloud correctly. \n\nRegards,\nMaria from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_BLACK",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

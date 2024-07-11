@@ -1,0 +1,43 @@
+{
+    "sav_id": 4928423,
+    "last_modified_date": "2024-06-13T08:57:53.462672+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 is having the following issue:\n\nHello, my package seems to be stuck for three days, can you tell me what's going on? Thank you in advance \n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nAlice - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi!\n\nThe package hasn't been successfully delivered yet and all the requirements for a refund as described by our lost package policy have been fulfilled. \n\nAny and all relevant paperwork has been provided by the customer and shared in this conversation.\n\nPlease send a tracking link for a replacement within 1 business day.\n\nYou can now block the device remotely, if possible.\n\nAll the best,\nAlice, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner and will update you accordingly. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi!\n\nPlease send a tracking link for a replacement within 1 business day or this order will be refunded.\n\nYou can now block the device remotely, if possible.\n\nAll the best,\nAlice, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate incident. As a gesture of our commitment to our customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

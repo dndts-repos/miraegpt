@@ -1,0 +1,52 @@
+{
+    "sav_id": 4901301,
+    "last_modified_date": "2024-06-03T16:36:05.133177+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy Note20 5G is having the following issue:\r\n\r\nThe phone won't detect the SIM card and I have no network connection. The phone has been turned off and on, settings updated, and even restored to factory settings. I've also tried a different SIM card, but nothing changed. I do have network access on other phones with the same SIM card, so the problem is with the phone.\r\n\r\nI tested different SIM cards from multiple operators and still had the same issue.\r\n\r\nThank you for your help,\r\n\r\nOnce the package is received, the seller has 3 working days (5 if it's a laptop or household appliance) to replace or repair your product. Alternatively, they have 2 working days to process a refund (if eligible).\r\n\r\nA return is considered complete when the customer has met all of the following conditions:\r\n\u2714 Confirms that the product was not repaired by someone else and has not been damaged due to a fall or exposure to water.\r\n\u2714 Confirms that personal data has been deleted.\r\n\u2714 Has confirmed having the return label.\r\n\u2714 Understands that they must include accessories and proof of purchase in their package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nReminder: Once received, the seller has 3 working days (5 if it's a laptop or household appliance) to replace or repair your product. Alternatively, they have 2 working days to process a refund (if eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Bonjour,\n\nLe vendeur n'est pas en mesure de traiter le retour en raison du probl\u00e8me suivant :\nL\u2019article est verrouill\u00e9 par un code ou un sch\u00e9ma de d\u00e9verrouillage.\nPlus de d\u00e9tails ont \u00e9t\u00e9 ajout\u00e9s dans le message suivant : Dear Backcare,\n\nThe phone is locked with a code. Kindly assist the customer in unlocking their device otherwise we are unable to proceed with the repair. Thank you for your understanding and cooperation.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nFollow the factory reset procedure to delete the customer's data from the phone. You are not responsible for the fact that the customer has left their data on the phone.\n\nThe only purpose of this procedure is to save you time and avoid return postage costs.\n\nWe thank you for your cooperation and wish you a good day.\n\nThank you for your collaboration,\n\nKouassi Jean-Luc from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThanks for your cooperation.\n\nRegards,\nKouassi Jean-Luc from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair, the 07/06/2024. The delay to repair or exchange the product is 3 days for technical issue. Without an answer with a valid tracking link before the 14/06/2024we will refund the customer.\n\nThank you for understanding,\nKouassi Jean-Luc from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SIM_CARD_NOT_RECOGNIZED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

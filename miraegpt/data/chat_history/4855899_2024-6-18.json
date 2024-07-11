@@ -1,0 +1,66 @@
+{
+    "sav_id": 4855899,
+    "last_modified_date": "2024-05-16T15:04:03.373771+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 12 mini has the above problem: \nGood morning, unfortunately I have to report this to you. The device is absolutely junk. Initially, it immediately caught my eye that the rear glass may not be original because it never fell off (despite case, etc.), but after a week, it shattered. But well, one doesn't complain about that anyway. In addition, the microphone quality is terrible. When recording audio or making calls, the mic seems to be destroyed or defective, making it so sensitive that even a simple finger on the back of the phone is enough to make the conversation unintelligible. Lastly, I now commit the greatest impertinence by making the phone completely unusable after 1.5 months. The battery showed me out of nowhere a warning about an unknown component. Since then, the phone has been OVERALL NOT USEFUL AT ALL! Even with constant charging, it runs out after less than a minute. So I even had trouble setting it back up. I demand a new phone or refund. Because it can't be that I get something like this despite excellent condition. Everyone would get annoyed.\nBest regards,\nFinja W.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist au\u00dferhalb der Garantie.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nWe confirmed the receipt of the device, however after inspecting, we found that the phone was cracked at the back. As per the Back Market quality charter, we are unable to make a repair or exchange the product which is our warranty, and hence non compliant. Kindly check with the customer if the address below is correct: \n\nFinja Wieseke\nEbertystra\u00dfe 23\n10249 Berlin\nGermany\n0176 78020300\n\nThank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nCustomer informed about warranty exclusion! Plese send shipment details!\nCustomer address: \nFinja Wieseke\nEbertystra\u00dfe 23\n10249 Berlin\nDeutschland\n0176 78020300\n\nThank you for understanding,\nRosa from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order will be shipped with DPD. The tracking number is: 10084001673827.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello Finja,\n\nYou can find your return label attached to this message. Your return will be processed by Chronopost. Simply drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nBefore you prepare your return, follow these steps:\n1. <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">Find instructions on how to return an item</a>\n2. Don't forget to include any accessories that came with your product\n3. Remove any existing protective cover or film\n4. Package your product and its accessories according to the tips below:\n\nHow to package your product:\n\u2022 The box should be sturdy and stable, and your product should be positioned in a way that it won't move during transit.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside for identification purposes if the original one is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before sending it. This will protect you in case your product gets damaged during transit.\n\nYour return is now ready to be dropped off! We'll notify you as soon as it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_INCALL",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "AUDIO_SOUND_QUALITY",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_NOT_CHARGING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_UNCERTIFIED_COMPONENT",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SCREEN_DETACHED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

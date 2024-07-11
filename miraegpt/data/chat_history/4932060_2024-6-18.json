@@ -1,0 +1,33 @@
+{
+    "sav_id": 4932060,
+    "last_modified_date": "2024-06-14T12:42:47.966000+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 Pro has the above problem: I haven't received my order since it was delayed and never communicated when it will be delivered. Kindly assist Order # 41281646\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nCould you please contact UPS to find out why the parcel wasn't delivered?\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have informed my logistics partner of this issue and await the POD.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD. Please let us know if the customer wishes to contest.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "sav_id": 4855338,
+    "last_modified_date": "2024-05-16T12:19:06.988287+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 has the above problem: \nHello, I am eagerly waiting for my package and it hasn't given any updates for over 48 hours. It's supposed to arrive today but is still in transit again. What's going on? \n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer has not yet received the delivery. The status has changed since 05/14/24. not changed.\n\nCould you please contact the supplier and ask where the package went.\n\nSofie Rahn\nGr\u00f6perstra\u00dfe 29\n16909 Wittstock/Dosse\nDeutschland\n+4915225323858\nsofierahn04@icloud.com\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nCan you please give me a reply to my previous message.\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\ni have informed our logistics partner of this issue and await updates.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has the above problem:\r\n\r\nPackage apparently lost, waiting since 1.5 weeks although it should have arrived last Tuesday.\r\n\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n \nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nErcan - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\nThis order will be refunded in 24 hours \n\nYou can now blacklist the device.\n\nBest regards,\nErcan - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shared the necessary documents with our logistics partner. We would get back to you when we receive a reply from them. Please do NOT refund the customer in the mean time.\n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "sav_id": 4872777,
+    "last_modified_date": "2024-05-23T10:56:49.290999+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has a problem:\r\nIt says the package was delivered but it hasn't arrived at my home. I'm home all morning and no one has shown up.\r\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile.\n\nThis is Linda from Back Market Customer Care.\n\nI hope you're doing well.\n\nI just want to ask if you can contact the carrier and ask where the pickup point address is, because there's no information about this in the tracking link, or if you could try another delivery for the same address.\n\nThanks for your help.\n\nRegards,\nLinda from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner ragarding the situation and will update you accordingly.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD. If the customer wishes to contest, kindly send us the handwritten CND with the IMEI of the device and the customer's ID. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

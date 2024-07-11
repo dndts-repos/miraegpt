@@ -1,0 +1,32 @@
+{
+    "sav_id": 4918635,
+    "last_modified_date": "2024-06-10T09:15:28.428480+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 is experiencing the issue above.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer would like this order to be cancelled and reimbursed.\n\nAs the order has not yet been dispatched.\n\nPlease make the necessary arrangements and get back to us as soon as possible.\n\nRegards,\nMeliane-Alexis-Betty-Morelle from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order has been successfully cancelled and the customer has been refunded.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

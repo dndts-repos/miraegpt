@@ -1,0 +1,32 @@
+{
+    "sav_id": 4867424,
+    "last_modified_date": "2024-05-21T15:48:08.607003+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 has the following issue.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer wants his order to be sent to him.\n\nRegards,\nAdriana from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel is still on the way to the customer's shipping address, and the details of shipment can be extracted from the following shipping link: \nhttps://www.ups.com/track?loc=es_es&amp;requester=QUIC&amp;tracknum=1ZBF1560D901113238/trackdetails\n\nWe kindly ask for patience from the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NEED_FASTER_DELIVERY",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "sav_id": 4899300,
+    "last_modified_date": "2024-06-02T22:04:50.761557+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 12 Pro has the above issue: My charging cable overheats and doesn't charge properly anymore. I'd like to request a replacement under warranty. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nthe customer reported that the charger gets too hot and doesn't charge the device. \n\nPlease send the customer a new charger. \n\nThanks for your help in keeping our shared customers happy!\nDiogo Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are sorry that the customer is having issues with the charging cable. Under the Quality Charter, we are able to give a commercial gesture of 10 euros for the customer for the defective cable. Can you check with the customer regarding this commercial gesture. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nthe customer doesn't want the commercial gesture, he wants the cable. \n\nPlease send a charger to the charger.\n\nThanks for your help in keeping our shared customers happy!\nDiogo Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately we are unable to ship the cable to the customer. As such, we are offering 10 euros as a commercial gesture for the cable in accordance to the Quality Charter.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CHARGER_CABLE_BROKEN",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

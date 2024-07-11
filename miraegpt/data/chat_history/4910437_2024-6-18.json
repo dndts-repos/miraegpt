@@ -1,0 +1,58 @@
+{
+    "sav_id": 4910437,
+    "last_modified_date": "2024-06-06T14:17:26.935691+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 has the above problem: According to Back Market, the package was delivered. However, I didn't receive it and UPS also says that it hasn't been delivered yet. Although it's already been at UPS in Hamburg for a week.\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nFatma - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly assist the customer in preparing a handwritten CND with the IMEI of the device and their ID. We will check with our logistics partner. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi!\n\nThe package hasn't been successfully delivered yet and all the requirements for a refund as described by our lost package policy have been fulfilled. Any and all relevant paperwork has been provided by the customer and shared in this conversation.\n\nYou can use the documents in the details to look into the matter with your delivery company\n\nPlease send a tracking link for a replacement within 1 business day or this order will be refunded.\n\nYou can now block the device remotely, if possible.\n\nAll the best,\nFatma, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nPlease ask the customer to provide HANDWRITTEN CND with IMEI of the device. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nhere the handwritten document.\n\nCan you please send the customer a new device \n\nThank you\n\n\nRegards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will check if we have available stocks for replacement. In the case of a replacement, we want to ensure that the customer's address is correct. Kindly assist us in confirming that the customer's shipping address is as follows, in order to ensure the delivery can occur smoothly and accurately. \n\nMichael Holtmann\nAlversloweg 30a\n22359 Hamburg\nGermany\n0160 90992967\nshipping_11906603_40780559@eu.perso-email.com\n\nPlease let us know if there are any updates or corrections needed, in order for us to ship the parcel promptly. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you for your feedback.\n\nI will be happy to send you the address again with the correct e-mail address:\n\n\nMichael Holtmann\nAlversloweg 30a\n22359 Hamburg\nDeutschland\n0160 90992967\nmi.holtmann@t-online.de\n\nRegards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe courier is still investigating this issue. As such, we are unable to ship out a new device until we can confirm that the parcel is lost. We will keep you updated and seek your understanding, please do not refund the customer yet.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

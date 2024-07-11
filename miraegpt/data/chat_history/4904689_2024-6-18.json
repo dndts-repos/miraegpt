@@ -1,0 +1,63 @@
+{
+    "sav_id": 4904689,
+    "last_modified_date": "2024-06-04T18:05:06.834223+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has a problem:\nThe package was supposed to arrive on May 30, today is June 4 and it hasn't arrived yet. Neither UPS updates me on when it will arrive, I have no idea about the package... \nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nMichael - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly assist the customer in preparing a handwritten CND with the IMEI of the device and their ID. We will check with our logistics partner. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi!\n\nThe package hasn't been successfully delivered yet and all the requirements for a refund as described by our lost package policy have been fulfilled. Any and all relevant paperwork has been provided by the customer and shared in this conversation.\n\nYou can use the documents in the details to look into the matter with your delivery company\n\nPlease send a tracking link for a replacement within 1 business day or this order will be refunded.\n\nYou can now block the device remotely, if possible.\n\nAll the best,\nMichael, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe require that the CND is HANDWRITTEN. Kindly assist the customer in fulfilling this so that we may proceed with the necessary actions. Thank you for your cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nWe have made the request to the customer, we are waiting for their response.\n\nRegards,\nMichael from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nHere you are the information: \n\nRegards,\nMichael from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for the documents, we have forwarded them to our logistics partner and await updates.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nRemember that the customer has requested to receive a new shipment, if in 24 hours you do not provide the tracking information, we will proceed to force the refund. \n\nRegards,\nMichael from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate incident. As a gesture of our commitment to our customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

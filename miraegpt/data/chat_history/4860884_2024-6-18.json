@@ -1,0 +1,31 @@
+{
+    "sav_id": 4860884,
+    "last_modified_date": "2024-05-18T11:42:26.237066+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My Galaxy S21 5G has the above problem: The device's issue is that it turns off when charging at a power outlet (wall socket). As a result, it cannot be charged. The only way to charge the battery is by connecting it to a laptop. Only then (after several attempts) does it charge. I have tried both with the provided cable and a new Samsung charger cable, but that doesn't work either. Thank you for your help.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_NOT_CHARGING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

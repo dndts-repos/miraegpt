@@ -1,0 +1,33 @@
+{
+    "sav_id": 4862652,
+    "last_modified_date": "2024-05-19T15:02:30.158048+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 12 has a problem:\r\nThe device doesn't last very long, with 2 hours of use it usually remains with less than 15%.\r\nThank you,\r\n\r\nThe customer confirms that the device has not been opened or repaired by a third party, exposed to water or suffered damage from impact or fall.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Rebecca:\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a location that is convenient for you to send your package. You can find a list of drop-off points here: https://www.seur.com/en/busqueda-tiendas.do\n\nPreparing Your Return:\n1. Consult the instructions on how to return a product <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Don't forget to include any accessories that came with your item\n3. Remove any protective cover or screen protector it has\n4. Package your item and its accessories following these tips\n\nPackaging the Item:\n\u2022 The box must be strong and resistant. You must place your item securely inside the box so it doesn't move during transit.\n\u2022 Attach the return label to the top of the box (you can also add an additional label inside to help identify your shipment in case the original label peels off or becomes damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case your item is damaged during transportation.\n\nYour return is ready for shipping! We'll inform you when it arrives.\nBest regards,\nThe Customer Service Team at Back Market, The Customer Service Team at Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\n\"Just a friendly reminder that the customer is waiting for their REFUND\n\nWhen none of the following issues apply or when they are not correctly communicated, we would like to ask you to carry out the refund within the next 1 business day, or we will refund the order on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected.\niCloud: https://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\n\nRegards,\nOscar from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

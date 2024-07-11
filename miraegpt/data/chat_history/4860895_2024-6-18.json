@@ -1,0 +1,28 @@
+{
+    "sav_id": 4860895,
+    "last_modified_date": "2024-05-18T11:46:29.895053+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 12 has a problem:\r\nIt came with the charger, but the charger doesn't work\r\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile, \n\nMy name is Angie, nice to meet you! I hope this message finds you amazing.\n\nWe hope you\u2019re doing well. We\u2019re reaching out to let you know that the charging cable that your customer Sara ordered is defective.\n\nPlease ship a replacement accessory within 48 hours and send us the tracking number. \nIf you don\u2019t have the item in stock, or can\u2019t ship it in the next 48 hours, we\u2019ll give them a goodwill gesture of 10 \u20acat your expense as stated in our Quality Charter. \n\nPlease note that the new accessory should be delivered to the customer within 5 business days and that the shipment should be tracked, as per the Quality Charter.\n\nThanks for taking care of this,\nAngie, Back Market Customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear BackCare,\n\nWe are willing to offer the customer a commercial gesture for this inconvenience with respect to the amount stated at the Quality Charter of 10 euros.\nThank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CHARGER_CABLE_BROKEN",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

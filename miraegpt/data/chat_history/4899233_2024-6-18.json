@@ -1,0 +1,28 @@
+{
+    "sav_id": 4899233,
+    "last_modified_date": "2024-06-02T21:34:18.465014+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has the following issue: I'd like to change the color from blue to pink. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the cancellation of the order. We will refund the customer once the cancellation has been made. Kindly inform the customer to purchase a new pink phone. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have cancelled the order and refunded the customer. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

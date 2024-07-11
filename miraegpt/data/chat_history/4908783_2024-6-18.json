@@ -1,0 +1,27 @@
+{
+    "sav_id": 4908783,
+    "last_modified_date": "2024-06-05T21:25:05.880841+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is experiencing the following issue:\n\nThe white iPhone 12 was purchased after the mauve iPhone 12 experienced a malfunction. Meanwhile, the mauve iPhone 12 has started working again.\nThe DPD service informs us that the portable device is in transit. This is a terrible service.\nWe are asking you to take care of this with DPD to obtain a refund for the white iPhone 12. \nThank you for your help,\n\nOnce received, the seller has 3 business days (5 if it's a laptop or electronic appliance) to replace or repair your product. Alternatively, they have 2 business days to process a refund (if eligible).\nA return is considered complete when the customer confirms that:\n \u2714 The product has not been repaired by a third party and has not suffered any damage due to a fall or exposure to water.\n \u2714 Personal data has been deleted.\n \u2714 They have confirmed that they have the return label.\n \u2714 They understand that they must include accessories and proof of purchase in their package.\n \u2714 They have 14 days to use the return label.\nReminder: Once received, the seller has 3 business days (5 if it's a laptop or electronic appliance) to replace or repair your product. Alternatively, they have 2 business days to process a refund (if eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "sav_id": 4917811,
+    "last_modified_date": "2024-06-09T19:00:01.562887+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 is experiencing the issue above.\r\n\r\nThank you for your help,\r\n\r\nOnce the package is received, the seller has 3 business days (5 if it's a laptop or home appliance) to replace or repair your product. Or, 2 business days to process its refund (if you're eligible).\r\n\r\nA return is considered complete when the customer has met all the following conditions:\r\n\u2714 Confirms that the product has not been repaired by someone else and has not suffered any damage due to a fall or exposure to water.\r\n\u2714 Has confirmed having a return label.\r\n\u2714 Understands they must include accessories and proof of purchase in their package.\r\n\u2714 Understands it has 14 days to use the return label.\r\n\r\nReminder: Once received, the seller has 3 business days (5 if it's a laptop or home appliance) to replace or repair your product. Or, 2 business days to process its refund (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the cancellation of the order. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order has been successfully cancelled and the customer has been refunded.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

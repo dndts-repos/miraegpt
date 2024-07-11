@@ -1,0 +1,28 @@
+{
+    "sav_id": 4920674,
+    "last_modified_date": "2024-06-10T18:53:40.775714+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has a problem:\nI need to change the company name on the bill. \nThe correct information is:\nSOLYTEX CONTROL SOLAR, C.B.\nE-98846645\nSan Jaime n\u00ba52\n46870 - Ontinyent - Valencia\nTHANK YOU VERY MUCH\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe client has already requested the invoice days ago. We remind you that according to the article 2.7 of the Quality Charter, you are supposed to provide an invoice within 24 hours following the sending of the product.\n\nCan you please send us the invoice within 48 hours? If we do not receive it in time, we will be forced to apply the Back Market charter and grant a commercial gesture to the customer worth 50\u20ac at your expense.\n\nPlease make sure that the invoice contains:\nSOLYTEX CONTROL SOLAR, C. B.\n\nE-98846645\n\nSan Jaime n\u00ba52\n46870 - Ontinyent - Valencia\n\nIf you need more information about the invoice, here is an article that will answer your questions: https://merchant-support.backmarket.com/hc/en-gb/articles/360019750759-How-to-establish-a-B2C-invoice-that-is-compliant-with-the-law-\n\nWe count on you, thanks for your continued partnership and support.\n\nRegards,\nAndres from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the updated invoice.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

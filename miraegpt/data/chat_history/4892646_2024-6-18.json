@@ -1,0 +1,23 @@
+{
+    "sav_id": 4892646,
+    "last_modified_date": "2024-05-30T19:46:15.116451+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has a problem:\nThe camera doesn't focus well. In close-up photos, it sometimes focuses, but normal-distance photos come out blurry. I've restarted and updated the device, and both actions haven't had any effect.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

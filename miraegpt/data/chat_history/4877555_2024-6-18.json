@@ -1,0 +1,31 @@
+{
+    "sav_id": 4877555,
+    "last_modified_date": "2024-05-24T20:28:29.483087+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy Galaxy S21 5G is experiencing the following issue:\nI'm not heard during calls.\nI've even tried recording something on Dictaphone, and the line was straight while I was speaking and there was background noise.\nAt the level of the connector: my phone no longer charges through its port. I've used several chargers and cleaned the port as much as possible.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we are unable to repair the device and we do not have enough stock to process an exchange. I have proceeded with a refund instead.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_INCALL",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "MICRO_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

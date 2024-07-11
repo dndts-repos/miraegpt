@@ -1,0 +1,52 @@
+{
+    "sav_id": 4857920,
+    "last_modified_date": "2024-05-27T15:45:31.876628+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy Note20 Ultra 5G is experiencing the following issue:\r\nHello, I ordered this model that's supposed to be compatible with eSim, but it's not. I find myself today having changed operators and no longer having a phone line from May 28th. Moreover, after having another note 20 ultra 5g in my hands, mine seems to have a mobile part inside that wobbles.\r\nWhat can I do?\r\nBest regards\r\nThank you for your help,\r\n\r\nThe customer confirms that the article has not suffered any damage due to a fall or exposure to water, and has not been repaired by a third party.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Bonjour ecomobile,\n\nI hope you are well.\n\nI'm taking the liberty of contacting you following a complaint from a customer concerning his Galaxy Note20 Ultra 5G 256 GB - Black - Unlocked.\n\nHe contacted us because the device is not compatible with an eSim and seems to have a moving part inside that moves.\n\nAs remote assistance is not yet available for this type of item, please let us know what solutions you can offer the customer.\nThank you in advance, \n\nNB: In the absence of a reply from you, the customer will be obliged to return the appliance to you. \n\nEliane, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\n\nMy Galaxy Note20 Ultra 5G is having the following issue:\n\nDuring purchase, the phone presented a feature that it can function with an E SIM. That's not the case. After changing my operator, I found myself without phone service starting from May 28th.\n\nAdditionally, the 5G is completely unstable.\n\nAfter handling another Note 20, I realized that one piece seems to be movable inside the phone and has been since reception.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare, please relay the following to the customer:\n\nKindly visit the following link to try installing eSIM again:\nhttps://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/\n\nAdditionally, if that does not work, here is a link for solutions regarding common eSIM installation problems:\nhttps://eu.community.samsung.com/t5/galaxy-s22-series/e-sim-installation-problems/td-p/6518828\n\nRegarding the network issues: This may be a settings issue instead of an actual hardware issue with the device. Please use this link to troubleshoot issues related to the network and connectivity issues:\nhttps://www.samsung.com/us/support/troubleshooting/TSG01212956/\n\nIf the issues continue to persist, we would like to politely offer a commercial gesture of 40 euros, rather than a return which will generate a lot of harmful carbon emissions.  We hope these solutions would prove helpful to you.\n\nThank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI've taken good note of your message and thank you for your feedback.\n\nThe customer has already sent the device and is requesting an exchange because the problem is not only that he does not recognize the eSim, but it seems that there is a part moving inside and this is causing him concern.\n\nI would be grateful if you could consider this request for the satisfaction of our customer.\n\nYours faithfully\n\nEliane Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello ecomobile,\n\nJust a friendly reminder, as we noticed that you received a package for a return under warranty more than 3 business days ago (on 05/22/24). We remind you that the intervention time (return of a product or refund) is 3 business days in the case of a technical problem.\n\nPlease provide us with the tracking number of the repaired/replaced product within the next 24 business hours, otherwise we will have to proceed with the refund in accordance with the Back Market charter.\n\nThank you in advance for your help,\nFafonie from Back Market.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PRODUCT_MODEL_BRAND",
+            "tag": "BAD_PRODUCT"
+        },
+        {
+            "customerIssue": "BAD_PRODUCT_MODEL_BRAND",
+            "tag": "BAD_PRODUCT"
+        }
+    ]
+}

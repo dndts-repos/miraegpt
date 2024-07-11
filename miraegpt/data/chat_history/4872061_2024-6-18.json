@@ -1,0 +1,27 @@
+{
+    "sav_id": 4872061,
+    "last_modified_date": "2024-05-22T22:26:00.863921+02:00",
+    "language": "dutch",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 12 has the above problem. \nOther phone in mind \nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

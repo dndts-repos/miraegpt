@@ -1,0 +1,28 @@
+{
+    "sav_id": 4882337,
+    "last_modified_date": "2024-05-27T14:14:31.651427+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product iPhone 13 mini has the above problem: \r\nIt doesn't connect to mobile network. First, I had a SIM card that didn't work (also not with my old iPhone) and then I ordered a new one that worked for 1.5 days. Initially, the mobile data was gone. After turning off and on again, there was still no network. The phone wants the SIM PIN, it's also connected to networks, but remains without network. And this is despite two different cards from two different providers. Now, the card is in my old iPhone and I have full reception.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nPlease send customers an EU device or refund. Please remember the IMEI if you are replacing the device\n\nThank you for understanding,\nSeda from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately we have insufficient stocks available for an exchange, instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

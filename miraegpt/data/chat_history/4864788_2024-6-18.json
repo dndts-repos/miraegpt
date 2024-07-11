@@ -1,0 +1,31 @@
+{
+    "sav_id": 4864788,
+    "last_modified_date": "2024-05-20T17:24:54.577017+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 is experiencing an issue as follows:\nThe phone turns off unexpectedly while the battery is at 50%, and it may restart on its own or I need to do so. After restarting, the battery shows 10%. The sound tends to malfunction when watching a video. It then recovers on its own.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to solve the issue and we have insufficient stocks available for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_INCALL",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

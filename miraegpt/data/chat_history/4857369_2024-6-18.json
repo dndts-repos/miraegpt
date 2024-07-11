@@ -1,0 +1,23 @@
+{
+    "sav_id": 4857369,
+    "last_modified_date": "2024-05-16T21:48:16.189601+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has the above problem:\nGood day, during video recordings, there is always a humming noise that cannot be removed. Therefore, I would like to return the phone for a refund of the purchase price.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_SOUND_QUALITY",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "sav_id": 4869150,
+    "last_modified_date": "2024-05-22T08:51:49.069629+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is iPhone 13 Pro, which has the above problem:\nIncorrect delivery address, correct: Jahnstrasse 5 B, 17033 Neubrandenburg\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile \n\nThe customer has entered the wrong delivery address (location). Can you change this?\nCorrect: Jahnstrasse 5 B, 17033 Neubrandenburg\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello, \nMy product iPhone 13 Pro has the above problem: \nThe shipping address was wrong. Correct: Dietmar Olstedt 17033 Neubrandenburg Jahnstra\u00dfe 5b\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have updated our logistics partner with the correct address. In the meantime, kindly do not refund the customer, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer has requested the invoice for this order. While we are waiting for the invoice, I have sent the proof of payment.\n\nCan you please provide the invoice within the next 48 hours so we can send it to the customer?\n\nAs a reminder, if the invoice is not received within 48 hours of this request, we will have to make a goodwill payment of 20% of the order value (including tax but excluding shipping), up to a maximum of \u20ac50.\n\nWe look forward to hearing from you.\n\nThank you for your continued partnership and support\n\nThank you for understanding,\nRabia from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the invoice in this message. Do let me know if the customer still requires any further assistance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "ACCESSORIES_OTHER_ISSUE",
+            "tag": "ACCESSORIES"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4872975,
+    "last_modified_date": "2024-05-23T11:56:54.336728+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hola,\n\nMy iPhone 13 has a problem:\nWhen speaking on the phone, it's barely audible. If I don't use the loudspeaker, the other person can hardly hear me.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_SOUND_QUALITY",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

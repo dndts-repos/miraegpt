@@ -1,0 +1,27 @@
+{
+    "sav_id": 4899722,
+    "last_modified_date": "2024-06-03T09:22:59.360880+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has this issue. Thank you for the help,\n\nWhen the seller receives the package, they will have 3 working days (5 working days for laptops and household appliances) to repair or replace the product, or 2 working days to process a refund if eligible.\nThe customer must meet the following requirements for a successful return:\n\u2714 Confirm that the product has not been opened by third parties, nor damaged or exposed to liquids.\n\u2714 Confirmed to be in possession of the return label.\n\u2714 Agrees to include accessories and purchase proof inside the package to process the return.\n\u2714 Is aware of having 14 days to use the return label.\nReminder: Once the package is delivered, the seller has 3 days (5 days for computers and household appliances) to repair or replace the item and 2 days to process a refund if entitled.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have cancelled the order and refunded the customer. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "sav_id": 4878509,
+    "last_modified_date": "2024-05-25T12:24:15.467576+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has the above problem:\r\nThe speaker at the top doesn't work properly and distorts sounds. The microphone below makes noise for callers with whom I communicate.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to resolve the issue and we do not have sufficient stock for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_INCALL",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "AUDIO_SOUND_QUALITY",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

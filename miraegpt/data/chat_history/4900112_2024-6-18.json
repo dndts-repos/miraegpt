@@ -1,0 +1,68 @@
+{
+    "sav_id": 4900112,
+    "last_modified_date": "2024-06-03T11:25:41.495485+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 Pro has the above problem: My package should have been delivered by May 31st, 2024. So far, nothing has changed on the website, except that the package hasn't arrived yet. I also received an email saying it's delayed, but there was no reason given. Now the question is where is it?? LG Kahnau Many thanks for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n \nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nFabio - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer has already sent us the necessary documents, please open an inquiry and send a new device within the next 24 hours.\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for submitting the relevant documents, we have informed our logistics partner about the issue. We will update you soon.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nIf you don't send the device within 24 hours, we'll refund you.\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur logistics partner requires the phone number of the customer. Kindly assist us in confirming if the following is the customer's phone number: 01520 2552062. In the meantime, please do not refund the customer. Thank you for your cooperation and understanding.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nYes, it's the customer contact.\n\nPlease send a new device to the customer within 24 hours, otherwise we will refund.\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease do not refund the customer yet as it seems that the courier will try to contact the customer directly with the phone number you have provided.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nOK, we'll wait for the last 24 hours, and if the customer doesn't get the device, you'll be informed by us.\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will take note of this.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nWe will refund the customer.\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4870615,
+    "last_modified_date": "2024-05-22T15:44:25.276159+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has a problem:\n\nSince the first of April, the phone's battery functioned strangely:\nThe durability was very short, despite the battery state showing 100%, I had to put my phone on charge at least twice a day. \nCurrently, I leave the house in the morning with a 100% battery and by lunchtime, it's already gone (with completely normal usage). \nAdditionally, the durability is unstable, it can go from 60% to 57% in just one second, for example. \nFurthermore, note that the battery capacity has decreased from 100% to 91% in just two months, and it gets worse every time.\n\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

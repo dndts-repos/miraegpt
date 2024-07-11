@@ -1,0 +1,37 @@
+{
+    "sav_id": 4907540,
+    "last_modified_date": "2024-06-05T15:39:37.115019+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 is having the following issue:\r\n\r\nI ordered my daughter's first phone and had a problem with the bank message that didn't go through for me, so I restarted.\r\nUnfortunately, I accidentally ordered two phones without realizing it.\r\nI refused the package this morning when the courier arrived. I clearly specified on his delivery note and on the package (which I'm attaching photos) that I refused the package.\r\nThe package was in perfect condition as you can see from the photos upon arrival.\r\nI refused and immediately returned the package to the courier for return to the sender.\r\nI am also requesting a full refund of the amount debited on June 4, 2024, which is \u20ac451.36.\r\nThank you for your understanding.\r\nBest regards,\r\nAudrey PRAT\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nTracking indicates that your parcel has been returned to you.\n\nThank you for refunding the customer.\n\nRegards,\nGbadia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe are currently confirming with our logistics partner that the parcel has not been opened.\n\nIn the meantime, please do not refund the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

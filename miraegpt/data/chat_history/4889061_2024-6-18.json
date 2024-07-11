@@ -1,0 +1,28 @@
+{
+    "sav_id": 4889061,
+    "last_modified_date": "2024-05-29T17:25:08.574338+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 13 Pro has the above problem. \nDear Customer Service from Backmarkt,\nI hope you are doing well. I am writing to request a tax-free form for a purchase I made in your store.\nPurchase details:\nPurchased date: May 16, 2024\nOrder number/Invoice number: 40570399\nPurchased items: iPhone 13 Pro 128GB- Silver - No contract\nTotal expenses: \u20ac551.94\nI recently left Germany and at the customs point at the airport, I was informed that I need a tax-free form to request a value-added tax refund. The customs officers have already stamped my receipt.\nCould you please send me the required tax-free form so that I can complete my application for value-added tax refund? If you require any additional information or documents from me, please let me know.\nThank you for your support.\nBest regards,\nSlim Abid\n015753061271\nKolpingring 18A EnOcean GmbH 82041 Oberhaching Germany",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nCan you please issue the customer with the document he needs?\n\nRegards,\nEbru from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the invoice.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

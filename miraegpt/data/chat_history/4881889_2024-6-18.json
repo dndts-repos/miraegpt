@@ -1,0 +1,76 @@
+{
+    "sav_id": 4881889,
+    "last_modified_date": "2024-05-27T11:54:44.191393+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has a problem:\n\nThere are several things that have come up during the test, but the fundamental one is that it won't let me link the card to apple pay wallet. The message \"verification not available. Try again in a few minutes\" pops up.\n\nThank you,\n\nThe customer confirms that the device has not been opened or repaired by a third party, exposed to water or suffered damage from impact or fall.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Ixone:\n\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a location that is comfortable for you to send back your package. You can find a list of delivery points here: https://www.seur.com/en/busqueda-tiendas.do\n\nPreparation of your return:\n1. Consult the instructions on how to return a product <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">here</a>\n2. Don't forget to include any accessories that came with your article\n3. Remove any protective cover or screen protector that it has\n4. Package your article and its accessories following the tips below \n\nPackaging of the article:\n\u2022 The box must be strong and resistant. You should place your article inside the box safely so it doesn't move during transit.\n\u2022 Stick the return label on top of the box (you can also add a supplementary label inside to help identify your shipment in case the original label peels off or gets damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case your article gets damaged during transport.\n\nYour return is ready for shipping! We'll let you know when it arrives.\n\nBest regards,\nBack Market Customer Service, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nHi there, here Juan again, I hope you're fine!\n\nPlease provide a repair o replacement because the customer have issues with the Apple Wallet and the battery \n\nWe thank you for your attention to this issue, and we look forward to your reply. \n\nRegards,\nJuan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nHi there, here Juan again, I hope you're fine!\n\nProvide the solution as soon as possible. I will be attentive to your response.\n\nWe thank you for your attention to this issue, and we look forward to your reply. \n\nRegards,\nJuan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur repair team is still processing the device, we will update you once it is cleared to be refunded\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nOtros.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nPlease disregard the previous message\n\nOur repair team is still processing the device, we will update you once it is repaired \n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nHi there, I'm Juan from Back Care, I hope you're having an awesome week. \n\nI will be aware of your response, remember that the seller needs the device as soon as possible.\n\nThank you very much for your help, I will be attentive to your answer.\n\nRegards,\nJuan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device seems to be locked with a code. Could you assist the customer in unlocking the device?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nHi there, here Juan again, I hope you're fine!\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nPlease provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter.\n\nWe can not provide you with a password because this is not possible. When you receive the phone, please do a complete restore and verify. If the phone is good and doesn't have any issues, please proceed with the replacement\n\nThanks for your help in keeping our shared customers happy!\nJuan Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "MICRO_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "NFC_PAYMENT_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

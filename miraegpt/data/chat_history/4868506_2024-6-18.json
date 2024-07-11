@@ -1,0 +1,41 @@
+{
+    "sav_id": 4868506,
+    "last_modified_date": "2024-05-21T20:55:08.726376+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has the above problem:\nThe Wi-Fi and Bluetooth no longer work, the phone restarts every 2-5 minutes, so it turns on and off, and sometimes the touch screen doesn't respond without any reason.\nUnfortunately, I added a crack to the display on the same day, and I don't expect the repair for that to be covered.\n\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist au\u00dferhalb der Garantie.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nWe confirmed the receipt of the device, however after inspecting, we found that the phone was cracked at the screen. As per the Back Market quality charter, we are unable to make a repair or exchange the product which is our warranty, and hence non compliant. Kindly check with the customer if the address below is correct: \n\nUriel Vinograd\nHobrechtsfelder Dorfstrasse 24\n16341 Panketal\nGermany\n0176 31639898\n\nThank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nPlease send the Device to the following Address:\n\nUriel Vinograd\nHobrechtsfelder Dorfstra\u00dfe 24\n16341 Panketal\nDeutschland\n0176 31639898\n\nRegards,\nSila from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order will be shipped today by DPD. The tracking number: 10084001702041\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BLUETOOTH_NOT_DETECTED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WIFI_NOT_DETECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

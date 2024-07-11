@@ -1,0 +1,41 @@
+{
+    "sav_id": 4885504,
+    "last_modified_date": "2024-05-28T15:33:14.158943+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 is experiencing the following issue:\n\nMaterial problem on the cellular base band and e-SIM.\n\nThank you for your help,\n\nOnce received, the seller has 3 business days (5 if it's a laptop or electrical appliance) to replace or repair your product. Or, 2 business days to process a refund (if you're eligible).\n\nA return is considered complete when the customer has met all the following conditions:\n\u2714 Confirms that the product has not been repaired by a third party and has not suffered any damage due to a fall or exposure to water.\n\u2714 Confirms that personal data deletion has been performed.\n\u2714 Has confirmed having the return label.\n\u2714 Understands that they must include accessories and a proof of purchase in their package.\n\u2714 Understands that they have 14 days to use the return label.\n\nReminder: Once received, the seller has 3 business days (5 if it's a laptop or electrical appliance) to replace or repair your product. Or, 2 business days to process a refund (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe time for repair or replacement has expired.\n\nPlease find a solution within 24 hours or we will refund this order.\n\nSincerely,\n\nArmani from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nCan I confirm if the customer had dropped the device during use? This infomration determines whether the device is still under warranty. Thank youfor your understanding and coopertion.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nNo, the phone never dropped, and you are way past the processing time.\n\nWe will refund this order.\n\nCordially,\n\nArmani from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ESIM_CANT_ACTIVATE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "MOBILE_DATA_NOT_AVAILABLE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SIM_CARD_NOT_RECOGNIZED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

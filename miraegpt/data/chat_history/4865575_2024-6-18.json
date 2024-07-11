@@ -1,0 +1,28 @@
+{
+    "sav_id": 4865575,
+    "last_modified_date": "2024-05-20T22:29:35.132637+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy S21 5G is having a problem:\r\nI can no longer charge the phone, regardless of the cable used or the charging block. When I plug in the phone, it's not detected and won't charge at all. At first, I just couldn't access rapid charging anymore, then it got worse quickly, and now it's impossible to put it on charge.\r\n\r\nThank you for your help,\r\n\r\n\r\nOnce received, the seller has 3 working days (5 if it's a portable computer or an electrical appliance) to replace or repair your product. Or, 2 working days to process its refund (if you are eligible).\r\n\r\nA return is considered complete when the customer meets all the following conditions:\r\n\u2714 Confirms that the product has not been repaired by a third party and has not suffered any damage due to a fall or exposure to water.\r\n\u2714 Confirms that personal data has been erased.\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that they must include accessories as well as proof of purchase in their package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nReminder: Once received, the seller has 3 working days (5 if it's a portable computer or an electrical appliance) to replace or repair your product. Or, 2 working days to process its refund (if you are eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile, \nYou have received the product for repair the 31/05/2024. The delay to repair or exchange the product is 3 days for technical issue. Without answer with a valid tracking link before the 06/06/2024 we will refund the customer.\n\nThank you for understanding,\nAnge from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we are unable to repair the device and we do not have enough stock to process an exchange. I have proceeded with a refund instead.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

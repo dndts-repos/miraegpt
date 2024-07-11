@@ -1,0 +1,23 @@
+{
+    "sav_id": 4870875,
+    "last_modified_date": "2024-05-22T16:44:53.452729+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy S21 5G has the above problem:\r\nBattery is significantly bulging, causing the back cover to open on both sides. Battery performance decreases very quickly. Recently had problems with network reception outside of Wi-Fi.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we are unable to repair the device and we do not have enough stock for replacement. Instead, we have refunded the customer.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_WARM_OR_INFLATED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

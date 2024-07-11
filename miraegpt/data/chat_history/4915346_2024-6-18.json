@@ -1,0 +1,33 @@
+{
+    "sav_id": 4915346,
+    "last_modified_date": "2024-06-08T11:05:26.773052+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 12 mini has a problem: I need to cancel the order and although it hasn't been shipped yet, it won't let me cancel it. Thank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThis customer made a mistake when purchasing the order and now she needs to cancel the order.\n\nPlease, do not send this device, instead, refund the order.\n\nWe'll be waiting for your updates.\n\nRegards,\nSara from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the cancellation of the order. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order has been successfully cancelled and the customer has been refunded.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

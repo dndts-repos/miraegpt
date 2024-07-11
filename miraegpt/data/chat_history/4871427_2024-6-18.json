@@ -1,0 +1,43 @@
+{
+    "sav_id": 4871427,
+    "last_modified_date": "2024-05-22T19:11:44.346994+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy product iPhone 13 has the above problem:\n\nI received the iPhone today,\nand on the display, there was a film. This was removed, and various deep scratches appeared on the display.\nThis does not match the description.\nIt creates an impression of deception.\nThe removed film was also photographed and left with the package.\n\nI'm sending the iPhone back and would like to receive a complete refund.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nWe take note of the customer's request. Can we confirm if the customer is only returning one phone with IMEI 358239129199685? \n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nplease check it.\n\nthe device was already delivered to you.\n\nRegards,\nAna from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe customer initially ordered two phones IMEI 356310708907269 and 358239129199685, and they returned only IMEI 358239129199685, can we double check with the customer if he only chose to send us back 1 phone for refund and not both?  Thank you for your understanding and patience. \n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nyes, the costumer intentionally returned one of the devices for refund.\n\nPlease refund the costumer in the given deadline and keep us updated.\n\nThank you.\n\nRegards,\nMarco from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4902716,
+    "last_modified_date": "2024-06-04T08:17:12.845370+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 12 is experiencing the following issue:\nHello how do I get in touch with you by phone please or subject of my order thank you cordially\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order is currently being shipped under the tracking number 10694000319523. Here is the tracking link:\nhttps://trace.dpd.fr/trace/10694000319523\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer. If the customer requires no further assistance, kindly close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

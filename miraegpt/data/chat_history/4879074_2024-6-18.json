@@ -1,0 +1,23 @@
+{
+    "sav_id": 4879074,
+    "last_modified_date": "2024-05-25T16:52:14.803588+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 is having the following problem:\nThe sound during a voice recording is very weak.\nWhen requesting information from Siri, it does not detect my voice.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "MICRO_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

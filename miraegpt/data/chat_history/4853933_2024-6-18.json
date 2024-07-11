@@ -1,0 +1,23 @@
+{
+    "sav_id": 4853933,
+    "last_modified_date": "2024-05-15T20:45:17.222043+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has the above problem:\r\n\r\nHello,\r\never ordered an iPhone 13 in green in very good condition (microscratches that are no longer visible at a maximum of 50cm) and received it.\r\nUnfortunately, I only got an iPhone 13 in green in mediocre condition. The casing is full of deep scratches, with the paint severely damaged.\r\n\r\nI would like to exchange for a device in very good condition. If there isn't a green one available, I'd also accept a black one. If this isn't possible, please refund.\r\n\r\nPlease respond if you have any questions.\r\n\r\nBest regards,\r\nDennis Kraft\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

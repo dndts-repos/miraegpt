@@ -1,0 +1,38 @@
+{
+    "sav_id": 4898069,
+    "last_modified_date": "2024-06-02T11:41:06.848885+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 Pro has the above problem: The device was ordered in a state of 'Excellent'. Unfortunately, all four corners were completely scratched when opening the package. This is not acceptable. I request immediate refund and sending of a return voucher. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Lukas,\n\nYou can find the return label for this message attached. Your return will be processed by Chronopost. Simply drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nTo prepare your return:\n1. Follow these instructions on how to return an item: <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Don't forget to include any accessories that came with the product.\n3. Remove any existing protective covering or film.\n4. Package your product and accessories according to the tips below.\n\nHow to package your product:\n\u2022 The box should be sturdy and stable, and your product should be placed in a way that it won't move during transport.\n\u2022 Attach the return label to the top of the box (you can also attach an additional label inside the box to identify your shipment if the original label is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before shipping. This will protect you in case the product is damaged during transport.\n\nYour return is now ready for pickup! We'll notify you as soon as it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer is not satisfied with the condition of the device and would therefore like to return it.\n\nPlease initiate the refund after you have received the device.\n\nThank you in advance.\n\nKind Regards,\nDerya from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nIf we do not hear from you within 1 working day, we will initiate the refund.\n\nThanks for your help in keeping our shared customers happy!\n\nKind regards\nDerya Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer. Thank you.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

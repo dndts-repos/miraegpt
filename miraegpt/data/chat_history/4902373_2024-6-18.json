@@ -1,0 +1,38 @@
+{
+    "sav_id": 4902373,
+    "last_modified_date": "2024-06-03T22:23:38.313074+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 is experiencing the following issue:\nmodify the delivery address, deliver to a pickup point\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease provide us with the updated relay address in the following format:\nNAME\nADDRESS\nPOST CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order has already been shipped. Does the customer still want a change of delivery address? Please provide us with the updated relay address in the following format:\nNAME\nADDRESS\nPOST CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order has already been shipped. Does the customer still want a change of delivery address? Please provide us with the updated relay address in the following format:\nNAME\nADDRESS\nPOST CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device has been delivered to the customer according to the tracking link provided. If the customer does not require any further assistance, please close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

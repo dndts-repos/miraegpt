@@ -1,0 +1,73 @@
+{
+    "sav_id": 4908075,
+    "last_modified_date": "2024-06-11T19:24:08.023516+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 is experiencing the following issue:\nThe package is marked as delivered but it's not in my mailbox. I didn't sign anything and no delivery person showed up. I've called the shipping company, they said they would call me back but still nothing.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you are well. I am sending you the documents provided by the customer for the opening of a carrier investigation.\n\nPlease take the necessary measures within the next 72 working hours.\n\nYours faithfully\n\nKevin, Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe CND that you have sent is not handwritten. Kindly assist the customer in preparing a handwritten CND with the IMEI of the device. We will check with our logistics partner for the POD. In the meantime, please do not refund the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD. If the customer wishes to contest, kindly send us the necessary documents along with the DPD's CND. I have attached a copy of the CND here as well. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nHere is the document.\n\nRegards,\nMarry from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe require the DPD CND to be handwritten. Please send us the required documents so that we can do the necessary actions.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nHere is the document filled in manually, please do the necessary in the shortest time.\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe also require the Backmarket CND to also be handwritten.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe document I sent you in my previous message is handwritten, so I invite you to do the necessary and provide a valid tracking link within the next 24 hours, otherwise, we will refund the customer.\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for providing us with the relevant documents. We will continue our investigation with our logistics partner. In the meantime, please do NOT refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nA carrier investigation should only last three working days maximum, until today, you still have not given any news while the customer wishes to receive a new product, I asked him to wait, but I am already telling you in advance that if the delay will take too long, I would have no choice but to refund the customer, thank you for your understanding.\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate incident. As a gesture of our commitment to our customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_DELIVERED_TO_NEIGHBOUR",
+            "tag": "DELIVERY"
+        }
+    ]
+}

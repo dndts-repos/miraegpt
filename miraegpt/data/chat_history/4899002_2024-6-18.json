@@ -1,0 +1,31 @@
+{
+    "sav_id": 4899002,
+    "last_modified_date": "2024-06-02T19:46:05.552627+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy Note20 5G is experiencing the following issue:\r\nThe phone detects the SIM card but does not provide any access to the SIM card functionality.\r\nThank you for your help,\r\n\r\nOnce received, the seller has 3 business days (or 5 if it's a laptop or electrical appliance) to replace or repair your product. Alternatively, they have 2 business days to process a refund (if you are eligible).\r\nA return is considered complete when the customer has met all the following conditions:\r\n\u2714 Confirms that the product has not been repaired by a third party and has not sustained any damage due to a fall or exposure to water.\r\n\u2714 Confirms that personal data has been erased.\r\n\u2714 Has confirmed that they have included the return label.\r\n\u2714 Understands that they must include accessories and proof of purchase in their package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nReminder: Once received, the seller has 3 business days (or 5 if it's a laptop or electrical appliance) to replace or repair your product. Alternatively, they have 2 business days to process a refund (if you are eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we are unable to repair the device and we do not have enough stock to process an exchange. I have proceeded with a refund instead.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "MOBILE_DATA_NOT_AVAILABLE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SIM_CARD_NOT_RECOGNIZED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SIM_CARD_TRAY_DAMAGED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

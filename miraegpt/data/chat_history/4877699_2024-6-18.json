@@ -1,0 +1,33 @@
+{
+    "sav_id": 4877699,
+    "last_modified_date": "2024-05-24T21:44:50.349435+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product iPhone 13 mini has the above problem:\r\nThe UPS driver from the mentioned shop handed over a wrong package...\r\nUPS is their contractual partner for delivery. Please clarify this with UPS.\r\nFor your evaluation, UPS is extremely unreliable in our area and has poor personnel and partners.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nCustomer was at the pickup station.\n\nAn incorrect package was delivered.\n\nCould you please contact the supplier and ask where the correct package is.\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nCan we request the customer to provide us their hand written CND and their ID while we contact our logistics partner regarding this issue.  Additionally, can we clarify that the customer visited the pickup station and the package that the customer was supposed to receive was incorrect or was it not available at all? Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease clarify with the customer if they wrote any comments on the delivery note indicating that the parcel was not his or whether he simply refused the parcel. Attached is the POD from our logistics partner. \n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

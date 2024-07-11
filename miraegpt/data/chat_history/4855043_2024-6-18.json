@@ -1,0 +1,28 @@
+{
+    "sav_id": 4855043,
+    "last_modified_date": "2024-05-16T10:55:07.697704+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product is iPhone 13 mini and it has the above problem: When will it finally be shipped? Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nAccording to the tracking, I see that you have not yet delivered the package to the carrier.\n\nPlease ship the device today and provide a valid tracking number.\n\nLeo Gonschorek\nKobestr. 2\n20457 Hamburg\nDeutschland\n+4917649841063\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, the parcel seems to have been stolen. We will conduct an internal investigation accordingly. We have hence refunded the customer in full for this order.\nThank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

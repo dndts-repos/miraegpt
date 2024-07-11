@@ -1,0 +1,33 @@
+{
+    "sav_id": 4854834,
+    "last_modified_date": "2024-05-16T09:53:48.349279+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has the following issue:\n\nI haven't received the invoice yet. The receipt of payment says 'This document is not valid for tax purposes -'. I need to receive the invoice with urgency, thank you\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer is requesting an invoice for his purchase.\n\nYou should provide it within 24 hours after the purchase by the customer.\n\nIf it is not provided, we will proceed with a refund of 20% of the value spent, up to a maximum of \u20ac50.\n\nRegards,\nAngela from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the invoice in this message, do let me know if the customer still requires any other assistance.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nYou can ignore my previous message and the attached invoice as it was sent in the wrong language. I have attached the new updated invoice in the correct language. I apologise for any inconvenience caused. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_UNAVAILABLE",
+            "tag": "INVOICE"
+        }
+    ]
+}

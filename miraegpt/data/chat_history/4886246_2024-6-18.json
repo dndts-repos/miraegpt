@@ -1,0 +1,28 @@
+{
+    "sav_id": 4886246,
+    "last_modified_date": "2024-05-28T19:08:31.968991+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 Pro has the above problem: My order from Backmarket had the wrong charger - instead of the usual USB cable to Lightning, I got a cable with USB-C to Lightning - and a case for an iPhone 13 Pro Max - but I only ordered the standard iPhone 13 Pro. How do we proceed? Thank you in advance! Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\ncustomer has the following request:\n instead of the usual USB to Lightning charging cable, I received a cable with USB-C to Lightning - and a case for an iphone 13 pro max - but the iphone I ordered is only a 13 pro. How do we proceed here? Many thanks in advance!\n\n\nThanks for your help in keeping our shared customers happy!\nGul-Figen Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, please relay the following message to the customer.\n\nWe are truly sorry that we are not able to provide you with a satisfactory outcome, hence, we would like to offer you a 10 euros commercial gesture. With this commercial gesture, you can use this amount to purchase a new cable. This helps reduce the harmful carbon dioxide emissions produced by logistics carriers when shipping an item.\n\nHowever, as for the phone case, unfortunately, this situation is beyond our control as we are only contractually obligated by BackMarket to provide the device and the charging cable, The case you\u2019ve mentioned is an extra gift provided directly by the accessories department of BackMarket when you decided to take up the accidental damage or insurance protection. \n \nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_WRONG_MODEL",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

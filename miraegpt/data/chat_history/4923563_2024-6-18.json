@@ -1,0 +1,48 @@
+{
+    "sav_id": 4923563,
+    "last_modified_date": "2024-06-11T17:28:22.258456+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has a problem as follows:\nThe package is indicated as delivered but it's not in my mailbox.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\n\nThe recipient of this order claims not to have received it, although the tracking shows that it has been delivered. \n\nWe have asked the customer to look for the parcel in case it has been delivered to a neighbour or family member. \n\nIf they cannot find the parcel, we have asked them to provide the certificate of non-receipt and their ID.\n\nPlease send us a proof of delivery (POD) with the customer's signature, a photo of the parcel given to the customer, or a screenshot showing the GPS location of the delivery, within 2 working days. \n\nPlease note: any other proof of delivery will not be considered relevant (for example, an unsigned document or an unclear photo).\n\n\u2014 If a proof of delivery is provided, the customer will be required to provide a police report in order for the claim to be processed. \n\nOnly reports requiring the customer to attend the police station will be accepted.\n\u2014 If no acknowledgement of receipt is provided within 2 working days: only an identity document + a certificate of non-receipt will be required.\n\nIf the parcel is lost and the customer has provided all the necessary documents, they may choose to be reimbursed.\n\nIn this case, we recommend that you block the device, if possible.\n\nIn case the order is not found and the customer chooses a replacement, are you able to send one?\n\nIf not, we'll handle the refund within 3 business days.\n\nThanks for your help.\n\nLooking forward to hearing from you,\n\nVictoire, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for assisting the customer in preparing a handwritten CND with the IMEI of the device and their ID. We will check with our logistics partner. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease tell the customer is HANDWRITTEN CND with IMEI of the device.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThis is the POD.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI acknowledge receipt of your messages.\n\nWe are still waiting for the customer with the requested documents.\n\nWe will keep you informed as soon as we hear back from the customer.\n\nRegards,\n\nVictoire from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are still waiting for the customer with the requested documents. Our logistics partner also requires DPD CND. Kindly ask the customer to prepare this document. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

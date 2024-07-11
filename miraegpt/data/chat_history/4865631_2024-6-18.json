@@ -1,0 +1,66 @@
+{
+    "sav_id": 4865631,
+    "last_modified_date": "2024-05-20T23:00:23.016957+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 12 mini has the above problem. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello, My iPhone 12 mini has the above problem: I would like to know where my package is currently located, please. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has the above problem:\n\nI simply don't understand why I haven't received my package yet.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID, ---- ONLY IF THE ORDER IS AN IPHONE 12/13/14 (to remove) --- along with a proof of address.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease give us some time to check with our logistics partner regarding the status of the parcel, we will get back to you as soon as possible. \n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi!\n\nThe package hasn't been successfully delivered yet and all the requirements for a refund as described by our lost package policy have been fulfilled. Any and all relevant paperwork has been provided by the customer and shared in this conversation.\n\nYou can use the documents in the details to look into the matter with your delivery company\n\nThis order will be refunded within 1 business day. \n\nYou can now block the device remotely, if possible.\n\nAll the best,\nFatma, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of this. However, the CND enclosed is invalid because the IMEI is missing. Please submit another CND with the IMEI 353014118137086 included. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nsee attachment\n\n\nRegards,\nFatma from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate event. As a gesture of our commitment to customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "DELIVERY_MISSING_TRACKING_LINK",
+            "tag": "DELIVERY"
+        }
+    ]
+}

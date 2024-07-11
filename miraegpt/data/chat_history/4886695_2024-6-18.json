@@ -1,0 +1,33 @@
+{
+    "sav_id": 4886695,
+    "last_modified_date": "2024-05-28T21:46:58.496247+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 has the above problem: \nThe display has a decent scratch in the main visual area, which I don't consider excellent condition.\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Christian,\n\nYou can find your return label attached to this message. Chronopost will handle your return. Simply drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nBefore you prepare your return, please read the instructions below:\n1. Here is a link with step-by-step guidance on how to return an item: <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Don't forget to include any accessories that came with your product.\n3. Remove any existing protection film or wrap.\n4. Package your product and its accessories according to the tips below:\n\nHow to package your product:\n\u2022 The box should be sturdy and stable, with your product placed inside so it won't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside in case the original one is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before shipping. This will protect you in case your product is damaged during transit.\n\nYour return is now ready to be shipped! We'll notify you as soon as it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nthe customer is not satisfied with the esthetic and requested a refund.\nThank you.\n\nRegards,\nMario from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the arrival of the parcel. Thank you for your patience.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "sav_id": 4907479,
+    "last_modified_date": "2024-06-05T15:22:18.775375+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 Pro has a problem:\r\n\r\nI paid extra for excellent quality and it arrived with a 4 cm high scratch on the screen, dirty sides, and some stains that look like ink. The camera lens appearance is disgusting; it came with a lot of dirt. If I'm paying extra, it's not to receive it in any condition. If you want, it even came packaged in a cardboard box.\r\n\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer is returning the device for a REFUND. \n\nThe customer has changed her mind about the phone and requested a refund. Thank you for your help! \n\nBest regards. \nSarah, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nEl art\u00edculo est\u00e1 bloqueado por un c\u00f3digo o patr\u00f3n.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nThe phone seems to be locked with a code. Could you inform the customer to provide the code to unlock the phone?\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you for your confirmation! We appreciate it.\n\nThe customer authorized the device to be reset, so please proceed\n\nGiven that we cannot provide that information (passwords) due to the privacy policy by our customers, I would like to share with you the following link, where you can find a step by step of how you can factory reset the device.\n\nhttps://merchant-support.backmarket.com/hc/en-us/articles/4404918550812-Received-an-iPhone-with-a-passcode\n\nRemember that according to the Quality Charter, you can delay the repair process, only if the device it's locked by Find My iPhone, or iCloud.\n\nOtherwise, you must bring the customer a solution within the established deadlines.\n\nThank you for understanding and in advance for your help.\n\nRegards,\nSarah from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DAMAGED_ARRIVAL",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

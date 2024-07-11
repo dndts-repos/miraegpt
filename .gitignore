@@ -1,7 +1,6 @@
 .vscode
 trace
 .venv
-data
 .env
 **/__pycache__
 **/*.pyc

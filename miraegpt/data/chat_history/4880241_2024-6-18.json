@@ -1,0 +1,38 @@
+{
+    "sav_id": 4880241,
+    "last_modified_date": "2024-05-26T15:35:18.910542+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product iPhone 12 mini has the above problem: \r\nThe iPhone won't turn on anymore. I've tried restarting the device multiple times, but it gets stuck at the iPhone logo screen and can't be used or restarted again. I've also tried resetting via PC and other methods.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device is currently locked by the customer's iCloud account. Inform the customer to unlink their account or we will not be able to proceed with the repair. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nFMI is OFF.\n\n\nRegards,\nSema from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you in assisting the customer on unlinking the device from the iCloud. We will relay this news to our repair team. \n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

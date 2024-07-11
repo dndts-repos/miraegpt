@@ -1,0 +1,56 @@
+{
+    "sav_id": 4897962,
+    "last_modified_date": "2024-06-02T10:35:05.091068+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy Galaxy S21 5G is having the following problem:\nHello, \nThe phone I bought doesn't hold a charge. Need to recharge it 3-4 times a day.\nI had the battery replaced at a specialized store. New battery.\nBut it's not working. It's likely the phone itself\nThank you for your help,\n\nThe customer confirms that the article has not been damaged due to a fall or exposure to water, and has not been repaired by a third party.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello H\u00e9l\u00e8ne, you will find the return label attached to this email. Chronopost will handle your return. Choose the location that best suits you for shipping your package. You will find a list of drop-off locations here: https://www.pickup.fr/trouver-un-point/. \r\n\r\nReturn preparation:\r\n1. Follow these instructions to return an article <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">here</a>.\r\n2. Add all accessories provided with your item\r\n3. Remove any protection, casing, and screen protector\r\n4. Package your item and its accessories according to the instructions below.\r\n\r\nPacking the article:\r\n\u2022 The box must be sturdy and rigid. Place your item so that it is stable and does not move during transport.\r\n\u2022 Attach the return label on top of the box. You can also place an additional label inside in case the outer label gets damaged.\r\n\u2022 Take photos of the inside and outside of the package before sending it. This will protect you in case there's a problem during transport.\r\n\r\nYour return is ready to be shipped! We'll let you know when it arrives.\r\n\r\nWe remain at your disposal,\r\nCustomer Service Back Market, Customer Service Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou received the product for repair on 06/07/2024. The time to repair or exchange the product is 3 days for technical problem. Without response with a tracking link valid before 13/06/2024, we will refund the customer.\n\nThank you for your understanding,\n\nMarie-Ursule, from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThank you. We are still repairing the device. Will update you soon once we finish repairing the device. Thank you.",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Bonjour,\n\nLe vendeur n'est pas en mesure de traiter le retour en raison du probl\u00e8me suivant :\nAutre.\nPlus de d\u00e9tails ont \u00e9t\u00e9 ajout\u00e9s dans le message suivant : Dear Backcare, \n\nThank you. We are still repairing the device. Will update you soon once we finish repairing the device.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nWe are waiting for the TN for today. \n\nThanks for your help,\n\nMarie-Ursule, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_NOT_CHARGING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_WARM_OR_INFLATED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

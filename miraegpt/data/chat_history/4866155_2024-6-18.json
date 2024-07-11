@@ -1,0 +1,78 @@
+{
+    "sav_id": 4866155,
+    "last_modified_date": "2024-05-21T10:06:37.299630+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe parcel 40535309 could not be delivered due to an incorrect or incomplete address.\n\nPlease provide us with the correct address, the recipient's name, and phone number. Alternatively, you may ask the carrier to reschedule the delivery.\n\nThank you.\n\nRegards\nMandi Xhaferaj",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nI would like to give you the customer's address:\n\nEugenie kieu\n84 Rue de la Bonne Aventure\n78000 Versailles\nFrance\n0611595973\neugeniethv@gmail.com\n\nThank you in advance for your help.\n\nRegards,\nElodie from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for the information and we have updated our logistics partner with these information.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 is experiencing the issue above.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Bonjour,\n\nLe vendeur n'est pas en mesure de traiter le retour en raison du probl\u00e8me suivant :\nAutre.\nPlus de d\u00e9tails ont \u00e9t\u00e9 ajout\u00e9s dans le message suivant : Dear Backcare,\n\nThe device was purchased as a GOOD condition. According to the Quality Charter, GOOD condition requires the device to be free of scratches on the screen. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a \u20ac40 deduction will be made once we have completed the diagnosis of the phone and confirm that there are no further issues with it. In the meantime, please do not refund the customer.\n\nAttached are photos of the condition of the phone that we have received.\n\nThank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI am contacting you to inform you that the customer would like a full refund for his order.\n\nPlease contact the SSC to inform them of the situation once the refund has been processed.\n\nRegards,\nTony from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Bonjour,\n\nLe vendeur n'est pas en mesure de traiter le retour en raison du probl\u00e8me suivant :\nAutre.\nPlus de d\u00e9tails ont \u00e9t\u00e9 ajout\u00e9s dans le message suivant : Dear Backcare,\n\nAs mentioned, the device was purchased as a GOOD condition. According to the Quality Charter, GOOD condition requires the device to be free of scratches on the screen. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHowever, to provide a satisfactory outcome for the customer, we are amenable to a \u20ac30 deduction instead. Please check with the customer on this and get back to me.\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWould it be possible for you to provide me with a picture of the item with the screen on please?\n\n\nLooking forward to your return.\n\nSincerely,\n\nJulianna from Back Market.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our logistics partner has only provided us with only the following pictures below as proof. However, as seen in the pictures attached, the screen of the device is clearly and visibly scratched. The customer has had the device for 2 weeks, this suggests that he was satisfied with the device condition upon receipt. Hence, a \u20ac30 deduction has to be made since the grade has dropped from GOOD to FAIR. We hope that you understand the situation. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThank you for your message.\n\nIndeed, the customer disputes that the screen is scratched.\nHe provided me with a photo of the article proving that the screen was intact before the return, he even adds that there is a protective screen on the phone.\n\nSincerely,\n\nJulianna from Back Market.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease inform the customer to take the picture when the phone is shut down. The picture should contain the IMEI of the phone in the general setting.This is to ensure that the light will not affect the extistence of scratch on the monitor screen and ensure the correct product is taken.\n\n\nThank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nPlease proceed with the refund as the customer has accepted.\n\nSincerely,\n\nJulianna from Back Market.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the partial refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

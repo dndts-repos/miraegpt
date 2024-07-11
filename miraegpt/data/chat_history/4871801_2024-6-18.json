@@ -1,0 +1,36 @@
+{
+    "sav_id": 4871801,
+    "last_modified_date": "2024-05-22T21:09:12.118292+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 has a problem:\nThe battery drains super fast despite the battery condition saying it's at 100%.\nThank you,\n\nWhen the seller receives the package, they have 3 working days (5 working days for laptops and home appliances) to repair or replace the product, or 2 working days to make a refund if necessary.\nThe customer must meet the following requirements for the return to be processed:\n\u2705 Confirms that the device has not been opened by a third party, exposed to water or suffered an impact or fall\n\u2705 Confirms that they have erased their personal data\n\u2705 Has confirmed that they have the return label.\n\u2705 Understands that all accessories and proof of purchase must be included in the return package.\n\u2705 Understands that they have 14 days to use the return label.\n\nRemember: Once delivered, the seller has 3 days (5 days for laptops and home appliances) to repair or substitute the article and 2 days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repair&lt;&lt;.\n\nPlease send it and send us a valid tracking link and the carrier name. If it is a replacement, sends the new IMEI as well within 1 business day. Remember that if you do not send a valid tracking link in a message to us, it is as if you did not send it since we can not verify, and according to the QC, we have to refund.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nMaria Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_NOT_CHARGING",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

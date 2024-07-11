@@ -1,0 +1,23 @@
+{
+    "sav_id": 4872139,
+    "last_modified_date": "2024-05-22T22:59:07.107852+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 13 Pro has the above problem:\nThe iPhone was ordered in good condition. The display should not have scratches accordingly. The delivered device has two noticeable and palpable scratches on the top right of the display.\nPlease fix this defect.\nThank you very much\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

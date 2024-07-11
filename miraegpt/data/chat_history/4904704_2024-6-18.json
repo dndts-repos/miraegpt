@@ -1,0 +1,43 @@
+{
+    "sav_id": 4904704,
+    "last_modified_date": "2024-06-04T18:09:03.376183+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 mini has a problem:\nThe phone came with the battery health at 100% and it's been almost 6 months, and now it's at 78%, and I only charge it up to twice a day.\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi Best Nest Green!\n\nThis is Liz from Back Market Customer Care, I'm glad to contact with you today.\n\nThe purpose of this message is informed you that in the tracking link we noticed that you received the package.\n\nThis is also a kindly reminder that you have a period of 72 hours since you received the devices to generate the repair process according to our Quality Charter, please can you process that? \n\nCould you kindly send the device to the next address?  \n\nAriel Gastelaars\nCalle V\u00eda Parque 3, 3f\n50410 Cuarte de Huerva\nEspa\u00f1a\n617412721\ngustari88@gmail.com\n\nIf not, we will reimburse the client at your expense.\n\nThanks for all your help,\nLiz, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThis is Liz from Back Market Customer Care, I hope you're having a wonderful day\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repair&lt;&lt;.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the repair process. Please use the \"\"Report a Problem\"\" button at the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \n\niCloud: https://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nPlease inform us of the tracking information within the next 1 business day, if not, we proceed with the refund at your expenses. \n\nThanks for your help in keeping our shared customers happy!\nLiz from Back Market Customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are still repairing the device. Will update you soon once we finish repairing the device. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

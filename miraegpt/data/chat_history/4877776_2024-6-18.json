@@ -1,0 +1,42 @@
+{
+    "sav_id": 4877776,
+    "last_modified_date": "2024-05-24T22:25:52.839970+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has the following issue.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer wants a refund for their device, can you please cancel the order and refund?\n\nRegards,\nOscar from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nRlease relay the following message to the customer. \n \nDear customer,\n\nWe are so sorry that you are unhappy with our product, as your product is still in transit, our logistics partner has suggested you to do the following.\n\n1. Refuse the parcel when a delivery attempt is made.\n2. If unable to refuse a parcel, do not open the product packaging. Use the return label provided by BackMarket and send the device back immediately.\n\nBy doing the following, you would be sure to receive a much FASTER REFUND for this order. \n\nHowever, if we may interrupt, if this change of mind is due to a cheaper alternative found, we are able to offer you a commercial gesture of 20 euros instead. \n\nThank you.\nRegards, \nJH from Ecomobile",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe client no longer wants a refund, therefore we will close the incident\n\nRegards,\nOscar from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of the customer's message\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

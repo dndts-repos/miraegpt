@@ -1,0 +1,66 @@
+{
+    "sav_id": 4915073,
+    "last_modified_date": "2024-06-08T07:38:03.353875+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has a problem:\nIt hasn't been sent.\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello, dear seller:\n\nWe wanted to inform you that Tarek has not received your order.\n\nWe have checked that the order has not been shipped there is no tracking link. The customer placed the order on 5/06/24. \n\nCan you tell us if the order has been shipped and with what tracking number?\nIn case the order has not yet been shipped, please send it back and provide a valid tracking number, or refund the order within 1 business day.\n\nIf you have shipped the order but it has been lost, we will collect the paperwork from the customer and send it to you. We will let you know if the customer prefers a refund or reshipment.\n\nI look forward to hearing from you.\n\nLet us know if you have any questions or concerns: we will be attentive to your response.\n\nThank you for your help,\nJulieta, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe're getting ready to ship the parcel and want to ensure everything's perfect. Can we quickly re-confirm the customer's address?\n\nTarek Berrakad\nPizarro Street, 10, 3\nslate street\n03570 Villajoyosa\nSpain\n611 68 19 21\n\nYour satisfaction is our priority, and this small step helps us guarantee a seamless delivery experience. Just a moment of your time could prevent any delivery issues.\n\nThank you for your understanding and cooperation.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped out the device to the customer.\n\nHere is the tracking number: 1ZBF1560D901199941\n\nPlease note that as the courier has just picked up the parcel, it might take a while before it is accurately displayed on their website.\n\nIn the meantime please do not refund.\n\nIf you initiate a refund while the product is being shipped, we will lodge a case with SSC.\n\nRegards,\nHB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello, My iPhone 13 Pro has a problem: It won't arrive. Thanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has a problem:\nIt's been 5 days.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nHappy beginning of the week.\n\nI want to inform you that the customer data is correct:\nTarek Berrakad\nPizarro Street, 10, 3\nPizarro Street\n03570 Villajoyosa\nSpain\n611 68 19 21\n\nPlease send the order as soon as possible, the deadline you had has expired and the tracking link does not show any update.\n\nIf the order is not shipped, I will request a refund. I inform you that the package should have been delivered on 6/7/ and today we are at 6/10/.\n\nI remain attentive to your message.\n\nRegards,\nJulieta from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease check the link again, here it is: https://www.ups.com/track?loc=de_de&amp;requester=QUIC&amp;tracknum=1ZBF1560D901199941/trackdetails\n\nThe tracking is active and as mentioned, we had already shipped it out. The parcel is on the way to the customer.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer on 11th June. If the customer requires no further assistance, kindly close the case. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_MISSING_TRACKING_LINK",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

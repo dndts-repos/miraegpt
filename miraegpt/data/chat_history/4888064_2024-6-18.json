@@ -1,0 +1,23 @@
+{
+    "sav_id": 4888064,
+    "last_modified_date": "2024-05-29T13:20:04.928326+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 mini is having the following problem:\nAfter a month, the screen started to peel off and I didn't understand why. Then it would turn off at 80% and turn back on at 10%. Since then, I've had to leave it charged until one morning it just stopped turning on and kept restarting until it wouldn't turn on anymore.\nThank you for your help,\n\nOnce the package is received, the seller has 3 business days (5 if it's a laptop or home appliance) to replace or repair your product. Or, 2 business days to process a refund (if you're eligible).\nA return is considered complete when the customer confirms that:\n\u2714 The product has not been repaired by a third party and has not suffered any damage due to a fall or exposure to water\n\u2714 Has confirmed that all personal data has been deleted\n\u2714 Has confirmed that they have an exchange label\n\u2714 Understands that they must include accessories and a proof of purchase in their package\n\u2714 Understands that they have 14 days to use the return label.\nReminder: Once received, the seller has 3 business days (5 if it's a laptop or home appliance) to replace or repair your product. Or, 2 business days to process a refund (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

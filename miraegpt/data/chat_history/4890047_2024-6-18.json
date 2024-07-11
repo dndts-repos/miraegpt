@@ -1,0 +1,56 @@
+{
+    "sav_id": 4890047,
+    "last_modified_date": "2024-06-09T00:37:58.860390+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has a problem:\nOnce I've seen it, I consider that I made a mistake in the model selection of the article, so I would like to get it in another color. On the other hand, I bought it as an excellent option and it's slightly damaged (it lacks paint on the area where the phone charges and other) and therefore I would like to obtain a refund.\n\nThank you,\n\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and appliances) to repair or replace the product, or 2 business days to make a refund if necessary.\nThe customer meets the following requirements for the return to be processed:\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\n\u2714 Confirms that they have erased their personal data\n\u2714 Has confirmed that they have the return label\n\u2714 Understands that accessories and purchase receipt must be included in the return package.\n\u2714 Understands that they have 14 days to use the return label.\nRemember: once delivered, the seller has 3 days (5 business days for laptops and appliances) to repair or replace the article and 2 days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\nMy iPhone 13 has an issue:\nAgain, I called Valientes where I left the package, the iPhone 13, for the courier to pick it up and they told me that the package didn't leave from there, couldn't read the code, and said they would get in touch with me and hasn't been so. In the tracking, it showed it was in Ribarroja and in conversation, once it arrives at the destination, a refund will be made, but it hadn't left yet. I picked up the package and I'll reprint the sheet. Checked the content, sent photos again. It's not exactly clear what the problem is, but I would appreciate an explanation. From my side, I'll do the same thing again. Thanks.\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have been informed that the customer's parcel has been received today 11/6/24. Please confirm receipt of the parcel.\n\nPlease note that the refund period is 2 days. If there is no response before 14/6/24, we will refund the customer.\n\nIf there is a problem preventing you from resolving this situation, please let us know as soon as possible.\n\nThank you for helping us to satisfy our customers.\n\nCarelle\nBack Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are processing the device and will keep you updated. Thank you for your patience\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;repaired device&lt;&lt;.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"\"Report a Problem\"\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected:\niCloud:\nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\n\u279c Please provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, tomorrow at morning, according to the Back Market Quality Charter.\n\nThanks for your help in keeping our shared customers happy!\nKevin Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nMay we confirm if the customer wants a refund or a repair. Has the customer changed their mind about a refund and wants a repair instead? Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

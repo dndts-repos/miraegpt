@@ -1,0 +1,43 @@
+{
+    "sav_id": 4878234,
+    "last_modified_date": "2024-05-25T10:22:04.927363+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 has a problem:\nThe phone arrived in a box WITHOUT the piece to open the iPhone and insert the SIM card and without the charging cable. Only the iPhone arrived. Without an invoice or anything.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile, \n \nThe cx report.\n\nThe iPhone has arrived in a box WITHOUT the piece to open the iPhone and insert the SIM card and without the charging cable. Only the iPhone has arrived. No delivery note or anything.\n\nWe hope this helps!\nHave a lovely day!\n\nOscar from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, please relay the following message to the customer.\n\nWe are truly sorry that we are still not able to provide you with a satisfactory outcome, hence, we would like to offer you a 40 euros commercial gesture. With this commercial gesture, you can use this amount to purchase the missing. This helps reduce the harmful carbon dioxide emissions produced by logistics carriers when shipping an item.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe apologise that the customer has received the phone without the SIM card extractor as well as the charging cable. According to the quality charter, we are able to give a commercial gesture of 15 euros in total, 5 for the SIM card extractor and 10 for the missing cable. Can you check back with the customer whether they are agreeable to this commercial gesture? Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease ignore the first message regarding the 40 euros in commercial gesture. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe cx accept the offer, please send the 15\u20ac\n\nThanks.\n\nRegards,\nOscar from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_MISSING_PART",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

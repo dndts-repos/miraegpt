@@ -1,0 +1,43 @@
+{
+    "sav_id": 4896345,
+    "last_modified_date": "2024-06-01T10:33:25.219894+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has the following issue:\nHello. I've received the order, but it's missing the screen protector. Best regards.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer received his device with scratches, and we offered to pay him \u20ac60 to keep it.\n\nThanks for your help in keeping our shared customers happy!\nNabilat-Adebeji Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nDo let us know when you have processed the 60 euros, thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ERIC, you will find the prepaid return label attached. Chronopost will handle your return. Choose the location that suits you best to ship your package. You will find a list of drop-off locations here: https://www.pickup.fr/trouver-un-point/. \r\n\r\nPreparation for return:\r\n1. View instructions for returning an article <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">here</a>.\r\n2. Add all accessories provided with your article\r\n3. Remove any protection, case, and screen protector\r\n4. Package your article and its accessories according to the instructions below.\r\n\r\nPackaging of the article:\r\n\u2022 The box must be solid and rigid. Place your article in a stable position so it does not move during transport.\r\n\u2022 Attach the return label on top of the box. You can also place an additional label inside in case the outer label is damaged.\r\n\u2022 Take photos of the inside and outside of the package before shipping. This will protect you in case of any issues during transport.\r\n\r\nYour return is ready to ship! We'll let you know when it arrives.\r\n\r\nWe remain at your disposal,\r\nCustomer Service Back Market, Customer Service Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer accepts the gesture of \u20ac60.\n\nPlease proceed as soon as possible.\n\nThanks for your help in keeping our shared customers happy!\n\nNabilat-Adebeji Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the commercial gesture.\nThank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_MISSING_PART",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

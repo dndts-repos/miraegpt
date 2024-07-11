@@ -1,0 +1,23 @@
+{
+    "sav_id": 4890083,
+    "last_modified_date": "2024-05-29T22:47:07.657073+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, I have an iPhone 12 with the following issue:\nCan you do something about this order that hasn't been shipped yet? I ordered thinking it would arrive tomorrow and I already had a similar problem last week!\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate event. As a gesture of our commitment to customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

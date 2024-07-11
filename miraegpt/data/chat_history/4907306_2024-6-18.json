@@ -1,0 +1,28 @@
+{
+    "sav_id": 4907306,
+    "last_modified_date": "2024-06-05T14:40:09.738752+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 12 has the above problem: \nI was at home and saw the UPS delivery driver and made myself recognizable. He didn't deliver anything and just drove away without getting out at all.\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe device has been delivered to the customer according to the tracking link provided. If the customer does not require any further assistance, please close the case. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

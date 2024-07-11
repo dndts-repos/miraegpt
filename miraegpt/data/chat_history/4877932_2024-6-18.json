@@ -1,0 +1,27 @@
+{
+    "sav_id": 4877932,
+    "last_modified_date": "2024-05-25T00:55:42.546626+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nI'm not satisfied with the battery life of my iPhone 12 Pro. I think 89% is too low.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "PREFER_NEW",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

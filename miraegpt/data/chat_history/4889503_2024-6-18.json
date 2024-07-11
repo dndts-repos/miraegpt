@@ -1,0 +1,43 @@
+{
+    "sav_id": 4889503,
+    "last_modified_date": "2024-05-29T19:23:27.754103+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 13 has the above problem:\nThe phone is not in order like this. It's dirty and has scratches on the case, everything is unclean between the case and screen. I want to return the phone. This is not excellent quality.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Doris,\nYou can find your return label attached to this message. Your return will be handled by Chronopost. Simply drop off your package at a nearby drop-off location. A list of locations can be found here: \n\nTo prepare your return:\n1. Follow the instructions on how to return an item here: <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions</a>\n2. Don't forget to include any accessories that were delivered with your product.\n3. Remove any protective cover or film from your product.\n4. Pack your product and its accessories according to the tips below:\n\nHow to pack your product:\n\u2022 The box should be strong and sturdy, and your product should be placed inside so it won't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a replacement label inside to identify your shipment if the original label is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before you send it. This will protect you in case your product is damaged during transport.\n\nYour return is now ready for pickup! We'll let you know as soon as it arrives at our location.\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\ncustomer sent device for a refund. Please keep in mind that you have 2 business days to refund the order after receiving the package.\n\n\nKind Regards,\nDerya from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their refund.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button at the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\n\nThanks for your help in keeping our shared customers happy!\nBelgin Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

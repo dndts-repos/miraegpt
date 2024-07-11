@@ -1,0 +1,58 @@
+{
+    "sav_id": 4901631,
+    "last_modified_date": "2024-06-03T18:10:29.688057+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 has the above problem:\nWhen will my phone be shipped? I need it urgently or else I'll have to cancel.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe're getting ready to ship the parcel and want to ensure everything's perfect. Can we quickly re-confirm the customer's address?\n\nYour satisfaction is our priority, and this small step helps us guarantee a seamless delivery experience. Just a moment of your time could prevent any delivery issues.\n\nThank you for your understanding and cooperation.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nplease cancel the order and return the customer's money thank you\n\n\nRegards,\nHamza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello Claudia,\n\nYou can find your return label in this message attachment. Your return will be processed by Chronopost. Just drop off your package at a nearby return location. A list of locations can be found here: \n\nTo prepare for your return:\n1. Follow the instructions on how to return an item <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">here</a>\n2. Don't forget to include any accessories that came with your product\n3. Remove any existing protective cover or film\n4. Wrap your product and its accessories according to the tips below.\n\nHow to wrap your product:\n\u2022 The box should be strong and sturdy, with your product lying flat inside so it doesn't move during transit.\n\u2022 Attach the return label on top of the box (you can also attach a replacement label inside if the original one is lost or damaged).\n\u2022 Take photos of the package from both inside and outside before sending it. This protects you in case your product gets damaged during transit.\n\nYour return is now ready to be dropped off! We'll let you know when it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare, please relay the following message to the customer. \n \nWe are so sorry that you are unhappy with our product, as your product is still in transit, our logistics partner has suggested you to do the following.\n\n1. Refuse the parcel when a delivery attempt is made.\n2. If unable to refuse a parcel, do not open the product packaging. Use the return label provided by BackMarket and send the device back immediately.\n\nBy doing the following, you would be sure to receive a much FASTER REFUND for this order. \n\nThank you.\nRegards, \nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nWe await the arrival of the device.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their refund.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nPlease proceed with the refund within 24h, otherwise we will do it. \n\nThanks for your help in keeping our shared customers happy!\nDiogo Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of this.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded  the customer for deadline passed\n\n\nKind regards, Ricardo-Filipe from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

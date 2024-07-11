@@ -1,0 +1,43 @@
+{
+    "sav_id": 4874420,
+    "last_modified_date": "2024-05-23T18:36:30.983059+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my Galaxy Note20 has the above problem: When I turn on Wi-Fi, the phone network works perfectly fine, but when I disconnect from Wi-Fi, the phone doesn't respond to the mobile network and I can't make any calls. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nAfter verification, it would appear that there was an anomaly in the return of customer's package. We must open an investigation with the carrier.\n\nIn order to carry out this procedure, I invite you to send me the signed certificate of non-receipt of the package (see attachment) as soon as possible.\nPlease note that after 30 days from the shipping date, the case will be outdated and we won't be able to compensate you.\n\nDo not hesitate to contact us should you have any further questions.\n\nI wish you a pleasant day,\nErcan from the Back Market team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have requested the CND from our logistics partner, and will send it to you once we receive it. In the meantime, kindly do not refund the customer, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt nicht erhalten.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nAttached is the CND. Kindly update us when an investigation is open.\n\nThank you.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nWe will cover the compensation for the carrier's investigation.\nThere is NO NEED to open an SSC claim as we are handling your case.\n\nPlease ship a new device to the customer and provide the tracking number.\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we do not have enough stock to process an exchange. I have proceeded with a refund instead.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "sav_id": 4859559,
+    "last_modified_date": "2024-05-17T17:28:56.171267+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product iPhone 13 Pro has the above problem:\r\n\r\nDear ladies and gentlemen,\r\nI sent the package to the UPS Access Point in Kaarst, where it also arrived.\r\n\r\nWhen picking up, I now have the following problem: During entry of the delivery address, I didn't mention my name",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer could not receive parcel because the parcel was delivered directly to a collection point and his name is not given. \nCan you inform UPS and confirm that the parcel can be delivered to Andreas Beyse?\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nPlease give me feedback on the customer's request?\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have informed our logistics partner to send the necessary email and await updates.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nIs there any news? Can the customer pick up their parcel now?\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe carrier, UPS has been updated of the necessary changes to be made. \n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nCan the customer pick up their parcel now?\n\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe carrier has been updated regarding this matter. I believe the customer should be able to collect the parcel from the collection point again. Do let us know if the customer still has issues regarding the collection of the parcel. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe order has been returned to sender and the customer wants a refund.\n\nPlease act accordingly when you receive the package.\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nIn this case, please assist the customer in returning the device back to us. We await the arrival of the parcel.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe order arrived at your warehouse today.\n\nPlease make your refund within 24 hours.\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

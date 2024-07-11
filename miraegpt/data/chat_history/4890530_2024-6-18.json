@@ -1,0 +1,93 @@
+{
+    "sav_id": 4890530,
+    "last_modified_date": "2024-06-10T16:31:43.316734+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 has the above problem:\r\n\r\nGood morning, dear team,\r\n\r\nI ordered my iPhone 12 on August 15, 2023 with 100% battery power.\r\n\r\nNow the battery life is at 82%, after just nine months. Since I've only charged the phone once a day, the 500 charge cycles that have already occurred are not applicable.\r\n\r\nIf the battery life drops so rapidly, I won't be able to use my phone without a power bank or new battery in a year, and then the phone would still be less than two years old.\r\n\r\nThank you in advance and best regards,\r\n\r\nThanks for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Celina,\n\nYou can find your return label attached to this message. Chronopost will process your return. Just drop off your package at a nearby drop-off location. You can find a list of locations here:\n\nBefore you prepare your return, please follow these steps:\n1. Find instructions on how to return an item here: <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions</a>\n2. Don't forget to include all accessories that came with your product.\n3. Remove any protective film or wrapping.\n4. Package your product and its accessories according to the tips below.\n\nHow to package:\n\u2022 The box should be sturdy and stable, with your product situated so it won't move during transit.\n\u2022 Attach the return label on top of the box (you can also attach a backup label inside for identification in case the original label is lost or damaged).\n\u2022 Take photos of the package from both the inside and outside before shipping. This will protect you in case your product is damaged during transit.\n\nYour return is now ready to be sent! We'll notify you when it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist au\u00dferhalb der Garantie.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nWe confirmed the receipt of the device. Unfortunately, the battery warranty for our phones is one month. Hence this device is out of warranty and hence non compliant. Kindly check with the customer if the address below is correct. Thank you.\n\nCelina Hof\nB\u00fchrerstrasse 40\n71640 Ludwigsburg\nGermany\n01578 5799126\nshipping_14525772_31849590@eu.perso-email.com\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nBack Market\u2019s internal technical team has reviewed the warranty exclusion associated with this device and determined that it is not justified in this case.\n\nIf you don\u2019t agree with this assessment you can open a dispute via the Seller Support Center.\n\nRegardless, please ensure that the device is either repaired or replaced within 3 business days of receiving it (5 business days for MacBooks, laptops, and heavy/bulky appliances). \n\n\nYou may also choose to refund the customer. If so, the refund must be processed within 2 business days of receiving the device. If this does not happen, we will proceed with the refund directly.\n\n\nThanks for your cooperation and understanding in resolving this as quickly as possible.\n\n\nBest, \nSila, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease refer to the quality charter. Section 3.4.2 states that:\n\n\"If your customer opens a technical service request within 6 months of receiving their item and the item\u2019s\nbattery state is below 80%, you must replace the battery (on top of any other necessary repairs).\n\nThe battery warranty is only 1 month. The customer's battery health is still above 80% after 6 months. This drop is likely due to normal usage of the phone over time. Therefore, the device is out of warranty. We have already returned the device to the customer. TN: 10084001751712\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello Celina,\n\nYou will find your return label attached to this message. Your return will be processed by Chronopost. Just drop off your package at a nearby drop-off location. You can find a list of drop-off locations here:\n\nTo prepare your return:\n1. Follow the instructions on this link: https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\n2. Don't forget to include all accessories that came with your product\n3. Remove any existing protection film or cover\n4. Package your product and its accessories according to the tips below\n\nHow to package:\n\u2022 The box should be strong and sturdy, and your product should be positioned inside so it can't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a backup label inside for identification in case the original one is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before sending. This protects you in case your product is damaged during transport.\n\nYour return is now ready to drop off! We'll let you know when it arrives at our location.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hello,  \n\nCustomer want refund.  \n\nWill send the device back to you.  \n\nPlease refund, after receive it.  \n\nRegards, \nAysah, from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will check the device once we received the parcel. Thank you.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,  \n\nCustomer want refund.  \n\nPlease refund, after receive it.  \n\nRegards, \nAysah, from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nNoted with thanks.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nAccording to the Quality Charter, you are obliged to repair or replace the device with a new battery if the battery capacity falls below 90% within one year. The device has been sent to you again. Please initiate a refund as you failed to replace the battery the first time.\n\nThank you.\n\nRegards,\nGurcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nSection 3.4.2 of the Quality Charter states that:\n\n\"If your customer opens a technical service request within 6 months of receiving their item and the item\u2019s\nbattery state is below 80%, you must replace the battery (on top of any other necessary repairs).\"\n\nThe customer's battery health is still above 80% after 10 months. This drop is likely due to normal usage of the phone over time. Therefore, we are unable to refund the customer and replace the battery of the device.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nMay we also know where in the Quality Charter does it state that we are obliged to repair or replace the device with a new battery if the battery capacity falls below 90% within one year?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nYou can read it in the appendix.\n\nThank you\n\nRegards,\nGurcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nIn which part of the appendix does it state that?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThis appendix is very short and everything is clearly visible.\n\nRegards,\nGurcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

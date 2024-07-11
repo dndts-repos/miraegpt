@@ -1,0 +1,38 @@
+{
+    "sav_id": 4861983,
+    "last_modified_date": "2024-05-18T22:08:47.450050+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 12 is having the following problem:\r\nWhen I was about to charge my phone, I noticed it's not charging. And no matter how I try to change the plug, the problem comes from the cable; apparently it's no longer functional.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe hope you are well. We inform you that the charger for iPhone 12 64 GB - Blue ordered by your customer Severine is defective.\n\nPlease ship a replacement accessory within 48 hours and send us the tracking number please. \n\nIf you do not have the item in stock or cannot ship it within 48 hours, we will offer them a \u00a315 goodwill gesture at your expense, as outlined in our Quality Charter. \n\nWe look forward to hearing from you.\n\nEliot, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are very sorry to hear that the customer is encountering such a problem with the cable. We are willing to offer a commercial gesture of 30 euros for this inconvenience with respect to the Quality Charter. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nThank you for your care\n\nThe customer accepts the proposal of 30 euro \n\nWe will wait for your confirmation \nBest regards,\nEliot,\nBack Marke Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the commercial gesture.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CHARGER_CABLE_BROKEN",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

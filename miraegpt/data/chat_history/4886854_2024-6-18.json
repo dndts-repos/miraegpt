@@ -1,0 +1,38 @@
+{
+    "sav_id": 4886854,
+    "last_modified_date": "2024-05-28T22:52:39.230421+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 has the above problem: \nThe glass on the front side has a 5mm long scratch. This doesn't fit with the selected category Excellent. Can you send a replacement? After that, I'll send back the damaged device.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer has contacted us and informed us that he would like a refund. Please process the refund within the deadline. \n\nThank you for your understanding and have a nice weekend.\n\n\nRegards,\nBelgin from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt ist mit Code/Muster gesperrt.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe phone is locked with a code. Kindly assist the customer in unlocking their device. Thank you for your understanding and cooperation.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile, \n\nthe code is 123456.\n\nWith best regards, \nKubra, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

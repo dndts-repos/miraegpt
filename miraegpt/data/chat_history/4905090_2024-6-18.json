@@ -1,0 +1,23 @@
+{
+    "sav_id": 4905090,
+    "last_modified_date": "2024-06-04T19:49:13.031613+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 13 mini has the above problem:\n\nQuality issues:\nThe casing has a strong cut at the top of the building (Image 1 IMG_2313) and several scuffs at the bottom (Image 2 IMG_2314) that do not meet the quality criteria 'excellent'.\nExpected micro-damage according to the quality criteria 'excellent' as compared in Image 3 (IMG_2312)\n\nPlease clarify regarding the two noted non-micro-scratches.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded \u20ac60 to the customer for wrong grade.\n\nKind regards, \nAntonio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

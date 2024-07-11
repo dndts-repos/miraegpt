@@ -1,0 +1,28 @@
+{
+    "sav_id": 4865757,
+    "last_modified_date": "2024-05-21T00:38:48.611030+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 mini has a problem:\nSince shipping, how long does it take? If deadlines aren't met, do they return the money?\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe wanted to let you know Mariola hasn\u2019t received their order.\n\nWe\u2019ve checked the tracking link, but there isn\u2019t an update.\n\nThe tracking link doesn't work, so we\u2019re unable to check the package's location.\n\nCan you let us know if the order was shipped, and under which tracking number?\n\nIn case the order was not shipped yet, please ship it and provide a valid tracking number, or refund the order under 1 business day.\n\nIf you've shipped the order but it's lost, we will gather the paperwork from the customer and forward it to you. We'll let you know if the customer prefers a refund or a reshipment.\n\nIf the delivery starts moving again, a refund won\u2019t be issued, and the order will be considered late.\n\nLet us know if you have any questions or concerns \u2014 we\u2019ll keep an eye out for your reply.\n\nThanks for your help,\nSergio, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the device is being delivered to the customer and the estimated date of delivery is 22nd May. We have attached a screenshot for your reference.\n\nThe tracking number is 1ZBF1560D901102286 and it is shipped through UPS.\n\nHowever, shall there be further issues, please do not hesitate to contact us.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

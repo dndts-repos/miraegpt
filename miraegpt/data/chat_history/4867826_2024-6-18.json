@@ -1,0 +1,51 @@
+{
+    "sav_id": 4867826,
+    "last_modified_date": "2024-05-21T17:28:57.151756+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has a problem:\r\nI want to cancel my order\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has a problem:\r\n\r\nI want to cancel the order since I don't need the device.\r\n\r\nThank you,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for portable and household appliances) to repair or replace the product, or 2 business days to make a refund if necessary.\r\nThe customer meets the following requirements for a return:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that they have deleted their personal data\r\n\u2714 Has confirmed that they have the return label\r\n\u2714 Understands that accessories and purchase receipt must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: once delivered, the seller has 3 business days (5 for portable and household appliances) to repair or replace the item and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Laura:\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a place that is comfortable for you to send your package. You can find a list of delivery points here: https://www.seur.com/en/busqueda-tiendas.do\n\nReturn preparation:\n1. Check out instructions on how to return a product <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">here</a>\n2. Don't forget to include any accessory that came with your item\n3. Remove any protective case or screen protector it has\n4. Package your item and its accessories following these guidelines...\n\nPackaging of the item:\nThe box should be strong and resistant. You must place your item securely inside the box so it doesn't move during transit.\nThe return label should be stuck to the top of the box (you can also add an additional label on the inside to help identify your shipment in case the original label peels off or gets damaged).\nTake photos of the interior and exterior of your package before sending it. This will protect you in case your item gets damaged during transportation.\n\nYour return is ready for shipping! We'll let you know when it arrives.\nBest regards,\nBack Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nYour customer's parcel is in transit to your warehouse. Your customer has used his withdrawal period. \n\nInform us when it has been received and proceed with the refund, remember to respect the deadlines. \n\nRegards,\nAdriana from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the arrival of the parcel.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nOk.\n\nRegards,\nAdriana from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

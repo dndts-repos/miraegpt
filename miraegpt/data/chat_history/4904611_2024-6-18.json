@@ -1,0 +1,28 @@
+{
+    "sav_id": 4904611,
+    "last_modified_date": "2024-06-04T17:46:14.021657+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 mini has the following problem:\n\nI inserted a wrong cap in the order.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Ecomobile,\n\ncustomer informs that he entered the zip code incorrectly.\n\nPaolo Soroldoni\nc/o Mitsubishi Electric\nVia Energy Park 14\n20871 Vimercate MB\n\nIs it still possible to edit this information?\n\nThanks for understanding.\n\nBest regards,\nAndreia, from Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our logistics partner of the updated address.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

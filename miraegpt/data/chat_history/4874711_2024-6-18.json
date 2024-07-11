@@ -1,0 +1,23 @@
+{
+    "sav_id": 4874711,
+    "last_modified_date": "2024-05-23T20:09:53.223870+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nThe optical quality of the iPhone does not meet my expectations.\nUnfortunately, there is clear damage to the lacquer on the device frame, which does not correspond to the quality feature \"Excellent\" (\"no scratches visible from 20cm\")\nThere is also slight soiling between the buttons and speakers.\nWhen testing & switching the mute button, a little dirt came off. I therefore do not expect intensive cleaning.\nI was very satisfied with my last purchase on Backmarket. As the device was in the same quality class, I have a good reference. Unfortunately, there are clear (!) differences in terms of signs of use on the frame when I bought the iPhone.\nFor this reason, I would like to make use of my right of withdrawal & cancel the purchase.\nYours sincerely.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

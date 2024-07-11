@@ -1,0 +1,23 @@
+{
+    "sav_id": 4877669,
+    "last_modified_date": "2024-05-24T21:27:01.719232+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy product Galaxy S21 5G has the above problem:\n\nThe phone won't turn on and can't be charged.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

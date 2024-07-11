@@ -1,0 +1,27 @@
+{
+    "sav_id": 4876511,
+    "last_modified_date": "2024-05-24T14:33:20.851704+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product is iPhone 13 and it has the above issue:\r\nI received my phone on May 24, 2024, just one day after ordering it on May 23. The phone was described as being in excellent condition when I ordered it, but upon receipt, I noticed noticeable wear and tear (camera and front side top) despite this. I've decided to change my mind and prefer a completely new phone instead. Despite the good service and fast shipping, I'm returning it due to changed preferences.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "PREFER_NEW",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4919502,
+    "last_modified_date": "2024-06-10T13:39:18.888777+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 has the above problem:\r\n\r\nHello,\r\nWe had ordered two iPhones 12 in the condition 'very good'. Unfortunately, the condition is not up to par.\r\nThe scratches are massive on both iPhones.\r\nUnder the condition that the devices function properly, I would be agreeable to a price reduction or an exchange of the devices.\r\nWith friendly regards,\r\nThomas Keller\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe will make a partial refund of \u20ac60.00 to the customer.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "sav_id": 4862021,
+    "last_modified_date": "2024-05-18T22:45:25.010563+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has the above problem:\nI need to return the iPhone because I'm not comfortable with using it. I've always had an Android device, and that's what I'm used to. I can't figure out how to use this iPhone safely. Therefore, I'll be returning it and requesting a refund of the purchase price.\nPlease excuse me.\n\nThank you very much, Petra Karcher\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

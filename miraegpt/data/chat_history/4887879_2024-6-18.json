@@ -1,0 +1,58 @@
+{
+    "sav_id": 4887879,
+    "last_modified_date": "2024-06-10T20:15:48.617800+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 13 Pro has the above problem:\n\nThe iPhone 13 worked for 2 days, then it shut off in the middle of the night and won't turn on again, neither with a soft or hard reset. The screen remains completely black, no reaction. I've tried charging the battery - with cable and also wirelessly. How do I get help or exchange the device now? I haven't received an invoice yet and wouldn't know how a return works. Help! It was a birthday gift for my son and he's disappointed!\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Gerald,\n\nYou can find the return shipping label attached to this message. Your return will be processed by Chronopost. Simply drop off your package at a nearby drop-off location. You can find a list of locations here: https://www.mydpd.at/shopfinder.\n\nBefore you prepare your return:\n1. Follow these instructions on how to return an item <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Don't forget to include any accessories that came with your product\n3. Remove any existing protective film or wrapping\n4. Package your product and its accessories according to the tips below.\n\nHow to package:\n\u2022 The box should be sturdy and stable, with your product lying flat so it doesn't move during transit.\n\u2022 Stick the return shipping label on top of the box (you can also attach a spare label inside for identification in case the original one is lost or damaged).\n\u2022 Take photos of the package from inside and out before sending. This will protect you in case your product is damaged during transit.\n\nYour return is now ready to be dropped off! We'll notify you when it arrives at our location.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device is currently locked by the customer's iCloud account. Inform the customer to unlink their account or we will not be able to proceed with the necessary actions. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\niCloud is off.\n\nRegards,\nAysu from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you in assisting the customer in unlinking their iCloud. We will relay this good news to our repair team. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you for letting us know. \n\nSince the unit is unlocked since the 04/06/2024 (See the message we sent you on the 05/06/2024), keep in mind that you will have 24 hours (3 working days after iCloud disconnection) more to provide the TN of the repaired/replaced unit. In case of replacement, please also provide us the IMEI of the new unit. Thank you in advance.  \n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nCan I confirm if the customer had dropped the device during use? This information determines whether the device is still under warranty. Thank you for your patience and understanding.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer didn't report any of that in this case. It is up to you to confirm such damages upon reception of the units within the given deadline (3 working days for repair/replaces and 2 working days for refund cases). \n\nPlease keep in mind that without a valid TN within 1 hour, we will have to perform the refund as per QC. Thank you for understanding. \n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello ecomobile, \n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 602,24 \u20ac to the customer for not handling the repair/replacement within the deadline. Thank you for understanding.\n\nPlease kindly refer to the Seller Support Centre (SSC) if you would like further clarification on this topic. You should easily find the answers to your questions there. Just click on this link and you will be taken to the home page of your help centre: https://backmarketportal.force.com/ssc/login\n\nUnder \"Top categories\" select the category that fits your issue and an article has most likely already been written on this topic. If the help centre articles do not provide you the answers you were looking for, you can directly reach out to your SSC team by clicking on \"Submit a new request\" and you will receive an answer within 24 working hours. Click on this link to be redirected to the form: https://backmarketportal.force.com/ssc/s/submit-new-request\n\nYou can monitor your requests by clicking on the tab \"My existing requests\".\n\n*** Reminder: If this is the first time you go to the SSC, you must create a new account as this is a separate platform. You can use the same credentials as your Back Office, if you want, or different ones if you prefer.\n\nWe hope this helps!\n\nHave a lovely day!\n\nPaulo from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

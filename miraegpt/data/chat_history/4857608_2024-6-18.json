@@ -1,0 +1,47 @@
+{
+    "sav_id": 4857608,
+    "last_modified_date": "2024-05-16T23:28:47.206976+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 is experiencing the following issue:\nI mistakenly ordered a wrong model.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nJust a friendly reminder, as we noticed that you received a package for a return under warranty more than 3 business days ago (on 05/24/24). We remind you that the intervention time (return of a product or refund) is 3 business days in the case of a technical problem.\n\nPlease refund the product within the next 24 business hours, otherwise we will have to proceed with the refund in accordance with the Back Market charter.\n\nThank you in advance for your help,\nFafonie from Back Market.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are currently checking with our logistics partner regarding the receival of the parcel. In the meantime, kindly do not refund the customer. Thank you for your understanding and patience.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Bonjour,\n\nLe vendeur n'est pas en mesure de traiter le retour en raison du probl\u00e8me suivant :\nL'article n'a pas \u00e9t\u00e9 r\u00e9ceptionn\u00e9.",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have not received the parcel. Attached is the CND.\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nI would like to inform you that I just had a return from BackShip and we have proceeded to refund the customer.\n\nThey process the carrier\u2019s investigation and your compensation. It is NOT NECESSARY for you to open an SSC claim as they are already processing your case.\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

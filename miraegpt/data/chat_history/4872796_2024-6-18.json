@@ -1,0 +1,106 @@
+{
+    "sav_id": 4872796,
+    "last_modified_date": "2024-05-23T11:02:20.651627+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 has the above problem: The package went back to Backmarket because it wasn't deliverable. Can I get this again but sent to a different address? Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nIt looks like the parcel is on the way back to you.\n\nThe customer wishes a reshipment and confirmed his address: \n\nGisela Hansmann\nUferstr. 22\n49828 Neuenhaus\nDeutschland\n0162 9829001\n\nCan you ship it again, after you received it back?\n\nThank you and have a successful working day\n\nRegards,\nBatuhan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the reshipment of the parcel. We will provide the tracking number soon. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer was asked where to send the parcel and wants the package to be resent to:\n\nRecipient: Gisela Hansmann\nAddress: Uferstra\u00dfe. 22\nZIP-Code: 49828 Neuenhaus\n\nPlease let us know within 24 hours if this was taken in to consideration for the new sending and provide us the new TN to forward the customer. Thank you for understanding. \n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the reshipment of the order. We are still waiting a reply from them. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe tracking number is 1ZBF1560D901125921. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThank you for letting us know. Was the previously provided address considered for this shipping? Please let us know in order to inform the customer. \n\nWe also noticed, that the provided TN is not active or recognized at the carrier tracking site (see attachments) could you check if you provided it correctly? Thank you in advance. \n\nThank you for understanding,\n\nPaulo from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel is being shipped to the new address: \nGisela Hansmann\nUferstr. 22\n49828 Neuenhaus\nDeutschland\n0162 9829001\n\nThe tracking link works. The estimated date of delivery is 28/05/2024.\n\nThank you.\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nthank you for letting us know. The customer was informed accordingly. \n\nJust checking the reception, once done, to close the case and SAV accordingly. Thank you for understanding.\n\nThanks for your help in keeping our shared customers happy!\n\nPaulo Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\r\nMy product iPhone 13 has the above problem:\r\nPlease Refund\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer had the following issue with their item: The unit turns randomly off.\n\nThey would like a refund.\n\nWe\u2019re continuing with the return. Please keep in mind that you have 2 business days to refund the order after receiving the package.\n\nThank you,\n\nPaulo Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\n\nPaulo Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of the reminder. We will proceed with the refund soon.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you for letting us know. The customer was informed accordingly. Why did you discount 5,00 \u20ac from the refund? Thank you in advance.\n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe provided a partial refund of 5 euros as the customer did not return the cable along with the device. According to the quality charter, the customer is to get a partial refund of 5 euros less if the cable is not returned.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nSince you didn't report that at any time upon reception, we needed to check. The customer will be informed and the case and SAV closed accordingly. Thank you for understanding.\n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        },
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

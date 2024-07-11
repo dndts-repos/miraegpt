@@ -1,0 +1,38 @@
+{
+    "sav_id": 4872054,
+    "last_modified_date": "2024-05-22T22:23:07.547281+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 13 has the above problem:\n\nGood evening Backmarket Team,\nFirst of all, I'd like to emphasize that I'm very satisfied with the device and how quickly it arrived! It even came with a case, which I immediately used. When I took off the cover today, something came loose from the camera (I thought). It was actually a lens protector. Actually, that's a great thing, now I have the feeling that this was just stuck on to hide the scratched camera... The attached pictures show one lens with a lens protector and one lens where the lens protector has come loose. In my opinion, this optics does not match the condition 'Very Good'. Since I'm otherwise satisfied with the device's function, I would like to inquire whether a partial refund regarding the substandard optics is possible.\n\nThank you in advance for processing my concern!\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer contacted us. He is satisfied with the device but has a problem.\n\nWhen he removed the cover, the camera lens protection came off. He thinks this was glued on to hide the scratched camera. The attached pictures show a lens with the lens protector and a lens with the lens protector removed. \nThe customer is asking for a partial refund, would you agree that we make an offer of 60 euros to the customer?\n\nKind Regards,\nDerya from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are sorry that the phone is not up to the customer's satisfaction. Unfortunately, we are only able to give up to 40 euros as commercial gesture for the inconvenience caused. Can you get back to the customer and check whether they are amenable to this offer? We hope these solutions will prove helpful to you, and will not necessitate a return which will generate a lot of harmful carbon emissions, as the phone does not have any hardware issues. We will await your response. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer accepted the partial refund of \u20ac40. Please initiate this as soon as possible.\n\nThank you for your help.\nHave a nice weekend.\n\nKind Regards,\nDerya from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the commercial gesture. Thank you for your understanding and assistance.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

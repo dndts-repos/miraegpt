@@ -1,0 +1,58 @@
+{
+    "sav_id": 4875990,
+    "last_modified_date": "2024-05-24T12:04:20.208968+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy product iPhone 13 has the above problem:\n\nThe package should have been delivered on May 15/16, 2024. However, UPS arrived on May 14, 2024, but no one was there. I then called them and arranged for delivery to a UPS Access Point. But now, the package hasn't arrived in over a week, and UPS said it would arrive on May 16, 2024, but it's still not here.\nUPS says they don't know where the package is, apparently it got lost.\nI don't want to continue calling UPS anymore, I'd like to know if we can either get a refund or try with another delivery service again.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there!  \n\nThe recipient of this order claims they haven't received it, even though the tracking shows it as delivered.  \n\nFirst, the customer will look for the package themselves. If they can't find it, we asked them to provide a Certificate of Non-receipt and their ID. \n\n Then, we'll ask for a Proof of Delivery (POD) from the BackShip team. If there is a valid Proof of Delivery, we'll ask the customer for a police report in addition to the other documents.  \n\nWithout a valid POD, only an ID and the Back Market form are required.  \n\nThis message is just for your information and we will handle the claim from start to finish. \n\nYou\u2019ll hear back from us if the package is found, if we need to request a reshipment, or if we\u2019ve issued a refund. \n\nDon't hesitate to let us know if you have any information you\u2019d like to share about the package. \n\nWe'll also let you know if the device needs to be blocked.  \n\nIn case the order isn't found and the customer wants a replacement, will you be able to ship a similar item? If not, we'll handle the refund.  \n\nTalk soon, \nAysah, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\n\nThe customer's package is not in the collection area.\n\nThe customer's package \n \nSCHLUESSELDIENST OPPERMANN , 10 HELMSTEDTER STRASSE , BRAUNSCHWEIG , 38102 , DE\n\nCan you request the courier company to deliver to this address?\n \nRegards,\nAysah, Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\n\nThe Documents from the Customer.  \n\nThe package is not in the collection area.\n\nPlease send a new device to the customer in 24h.  \n\nThank you, \nAysah, from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will check with our logistics partner. In the meantime, kindly do not refund the customer, thank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 449.06\u20ac to the customer for not respecting the deadline to send a new device.\n\nKind regards, \nClaudia from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe require a valid email address from the customer in order to continue with our investigations. \n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile.\n\nyannick.zillmer02@gmail.com\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for the prompt response.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_MISSING_TRACKING_LINK",
+            "tag": "DELIVERY"
+        }
+    ]
+}

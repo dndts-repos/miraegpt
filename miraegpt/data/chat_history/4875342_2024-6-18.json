@@ -1,0 +1,53 @@
+{
+    "sav_id": 4875342,
+    "last_modified_date": "2024-05-24T06:33:04.628449+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy product iPhone 13 Pro has the above problem:\r\nI would like to cancel my order, as my friend gave me his old phone as a gift\r\nHowever, I cannot find a field to do so, is it possible this way?\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer no longer wants the device.\n\nPlease cancel the order and initiate the refund.\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease relay this message to the customer.\n\nWe are so sorry that you are unhappy with our product, as your product is still in transit, our logistics partner has suggested you to do the following.\n\n1. Refuse the parcel when a delivery attempt is made.\n2. If you are unable to refuse a parcel, do not open the product packaging. Use the return label provided by BackMarket and send the device back immediately.\n\nBy doing the following, you would be sure to receive a much FASTER REFUND for this order. \n\nHowever, if we may interrupt, if this change of mind is due to a cheaper alternative found, we are able to offer you a commercial gesture of 20 euros instead. \n\nThank you.\nRegards, \nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello Ralf,\n\nYou can find your return label attached to this message. Chronopost will handle your return processing. Simply drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nBefore you prepare your return, please follow these steps:\n1. Check our instructions on how to return an item by clicking here: <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">Here</a>\n2. Make sure to include any accessories that came with your product\n3. Remove any protective wrapping or film\n4. Pack your product and its accessories according to the tips below:\n\nPackaging Tips:\n\u2022 The box should be sturdy and stable, and your product should fit snugly inside so it won't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside the box in case the original label is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before sending it. This will protect you in case your product gets damaged during transport.\n\nYour return is now ready to be shipped! We'll let you know when it arrives at our location.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nPlease note: Customer sends device in for refund.\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the arrival of the parcel. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nFeyza Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

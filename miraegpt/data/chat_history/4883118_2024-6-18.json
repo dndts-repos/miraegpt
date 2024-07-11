@@ -1,0 +1,28 @@
+{
+    "sav_id": 4883118,
+    "last_modified_date": "2024-05-27T18:15:34.961638+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product is iPhone 13 Pro has the above problem: The order has not been sent yet. Many thanks for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\n\nplease send device in 24h or we will refund \n\nThanks for your help in keeping our shared customers happy!\nRicardo-Filipe Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe would like to apologize. The parcel appears to be stolen. We are conducting an internal investigation. In the meantime we have reimbursed the customer completely for this order. We are sorry for the inconvenience caused.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

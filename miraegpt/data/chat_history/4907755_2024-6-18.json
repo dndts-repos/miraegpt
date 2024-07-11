@@ -1,0 +1,44 @@
+{
+    "sav_id": 4907755,
+    "last_modified_date": "2024-06-05T16:39:09.415305+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 Pro has a problem:\r\nFiles like photos or files saved alone are deleted, the battery doesn't last long, and the battery life has dropped significantly since it arrived. It also heats up a lot when used.\r\nThank you,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for portable electronics and home appliances) to repair or replace the product, or 2 business days to process a refund if necessary.\r\nThe customer meets the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that they have deleted their personal data\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that all accessories and purchase receipt must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: once delivered, the seller has 3 business days (5 business days for portable electronics and home appliances) to repair or replace the item and 2 business days to process a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Mar\u00eda:\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a location that is most convenient for you to send your package. You can find a list of drop-off points here: https://www.seur.com/en/busqueda-tiendas.do\n\nReturn preparation:\n1. Check the instructions on how to return a product by consulting this article: https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions.\n2. Don't forget to include any accessory that came with your item.\n3. Remove any protective film or screen protector.\n4. Package the item and its accessories following these guidelines.\n\nPacking the item:\n\u2022 The box must be strong and resistant. You should place the item inside the box securely so it doesn't move during transport.\n\u2022 Stick the return label on top of the box (you can also add an additional label inside to help identify the shipment in case the original label peels off or gets damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case the item is damaged during transport.\n\nThe return is ready for shipping! We'll notify you when it arrives.\nBest regards,\nThe Customer Service team at Back Market, The Customer Service team at Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer is returning the device for a REPAIR - REPLACE. Please confirm if you will be able to offer this solution. \n\nThe customer has reported the following issue: Files such as photos or files saved alone are deleted, the battery hardly lasts, and the battery life has dropped very quickly since it arrived, it also gets very hot when using it\n\nWe have sent the following troubleshooting steps: \n\u2192 Step 1: Activate Low Power Mode \n\u2192 Step 2:  Close background apps\n\nAs these steps did not work, the customer will return the device. Thank you for your help! \n\nBest regards. \nSarah, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_WARM_OR_INFLATED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "ITEM_GETS_HOT",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "sav_id": 4853599,
+    "last_modified_date": "2024-05-15T19:12:50.478232+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 has a problem:\r\n\r\nThere are two detected issues. One is the rear camera, which appears to have a halo that blurs the photo with light. I've attached two photos, one taken with this iPhone 12 and the other with an iPhone 12 mini, both with the same camera, and it shows the difference.\r\n\r\nOn the other hand, when opening the password entry menu in some apps, the screen flickers and vibrates strangely. I have a video to explain it better, but I'm not allowed to attach it.\r\n\r\nThank you,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and household appliances) to repair or replace the product, or 2 business days to make a refund if necessary.\r\nThe customer must meet the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that they have deleted their personal data\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that accessories and purchase proof must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nRemember: once delivered, the seller has 3 business days (5 business days for laptops and household appliances) to repair or replace the article, and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nHi there, I'm Juan from Back Care, I hope you're having an awesome week. \n\nThe customer send the device for a refund, please after you received the device help us with the refund, the customer is on his withdrawal period.\n\nWe thank you for your attention to this issue, and we look forward to your reply. \n\nRegards,\nJuan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the arrival of the parcel.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile \n\nHi there, I'm Juan from Back Care, I hope you're having an awesome week. \n\nThanks for your response, that is important to us.\n\nWe thank you for your attention to this issue, and we look forward to your reply. \n\nRegards,\nJuan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for your message. We will update you once we receive the parcel.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile \n\nHi there, here Juan again, I hope you're fine!\n\nThanks for your help, this case is important for the customer\n\nRegards,\nJuan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nHi there, I'm Juan from Back Care, I hope you're having an awesome week. \n\nPlease proceed with the refund, the customer is in his withdrawal period.\n\nThank you very much for your help, I will be attentive to your answer.\n\nRegards,\nJuan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe appreciate your patience while we process the device, thank you. Kindly do not refund the customer yet.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile.\n\nHi there, I'm Juan from Back Care, I hope you're having an awesome week. \n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nPlease provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter.\n\nThanks for your help in keeping our shared customers happy!\nJuan Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SCREEN_DISPLAY",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

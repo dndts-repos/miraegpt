@@ -1,0 +1,28 @@
+{
+    "sav_id": 4871890,
+    "last_modified_date": "2024-05-22T21:36:16.549340+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy S21+ 5G product has the above problem:\r\nDevice won't turn on.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product,  the 27.05.24. \n\nThe delay to repair or exchange the product is 3 days for technical issue. \n\nWithout an answer with a valid tracking link before the 07.06.24 we will refund the customer.\n\nThank you for understanding,\nSema from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4901050,
+    "last_modified_date": "2024-06-03T15:32:49.573254+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has a problem: It's necessary to add my ID number in invoice 52864545B. Thank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Ecomobile \n\nThe customer has requested to add the VAT number to his invoice, you can help us by generating this invoice.\n\nThe customer has requested the following to be added to his invoice:\nNIF: 52864545B\n\nCould you please send us the invoice within 48 hours?\nWe appreciate your help in this process.\n\nRegards,\nZayra from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the invoice with the VAT number.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

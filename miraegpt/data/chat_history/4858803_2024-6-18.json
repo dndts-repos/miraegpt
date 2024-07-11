@@ -1,0 +1,28 @@
+{
+    "sav_id": 4858803,
+    "last_modified_date": "2024-05-17T14:05:41.335660+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 is having an issue:\nhello\nthe DPD courier asks me to contact you because they can't deliver the iPhone 13. Can you tell me what's wrong? I really need it for tomorrow, we're celebrating our 33rd wedding anniversary and this puts me in a very bad situation.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer contacts us, because the carrier has informed that they will not be able to proceed with the delivery of the customer. \n\nCan you, bring us a customer friendly solution please?\n\nWe thank you for your understanding and remain at your disposal for any other question.\n\nRegards,\nKelly from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\ni have informed our logistics partner of this issue and await updates.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

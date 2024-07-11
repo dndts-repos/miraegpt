@@ -1,0 +1,28 @@
+{
+    "sav_id": 4858116,
+    "last_modified_date": "2024-05-17T10:32:20.942310+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 is having the following issue:\nThe delivery agency says it's impossible to deliver my package and sends me back to you instead.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe delivery of the customer cannot be done according to DPD, and they redirect it to us. Can you reach out to them to ask them what is wrong?\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe are confirming the issue with our logistics partner. In the meantime, please provide a clear address in the following format.\n\nNAME\nADDRESS\nPOST CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\n\nThank you.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "sav_id": 4877806,
+    "last_modified_date": "2024-05-24T22:47:50.116235+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 is having a problem as follows:\nThe edges of the phone are more scratched than ever, from all sides and it's visible at two meters. The screen already has protection that's not transparent and it's strange: you can't check the status of the screen. This isn't conforming to a refurbished one. The most annoying thing is that the phone heats up strongly after three minutes of use. I've never seen this before. It's unsettling.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

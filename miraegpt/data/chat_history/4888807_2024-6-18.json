@@ -1,0 +1,43 @@
+{
+    "sav_id": 4888807,
+    "last_modified_date": "2024-05-29T16:27:10.772837+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has the above problem: The best category was selected and unfortunately, the battery only has a maximum capacity of 87%. My wife bought a phone from you that had a maximum capacity of over 90%. Many thanks and best regards, Ufuk.\nMany thanks for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Produkt mit iCloud/Google verkn\u00fcpft.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device is currently locked by the customer's iCloud account. Inform the customer to unlink their account or we will not be able to proceed with the repair. The customer can follow the instructions from the link below to unlink their iCloud.\n\nhttps://support.apple.com/de-de/guide/icloud/mmfc0eeddd/icloud\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nI have sent to the customer the procedure to disable the feature \"Find My\" from icloud.com as described in this article: https://help.backmarket.com/hc/en-gb/articles/360034277353\n\n&gt;&gt;Do not connect the device to the internet / make sure to turn it off or the procedure won't work (the button \u201cRemove from Account\u201d on icloud.com will not appear on the customer\u2019s end) &lt;&lt;\n\nI'll come back to you once the procedure is completed by the customer and FMIP is confirmed to be off.\n\nThank you for your collaboration,\n\nPaulo from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe unit is off now (see attachments). Please proceed with the repair/replacement with 3 working days and let us know the TN to forward to the customer. Thank you for understanding. \n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for assisting the customer in unlocking their iCloud. We will proceed with the necessary actions soon. \n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you for the reply. Nothing to thank for. That is why we are here. \n\nPlease proceed with the repair/replacement until 12/06/2024 (11:15 hours) and let us know the TN to forward to the customer. Thank you for understanding.\n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

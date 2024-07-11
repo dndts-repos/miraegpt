@@ -1,0 +1,27 @@
+{
+    "sav_id": 4854292,
+    "last_modified_date": "2024-05-15T22:47:20.251071+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 is experiencing the following issue:\nWe have observed problems upon receiving the phone today, Wednesday, May 15th, 2024, which are as follows: the case is dented on the bottom left (visible in photo 3824) and right (photo 3821 slightly less so), and you can see scratches or impacts on the camera (upper part) in photo 3823.\nThank you for your help,\n\nOnce the package is received, the seller has 3 business days (5 if it's a laptop or electrical appliance) to replace or repair your product. Or, they have 2 business days to process a refund (if you're eligible).\nA return is considered complete when the customer has met all of the following conditions:\n\u2714 Confirms that the product has not been repaired by a third party and has not sustained any damage due to a fall or exposure to water\n\u2714 Confirms that personal data has been erased\n\u2714 Has confirmed that they have the return label.\n\u2714 Understands that they must include accessories as well as proof of purchase in their package\n\u2714 Understands that they have 14 days to use the return label.\nReminder: Once received, the seller has 3 business days (5 if it's a laptop or electrical appliance) to replace or repair your product. Or, they have 2 business days to process a refund (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

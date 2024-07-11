@@ -1,0 +1,38 @@
+{
+    "sav_id": 4893878,
+    "last_modified_date": "2024-05-31T11:22:03.028621+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe package of the order 40642950 returned back to our warehouse.\n\nWhat should we do with this parcel?\n\nThank you.\n\nVal\u00e9rie DECAMPS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Ecomobile\n\nProceed to refund the estimated delivery time to the customer has expired if not refunded within 24 hours we will proceed on our side. \n\nRegards,\nRuth from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of this.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello, Ecomobile: \n\nWe wanted to let you know chema hasn\u2019t received their order.\n\nWe\u2019ve checked the tracking link, but there isn\u2019t an update.\n\nCan you let us know if the order was shipped, and under which tracking number?\nIn case the order was not shipped yet, please ship it and provide a valid tracking number, or refund the order under 1 business day.\n\nIf you've shipped the order but it's lost, we will gather the paperwork from the customer and forward it to you. We'll let you know if the customer prefers a refund or a reshipment.\n\nIf the delivery starts moving again, a refund won\u2019t be issued, and the order will be considered late.\n\nLet us know if you have any questions or concerns \u2014 we\u2019ll keep an eye out for your reply.\n\nThanks for your help,\n\nRuth, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Ecomobile\n\nWe are awaiting full reimbursement from the customer. \n\nRegards,\nRuth from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

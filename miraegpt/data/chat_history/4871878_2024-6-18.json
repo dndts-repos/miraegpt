@@ -1,0 +1,23 @@
+{
+    "sav_id": 4871878,
+    "last_modified_date": "2024-05-22T21:31:31.443045+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product Galaxy S21 5G has the above problem:\nPhone won't set to German language.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "LANGUAGE_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

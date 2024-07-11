@@ -1,0 +1,23 @@
+{
+    "sav_id": 4860861,
+    "last_modified_date": "2024-05-18T11:31:59.371852+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 is having the following problem:\nFace ID is impossible to set up (TrueDepth recognition non-activation)\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we have insufficient stock for exchange. Instead, we have processed the full refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SENSOR_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

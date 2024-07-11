@@ -1,0 +1,28 @@
+{
+    "sav_id": 4921893,
+    "last_modified_date": "2024-06-11T10:01:35.506067+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product is iPhone 13 and it has the above problem:\r\nWe have placed an order with you and received an invoice. However, the invoice comes from a EU country outside of Germany, yet it still shows VAT. As we are a company, we need an invoice without VAT for our accounting or we also won't have to pay any VAT. Our VAT ID number is DE 813 077 142\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer has the following problem with the invoice:\n\nInvoice shows sales tax. As we are a company, we need an invoice without VAT for our bookkeeping and do not have to pay VAT. Our VAT ID number is DE 813 077 142\n\nRegards,\nFeyza from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the updated invoice.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

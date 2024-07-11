@@ -1,0 +1,28 @@
+{
+    "sav_id": 4858790,
+    "last_modified_date": "2024-05-17T14:02:22.175169+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product iPhone 13 Pro has the above problem: \r\nI was actually looking forward to the fast shipping. Since UPS didn't show up at 11:45 am, delivery will only happen on May 21st now. Except for the time delay, the same game will repeat itself. I don't intend to become a slave to the service provider.\r\nI generally refuse delivery through UPS. Please let me know immediately what the next procedure is. THE DEVICE HAS ALREADY BEEN PAID FOR!\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer has not yet received the delivery.\n\nCould you please contact the supplier and ask where the package went.\n\nRegards,\nErcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUPS mentioned that they will re-attempt to deliver the package on 21 May between 8:45 to 12:45, the tracking link is:\nhttps://www.ups.com/track?loc=de_de&amp;requester=QUIC&amp;tracknum=1ZBF1560D901090281/trackdetails\n\nDo let me know if there is still any issues regarding this. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

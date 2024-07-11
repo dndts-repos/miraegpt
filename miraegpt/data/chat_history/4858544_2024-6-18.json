@@ -1,0 +1,23 @@
+{
+    "sav_id": 4858544,
+    "last_modified_date": "2024-05-17T12:52:30.743970+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 5G has been experiencing the above problem since February. \nThe screen will randomly shut down, and there is no discernible pattern. Sometimes it's triggered by slight vibrations, but other times it happens out of nowhere. There are periods where nothing happens for several weeks, followed by multiple occurrences daily. This is why I've tried to roll back the software completely to rule out software conflicts. No help (as mentioned earlier, sometimes it works, but only for a few weeks). I suspect the issue is triggered by specific movements and once it's started, it becomes more susceptible. The screen turns black between 1 minute and 5 hours, sometimes turning on again or through reset. Recently, within the past few weeks, the screen has also started to flicker before shutting down or when it's already turned on but not responding for a while.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

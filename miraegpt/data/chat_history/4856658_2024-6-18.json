@@ -1,0 +1,23 @@
+{
+    "sav_id": 4856658,
+    "last_modified_date": "2024-05-16T18:13:33.658423+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\n\nDear Sirs and Madams,\nYesterday, I received my freshly ordered package quickly. Today, when I turned on my iPhone, I noticed that the camera focus doesn't work.\n- It concerns photos and videos\n- Also, the focus doesn't work on Instagram etc.\n- Cleaning again with the microfiber cloths included\n- Restarting and software update did not help further.\nI would kindly ask you to repair or send me a new one.\nOrder number: 40458859\nBest regards, Felix Behr\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "FOCUS_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

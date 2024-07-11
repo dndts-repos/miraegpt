@@ -1,0 +1,73 @@
+{
+    "sav_id": 4873701,
+    "last_modified_date": "2024-05-23T15:14:54.758517+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\n\nHi there, the UPS says that I can't get it delivered to my address (even though my name is on the apartment). I tried to change the address but it won't let me. Can you help me please?\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe customer's parcel has been at a pickup point since 15/05. Please ask the customer to pick up their parcel or it will be returned to us. Thank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease disregard the previous message. Please provide us with the updated address in the following format:\n\nNAME\nADDRESS\nPOST CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nplease send the parcel to this pickupstation:\n\nMuskauer Str. 47, \n10997 Berlin, \nGermany\n+491573 3190969\ncampbellbews@gmail.com\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the change of address.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nthe package arrived at your warehouse today.\n\nPlease resend it within the next 24 hours and provide us with a TL.\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe tracking lD is 1ZBF1560D901155845 and the link for the delivery is https://www.ups.com/track?loc=en_US&amp;tracknum=1ZBF1560D900253213&amp;requester=WT/trackdetails Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\n\nWe wanted to let you know Campbell Bews hasn\u2019t received their order.\n\nThe tracking link doesn't work, so we\u2019re unable to check the package's location.\n\nCan you let us know if the order was shipped, and under which tracking number?\nIn case the order was not shipped yet, please ship it and provide a valid tracking number, or refund the order under 1 business day.\n\nIf you've shipped the order but it's lost, we will gather the paperwork from the customer and forward it to you. We'll let you know if the customer prefers a refund or a reshipment.\n\nIf the delivery starts moving again, a refund won\u2019t be issued, and the order will be considered late.\n\nLet us know if you have any questions or concerns \u2014 we\u2019ll keep an eye out for your reply.\n\nThanks for your help,\n\nCelia-Cristina, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order has reached our warehouse, we are arranging a reshipment of the parcel back to the customer. In the meantime, please do not refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\n\nThank you for your message.\n\nIf possible, we'll do it today.\n\n\nRegards,\nCelia-Cristina from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur logistics partner has informed us that the parcel is being reshipped to the customer. We will provide the tracking number soon. \n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur logistics partner has informed us that the TN is 1ZBF1560D901155845. It has already been delivered to the customer.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

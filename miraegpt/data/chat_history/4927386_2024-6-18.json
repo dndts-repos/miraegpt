@@ -1,0 +1,43 @@
+{
+    "sav_id": 4927386,
+    "last_modified_date": "2024-06-12T19:31:57.143497+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 mini is experiencing the following issue:\r\n\r\nI placed an order that included: one iPhone 12 mini, and a case offer with a screen protector. When I opened the package, there was no case nor screen protector. I only received the iPhone packaged in a cardboard box with bubble wrap.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you are well. \n\nI'm contacting you because the customer is reporting the following problem: \"I placed an order which included: an iphone 12 mini, and an offer of a shell with a protective screen. When I unpacked the order, there was neither the case nor the protective screen. I only received the iPhone packed in a cardboard box with bubble wrap.\"\n\nWe look forward to hearing from you and hope you have an excellent day.\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear customer,\n\nThank you for your feedback. We would escalate this to the accessories team in BackMarket. Unfortunately, this situation is beyond our control as we are only contractually obligated by BackMarket to provide the device and the charging cable, The case and screen protector you\u2019ve mentioned is an extra gift provided directly by the accessories department of BackMarket when you decided to take up the accidental damage or insurance protection. \n\nThank you for understanding.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease ignore the previous message. \n\nThank you for your feedback. We would escalate this to the accessories team in BackMarket. Unfortunately, this situation is beyond our control as we are only contractually obligated by BackMarket to provide the device and the charging cable, The case and screen protector you\u2019ve mentioned is an extra gift provided directly by the accessories department of BackMarket when you decided to take up the accidental damage or insurance protection.\n\nThank you for understanding.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello \u00e9comobile,\n\nI hope you are well. Thank you very much.\n\nWe look forward to hearing from you and hope you have an excellent day.\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nKindly close the case if no further assistance is required to avoid affecting the KPI of \"Long Term Contact Rate\". Please click the \u201cclose/to enclose\u201d button located at the bottom right. Thank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_MISSING_PART",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

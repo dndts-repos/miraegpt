@@ -1,0 +1,28 @@
+{
+    "sav_id": 4901237,
+    "last_modified_date": "2024-06-03T16:18:52.600081+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has a problem:\nThe billing address is incorrect\nCorrect address: Amilcar Street, 209-1-2, CP 08032\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile \n\nThis customer just informed us that the billing address you wrote in the invoice is not correct, even though she provided the correct one, we'll confirm the billing address for you:\n\nCarrer d'Am\u00edlcar 209\n1 2\n08032 Barcelona, Espa\u00f1a\n\nWe'll be waiting for your answer.\n\nRegards,\nSara from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have attached the invoice in this message. Do let us know if the customer still requires any further asisstance. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "sav_id": 4856141,
+    "last_modified_date": "2024-05-16T16:01:25.478586+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy Galaxy S21 5G has a problem:\r\nIt doesn't detect the SIM card (I've tried several that work on other phones).\r\n\r\nThanks,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and home appliances) to repair or replace the product, or 2 business days to process a refund if necessary.\r\nThe customer must meet the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\r\n\u2714 Confirms that all personal data has been erased\r\n\u2714 Has confirmed that they have the return label.\r\n\u2714 Understands that accessories and proof of purchase must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\nRemember: once delivered, the seller has 3 days (5 business days for laptops and home appliances) to repair or replace the item and 2 days to process a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

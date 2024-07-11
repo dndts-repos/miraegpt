@@ -1,0 +1,56 @@
+{
+    "sav_id": 4889026,
+    "last_modified_date": "2024-05-29T17:17:11.687531+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy Note20 Ultra 5G is experiencing the following issue:\n\nSince I purchased my Galaxy Note20 Ultra 5G from Back Market in January, I've noticed that mobile data connectivity (5G, 4G, etc.) has been very poor and unstable. This was not a problem on my old Samsung smartphone (Note10+, older model). I didn't realize this would be an issue because I use mobile hotspot on my computer. \n\nRecently, when trying to use the Samsung Pay app, I realized that it doesn't work on my new phone (it worked on my old one) and it opens in Korean. I learned that many refurbished smartphones can come from markets intended for other regions like America or Asia, which renders certain features and apps unusable. This also makes French operators' networks very unresponsive.\n\nI checked the software information of my Galaxy Note20 Ultra, purchased from you, and it comes from the South Korean market (KOO/KOO/KOO/SKC), designated for SK Telecom. \n\nAs I live in France, nothing is specified on your site, preventing me from using my product correctly. I would like to use the Commercial Warranty to exchange my smartphone for one produced for the French market, as that's what I paid 565.99\u20ac for and not a South Korean phone that doesn't work well in France.\n\nThank you for your understanding, hoping this can be resolved,\nBest regards.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Jennifer, you will find the return label attached to this prepaid return. Chronopost will handle your return. Choose the location that suits you best for shipping your package. You will find a list of drop-off locations here: https://www.pickup.fr/trouver-un-point/. \r\n\r\nReturn preparation:\r\n1. See instructions for returning an item at <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">this link</a>\r\n2. Add all accessories provided with your article\r\n3. Remove any protection, case, and screen protector\r\n4. Package your article and its accessories according to the instructions below.\r\n\r\nPacking the item:\r\n\u2022 The box must be sturdy and rigid. Place your item in a way that it is stable and does not move during transport.\r\n\u2022 Attach the return label on top of the box. You can also place an additional label inside the box in case the outside label gets damaged.\r\n\u2022 Take photos of the inside and outside of the package before shipping. This will protect you in case of a problem during transport.\r\n\r\nYour return is ready to ship! We'll let you know when it arrives.\r\n\r\nWe're at your service,\r\nBack Market Customer Service, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer will return the device to you for replacement or refund because it is not intended for the French market. He has all the evidence and we checked it thoroughly before contacting you.\n\nThe Samsung Pay application does not work due to its Korean origin. Several other applications are not visible and cannot be used.\n\nPlease do it yourself using the IMEI number. You'll have all the information you need.\n\nRegards,\nAlex-Elysee from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer prefers to receive a new Galaxy Note20 Ultra 5G 256GB - Bronze phone.\n\nThe phone that was returned to you has more problems that call into question the very quality of the conditions under which it was refurbished.\n\nRegards,\nAlex-Elysee from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello ecomobile\n \nWe have been contacted by Jennifer. We would like to inform you that we have refunded the customer's order. Please do not reply to this message.\n \nThank you for your understanding,\nHave a nice day \nAlex-Elysee Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Bonjour,\n\nLe vendeur n'est pas en mesure de traiter le retour en raison du probl\u00e8me suivant :\nAutre.\nPlus de d\u00e9tails ont \u00e9t\u00e9 ajout\u00e9s dans le message suivant : Dear Backcare,\n\nHave you refunded to the customer?\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile\n\nNot yet, but the application is being processed. The order may be refunded at any time by our refund services. So make all your arrangements.\n\nIf the order is refunded, you will receive a notification.\n\nHave a nice day\nAlex-Elysee Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "LANGUAGE_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "NFC_PAYMENT_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

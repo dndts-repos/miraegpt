@@ -1,0 +1,27 @@
+{
+    "sav_id": 4935078,
+    "last_modified_date": "2024-06-15T18:14:55.247077+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 Pro has the following issue.\n\nThank you,\n\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and household appliances) to repair or replace the product, or 2 business days to make a refund if it proceeds.\nThe customer meets the following requirements to proceed with the return:\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or fall\n\u2714 Has confirmed they have the return label.\n\u2714 Understands that accessories and proof of purchase must be included in the return package.\n\u2714 Understands they have 14 days to use the return label.\n\nRemember: once delivered, the seller has 3 business days (5 business days for laptops and household appliances) to repair or replace the article and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have cancelled the order. Kindly inform the customer. Thank you.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_WRONG_SPECIFICATIONS",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

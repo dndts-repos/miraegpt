@@ -1,0 +1,41 @@
+{
+    "sav_id": 4899199,
+    "last_modified_date": "2024-06-02T21:21:48.303868+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 has a problem:\n\nI am requesting repair or replacement of my iPhone 12 still under warranty, due to the following issues:\nThe phone drains quickly and turns off with sufficient charge in less than a year, more than expected battery decline using proper chargers.\nThe battery does not respond properly or registers ghost touches.\nThe volume changes without being touched and doesn't hear enough.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Pablo:\nYou will find the return label attached to this message. Chronopost will process your return. Please choose a location that is most convenient for you to send back your package. You can find a list of delivery points here: https://www.seur.com/en/busqueda-tiendas.do\n\nReturn preparation:\n1. <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">Check the instructions on how to return a product.</a>\n2. Don't forget to include any accessories that came with your article.\n3. Remove any protective case or screen protector it has.\n4. Package the article and its accessories following these guidelines.\n\nPacking the article:\n\u2022 The box must be strong and resistant. You should securely place the article inside the box so it doesn't move during transportation.\n\u2022 Stick the return label on top of the box (you can also add an additional label inside to help identify the shipment if the original label peels off or gets damaged).\n\u2022 Take photos of the interior and exterior of your package before sending it. This will protect you in case the article gets damaged during transportation.\n\nThe return is ready for shipping! We'll notify you when it arrives.\nBest regards,\nBack Market Customer Service, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\n\nPlease provide a solution to the customer within the next (1) business day, or unfortunately we\u2019ll have to refund the order, according to the Back Market Quality Charter.\n\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\n\nLeandra.\nBack Market customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_SOUND_QUALITY",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

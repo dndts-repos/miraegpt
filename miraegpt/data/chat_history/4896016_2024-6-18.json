@@ -1,0 +1,23 @@
+{
+    "sav_id": 4896016,
+    "last_modified_date": "2024-06-01T00:35:49.137150+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has a problem:\nThe condition of the iPhone ordered does not match that of the received iPhone. The received iPhone shows cracks on the glass that catch under the nail and are visible at more than 20cm.\nThis is not the iPhone I wanted to order.\nI am requesting a refund.\nBest regards,\nG\u00e9raldine Bierlein\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

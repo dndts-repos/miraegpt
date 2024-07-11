@@ -1,0 +1,31 @@
+{
+    "sav_id": 4898585,
+    "last_modified_date": "2024-06-02T16:26:23.834145+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 5G is experiencing the following problem:\nThe USB-C port does not work: impossible to charge the device with a cable, no connection possible with wired earphones. \nNetwork issue: my S21 device captures very poorly on the network!!! My SIM card works perfectly on another phone that I access well to the 4G network in the same location!!\n\nThank you for your help,\n\nOnce received, the seller has 3 working days (5 if it's a laptop or household appliance) to replace or repair your product. Or, 2 working days to process its refund (if you're eligible).\nA return is considered complete when the customer confirms that:\n\u2714 The product has not been repaired by a third party and has not suffered any damage due to a fall or exposure to water\n\u2714 The suppression of personal data has been carried out\n\u2714 They have confirmed having the return label\n\u2714 They understand they must include accessories as well as a proof of purchase in their package\n\u2714 They have 14 days to use the return label.\n\nReminder: once received, the seller has 3 working days (5 if it's a laptop or household appliance) to replace or repair your product. Or, 2 working days to process its refund (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CALLING_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

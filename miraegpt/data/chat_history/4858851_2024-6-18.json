@@ -1,0 +1,32 @@
+{
+    "sav_id": 4858851,
+    "last_modified_date": "2024-05-17T14:20:21.562079+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 mini has the above problem.\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Murat,\n\nYou can find your return label attached to this message. Chronopost will handle your return. Simply drop off your package at a nearby return location. A list of locations can be found here:\n\nBefore you prepare your return:\n1. Find instructions on how to return an item here: https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\n2. Don't forget to include any accessories that came with your product\n3. Remove any existing protective covering or film\n4. Package your product and its accessories according to the tips below\n\nHow to package your product:\n\u2022 The box should be sturdy and stable, and your product should lie flat in the box so it won't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside the box to identify your shipment if the original label is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before you send it. This will protect you in case your product is damaged during transport.\n\nYour return is now ready to be dropped off! We'll notify you when it arrives at our location.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nCan you check with the customer whether he return 1 phone only?",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "NO_LONGER_NEEDED",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

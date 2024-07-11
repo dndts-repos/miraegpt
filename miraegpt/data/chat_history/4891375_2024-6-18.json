@@ -1,0 +1,68 @@
+{
+    "sav_id": 4891375,
+    "last_modified_date": "2024-05-30T13:45:07.436366+02:00",
+    "language": "italian",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 5G has the following issue:\nThe phone won't turn on.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Salve agente,\n\nIl venditore non pu\u00f2 elaborare la restituzione a causa del seguente problema:\nAltro.\nHa aggiunto ulteriori dettagli nel seguente messaggio: Dear Backcare,\n\nThe device was purchased as a GOOD condition. According to the Quality Charter, GOOD condition requires the device to be only have micro-scratches on the shell. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a \u20ac40 deduction will be made in the event our repair team is unable to fix the device. In the meantime, please do not refund the customer.\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nBut the condition of the device is not a warranty exclusion.\n\nFrom your proposal we have the doubt that you have already sent it as such.\n\nRegards,\nAngela from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Salve agente,\n\nIl venditore non pu\u00f2 elaborare la restituzione a causa del seguente problema:\nAltro.\nHa aggiunto ulteriori dettagli nel seguente messaggio: Dear Backcare,\n\nWe understand that the condition of the device is not a warranty exclusion. However, as mentioned, the device was purchased as a GOOD condition. According to the Quality Charter, GOOD condition requires the device to be only have micro-scratches on the shell. The customer has had the device for a almost a year. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHowever, we are amenable to a \u20ac30 deduction instead, in the event our repair team is unable to fix the device. Kindly check with the customer on this and in the meantime, please do NOT refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nProceed with the repair, if it is not repairable we will ask the customer if he agrees.\n\nRegards,\nAngela from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue. Kindly ask the customer if he is agreeable with our offer. Thank you for your cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe customer does not accept.\n\nRefund in full or send an identical device.\n\nRegards,\nAngela from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Salve agente,\n\nIl venditore non pu\u00f2 elaborare la restituzione a causa del seguente problema:\nPacco e prodotto danneggiati durante il trasporto.\nHa aggiunto ulteriori dettagli nel seguente messaggio: Dear Backcarte,\n\nUpon closer inspection of the device, we have discovered that the device has suffered severe damage to the housing of the shell. This is way beyond what could be considered a \"good\" condition. The customer had the device for almost a year when they complained of screen issues. The multiple dents on the corners of the phone indicate that the device has sustained multiple fall damage. \n\nAs such, we must declare this phone out of warranty. \n\nPlease relook into this case as the condition of the phone is very bad.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nReturning the device to the customer\n\nRegards,\nAngela from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe have informed our logistics partner regarding the situation and will update you promptly.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel has been shipped back to the customer.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

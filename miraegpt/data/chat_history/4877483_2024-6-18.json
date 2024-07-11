@@ -1,0 +1,28 @@
+{
+    "sav_id": 4877483,
+    "last_modified_date": "2024-05-24T19:53:50.469644+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 has a problem: My package hasn't arrived yet. Thank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile \n\nNice to meet you, this is Manuel of Back Market. I hope this message finds you well and starting a terrific weekend.\n\nThe TN states that the package of the customer was delivered at a pickup Point.\n\nCould you tell us the address, please?\n\nRemember that if it is not possible, we must start a carrier investigation due to a lost parcel.\n\nThank you, \nManuel from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe address is FNX-SAN PEDRO DE LA SUERT , 19 CORDOBA CALLE , SAN PEDRO DE ALCANTARA , 29670 , ES. It seems that the customer has already picked up the parcel according to the tracking link.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

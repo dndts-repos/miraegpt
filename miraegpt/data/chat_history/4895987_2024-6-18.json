@@ -1,0 +1,47 @@
+{
+    "sav_id": 4895987,
+    "last_modified_date": "2024-06-01T00:05:28.589385+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has the above problem:\n\nI've found a better offer than this one.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Falsches Produkt erhalten.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nPlease relay this message to the customer.\n\nDear Benedict,\nYou have returned the wrong item back to us. The item that we have received has the IMEI: 357866892223879. However, the item stated in this chat and the one you wish to return has the IMEI: 354980614215304. Please return the correct device, that of IMEI: 354980614215304, so that we can do the necessary actions. Thank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are going to return the device that we have received to the customer, attached is the photo of the device that we have recevied. Kindly ask the customer to confirm the following address:\n\nBenedict F\u00fcllberg\nLimbachstra\u00dfe 21\n31008 Elze\nGermany\n01575 7261634\nshipping_15950285_40721786@eu.perso-email.com\n\nThank you.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Falsches Produkt erhalten.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nIt seems that the customer may have opened the wrong SAV ticket. We received a phone of IMEI 357866892223879. This IMEI belongs to order 40729380. In order for us to refund the customer, they must open the correct ticket. Thank you.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nIn this case he only needs to open the claims, you don't need to send the device back, right?\n\nRegards,\nAntonio from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nYes correct. If the customer is able to open the correct conversation then we do not need to return the device. Thanks!\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "PREFER_NEW",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "sav_id": 4891357,
+    "last_modified_date": "2024-05-30T13:39:41.103578+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has the above problem: Hello, my iPhone 13 has scratches/dents at the silent switch above the SIM slot and below the charging port. Attached are the photos. Best regards, Stefan Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Stefan,\n\nYou can find your return label in this message attachment. Your return will be processed by Chronopost. Just drop off your package at a nearby return location. You can find the list of locations here: \n\nBefore you prepare your return, please follow these steps:\n1. Check our help center article on returns and refunds for instructions.\n2. Make sure to include all accessories that came with your product.\n3. Remove any existing protection film or wrapping.\n4. Wrap your product and its accessories according to the tips below.\n\nHow to wrap your product:\n\u2022 The box should be sturdy and secure, and your product should be positioned so it doesn't move during transit.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside for identification if the original label gets lost or damaged).\n\u2022 Take photos of the package from the inside and outside before shipping. This will protect you in case your product is damaged during transit.\n\nYour return is now ready to ship! We'll notify you as soon as it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nplease exchange the device.\n\nRegards,\nAysu from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nThank you. We are still processing the device. Will update you soon once we finish checking the device. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nany news?\n\nRegards,\nAysu from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

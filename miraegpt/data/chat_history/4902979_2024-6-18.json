@@ -1,0 +1,42 @@
+{
+    "sav_id": 4902979,
+    "last_modified_date": "2024-06-04T10:21:03.180380+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product is iPhone 13 mini with the above problem: \nI got a green one (the color doesn't look like Apple's original green) instead of the red one I ordered, along with an undesired case. I'd like to claim it and get the correct red iPhone. \nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Louise,\n\nYou can find your return label attached to this message. Chronopost will process your return. Just drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nBefore you prepare your return:\n1. Find instructions on how to return an item <a target=\"_blank\" href=\"https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions\">here</a>\n2. Don't forget to include any accessories that came with your product\n3. Remove any protective wrapping or film\n4. Wrap your product and its accessories according to the tips below.\n\nHow to wrap your product:\n\u2022 The box should be strong and sturdy, and your product should be placed in a way that it won't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside to identify your package if the original label is lost or damaged).\n\u2022 Take photos of the package from the inside and outside before you send it. This will protect you in case your product gets damaged during transit.\n\nYour return is now ready for drop-off! We'll let you know when it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou sent the device in the wrong colour.\n\nPlease send the iPhone 13 in red.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will check if there is sufficient stock for an exchange. In the meantime, please do not refund the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe will refund the customer.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_WRONG_MODEL",
+            "tag": "ACCESSORIES"
+        },
+        {
+            "customerIssue": "BAD_PRODUCT_COLOR",
+            "tag": "BAD_PRODUCT"
+        }
+    ]
+}

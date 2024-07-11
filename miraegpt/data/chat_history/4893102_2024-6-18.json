@@ -1,0 +1,43 @@
+{
+    "sav_id": 4893102,
+    "last_modified_date": "2024-05-30T22:39:59.638308+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 is having the following issue:\nHello, \nMy package was supposed to arrive at my neighbor's (with all necessary information described) (and I'm away traveling) but the delivery person left immediately. I no longer see the possibility of reprogramming the delivery and I'm afraid it will come back to you.... When receiving could you proceed with a refund? I'll reorder in about a month. Thank you in advance\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile, \n\nThe customer does not know where the package is.\n\nUnable to track the tracking number.\n\nThanks for your help.\n\nRegards,\n\nFran\u00e7ois from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the issue. \n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nDPD informs us that they have been unable to deliver the parcel : https://www.dpdgroup.com/be/mydpd/my-parcels/incoming?parcelNumber=10694000291184\n\nThe customer is no longer at home, but abroad, and would like a refund for his order.\n\nRegards,\n\nFran\u00e7ois from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have updated our logistics partner regarding the issue and they are in the process of recalling the parcel. In the meantime, please forward the following instructions to the customer.\n\n1. Ask the neighbour to refuse the parcel in the unlikely case a delivery attempt is made.\n2. If the parcel is delivered and the neighbour was unable to refuse the parcel, do not open the product packaging. Use the return label provided by BackMarket and send the device back immediately.\n\nBy doing the following, you would be sure to receive a much FASTER REFUND for this order. \n\nWe will update you if the order is succesfully cancelled and proceed with a refund.\n\nThank you.\nRegards, \nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare, \n\nThe refund has been made. \n\nRegards, \nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

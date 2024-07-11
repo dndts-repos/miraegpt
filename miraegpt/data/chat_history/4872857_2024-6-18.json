@@ -1,0 +1,23 @@
+{
+    "sav_id": 4872857,
+    "last_modified_date": "2024-05-23T11:20:27.734552+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Dear Backcare,\n\nThe parcel could not be delivered.\n\nReason: Consignee unknown (There is no such name on the bell or on the postbox.). Can you check the address, please?\n\nThe phone number on the package \u2013 015231823738 \u2013 is wrong.\n\nKindly send us the updated address, name and phone number of the customer in the following format: \n\nNAME\nADDRESS\nPOST CODE\nTOWN/STREET NAME\nCOUNTRY\nPHONE NUMBER\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nPlease send to the address below\n\nMadeleine Haid\nReute 4\n88279 Amtzell\nDeutschland\n+4915202016085\n\nThank you.\n\nRegards,\nGurcan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have updated our logistics partner about the customer's details.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4881837,
+    "last_modified_date": "2024-05-27T11:38:55.418412+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini is experiencing the following issue:\n\nThe Face ID has been working for 2 months and no longer works. It's impossible to reconfigure it. The camera gets stuck at this level, doesn't pass to the next step; portrait quality changes from clear to blurry. The camera must be faulty.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nI would like to remind you that the repair period will soon end.\n\nI invite you to provide us with a follow-up link and details of the repair.\n\nWithout any news from you in the next 24 hours, we will refund the customer.\n\nRegards,\nTiana-Rijamalala from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately our repair team is unable to fix the issue and we have insufficient stocks available for an exchange. Instead we have fully refunded the customer. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SENSOR_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

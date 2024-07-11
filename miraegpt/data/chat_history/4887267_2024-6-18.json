@@ -1,0 +1,48 @@
+{
+    "sav_id": 4887267,
+    "last_modified_date": "2024-05-29T09:24:11.956205+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 12 has the above problem:\n\nPlease provide information about the order status, which should have been delivered by May 28th. \nBest regards Olesja Alonso Martinez \n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer contacts us because his order has not yet been shipped.\n\nIs there a reason for this?\n\nIf not, please ship the order within 24 hours, or we will have to initiate a refund.\n\nThank you in advance for your cooperation\n\nRegards,\nTania from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe're getting ready to ship the parcel and want to ensure everything's perfect. Can we quickly re-confirm the customer's address?\n\nYour satisfaction is our priority, and this small step helps us guarantee a seamless delivery experience. Just a moment of your time could prevent any delivery issues.\n\nThank you for your understanding and cooperation.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Olesja Alonso Martinez\nAm Sportplatz 3\n49809 Lingen (Ems)\nDeutschland\n0174 1923639\nolesjawalter@gmx.de",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\n\nWhen will you send it?\n\nRegards,\nAysah, Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shipped out the device to the customer.\n\nHere is the tracking number: 1ZBF1560D901158075\n\nPlease note that as the courier has just picked up the parcel, it might take a while before it is accurately displayed on their website.\n\nIn the meantime please do not refund.\n\nIf you initiate a refund while the product is being shipped, we will lodge a case with SSC.\n\nRegards,\nHB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer on 3rd June. Has the customer received the device? Kindly close the case if the customer confirms reception of the device. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

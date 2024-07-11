@@ -1,0 +1,28 @@
+{
+    "sav_id": 4875529,
+    "last_modified_date": "2024-05-24T09:24:15.497514+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy product iPhone 13 Pro has the above problem: Address change. Error in name, but the way you described it doesn't work.\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nthe customer got the name wrong.\n\nPlease send the package with the following details:\n\nLee Hirschel\nP\u00fcttlinger Stra\u00dfe 56\n66333 V\u00f6lklingen\nDeutschland\n01517 0696508\nleebeartea@icloud.com\n\nRegards,\nClaudia from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have updated our logistics partner regarding the change in the customer's name.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

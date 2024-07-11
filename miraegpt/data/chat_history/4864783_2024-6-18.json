@@ -1,0 +1,38 @@
+{
+    "sav_id": 4864783,
+    "last_modified_date": "2024-05-20T17:23:15.632625+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 12 mini has the above problem: My package has not arrived yet. Should I wait? Thank you\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\n Once all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nRicardo-Filipe - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello!\n\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\n This order will be refunded in 24 hour\n\n\n\nYou can now blacklist the device.\n\nBest regards,\nRicardo-Filipe - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe require a handwritten CND with the IMEI 353013116561743 included, the current one provided is invalid as it is not handwritten and does not include the IMEI. Kindly assist the customer to provide a valid CND. We have informed our logistics partner about this situation and await updates from them.\n\nThank you.\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\n\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded the customer for deadline passed \n\n\nKind regards, Ricardo-Filipe from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

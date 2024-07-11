@@ -1,0 +1,28 @@
+{
+    "sav_id": 4874042,
+    "last_modified_date": "2024-05-23T16:58:35.949306+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 Pro has the following problem : \r\n\r\nHello, it's missing a charger port, I only got the cable. For the price it costs, I thought I would get the charger port\u2026\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer stated that he is missing the charger plug, he only got the cable. For the price, he thought he had the plug for the charger\u2014\n\nThanks for your help.\n\nSincerely,\n\nHanitra Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,  please relay the following message to the customer. Please remember to close the case after relaying the message as this issue does not concern us. \n\nThank you for your feedback. We would escalate this to the accessories team in BackMarket. Unfortunately, this situation is beyond our control as we are only contractually obligated by BackMarket to provide the device and a charging cable.\n\nAs part of an eco-friendly effort, effective 10th January 2022,  Backmarket does not provide chargers anymore with every purchase to align itself with industry experts as ditching the charger is supposed to reduce carbon emissions and preserve raw materials. Experts has stated that that power adapters use large amount of materials such as plastic, copper, and zinc for manufacturing\n\nI inform you that the phones on Back Market are delivered without earphones or wall plug as specified on the technical sheet of the product page. It is indeed a specificity of refurbished products which aims to reduce the electronic waste based on the observation that most customers already have these accessories from their old devices. This also reduces the selling price. For more information on the subject, we also invite you to read the following article: https://help.backmarket.com/hc/fr-fr/articles/360033669473-Accessoires-sont-ils-inclus-sont- vos-d-origine-\n\nFinally, if you don't have any accessories, know that you will find some in our Accessories section: https://www.backmarket.fr/fr-fr/l/accessoires-controles-par-le-lab/a157bd93-9f6b-4480-bf6e-33378bc6d1ea \n\nWe thank you for your understanding and don't forget, we are here if you need us! Your happiness is our top priority.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_MISSING_PART",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

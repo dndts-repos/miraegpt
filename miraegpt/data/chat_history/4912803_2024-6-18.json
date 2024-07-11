@@ -1,0 +1,48 @@
+{
+    "sav_id": 4912803,
+    "last_modified_date": "2024-06-07T11:06:40.232305+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 5G is experiencing the following issue:\n\nDisfunction of the simple card reader and microphone.\n\nDisfunction of the charging port as well.\n\nThank you for your help,\n\nOnce you receive the package, the seller has 3 business days (5 if it's a laptop or home appliance) to replace or repair your product. Or, 2 business days to process its return (if you're eligible).\n\nA return is considered complete when the customer has met all the following conditions:\n\u2714 Confirms that the product has not been repaired by a third party and has not suffered any damage as a result of a fall or exposure to water.\n\u2714 Confirms that personal data deletion has been performed.\n\u2714 Has confirmed having the return label.\n\u2714 Understands that they must include accessories and a proof of purchase in their package.\n\u2714 Understands that they have 14 days to use the return label.\n\nReminder: Once received, the seller has 3 business days (5 if it's a laptop or home appliance) to replace or repair your product. Or, 2 business days to process its return (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\nMy Galaxy S21 5G is experiencing the following issue:\nMalfunction of SIM card reader, microphone, and charging port\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "MICRO_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "MICRO_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

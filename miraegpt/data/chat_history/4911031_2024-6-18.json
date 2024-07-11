@@ -1,0 +1,23 @@
+{
+    "sav_id": 4911031,
+    "last_modified_date": "2024-06-06T17:20:14.919930+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product is an iPhone 12 mini with the above-mentioned problem:\n\nI was sold my iPhone with a battery life of 100%. After about 11 months of normal use, the battery level has reached 79% (maximum capacity). I think the wear and tear are not normal for an 11-month-old device. The phone was only charged once a day and not excessively used. (Always loaded using optimized charging process). My phone is still within the 12-month warranty and I would like to inquire if my problem can be resolved under warranty? \n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": ".",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "sav_id": 4913113,
+    "last_modified_date": "2024-06-07T12:43:00.913271+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 has the above problem.\nThank you for your help,\n\nIf the seller receives the package, he has 3 workdays (5 workdays for laptops and household appliances) to repair or replace the article, or 2 workdays to make a refund if this is possible.\nThe customer has met the following requirements for a successful return:\n\u2714 He confirms that the device has not been opened by a third person nor damaged (through fall or water exposure).\n\u2714 He has a return label.\n\u2714 He knows that all accessories and the receipt must be attached to the package.\n\u2714 He knows that the package must arrive at your location within 14 days.\n\nDon't forget: As soon as the package arrives, sellers have 3 workdays to repair or replace the product (5 workdays for laptops and household appliances), respectively, or 2 workdays to make a refund.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer has cancelled the order.\n\nCan you please stop the dispatch and initiate the refund?\n\nThank you very much.\n\nRegards,\nLuciana from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order has been successfully cancelled and the customer has been refunded.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "PREFER_NEW",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

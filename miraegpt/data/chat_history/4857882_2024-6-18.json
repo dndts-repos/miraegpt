@@ -1,0 +1,58 @@
+{
+    "sav_id": 4857882,
+    "last_modified_date": "2024-05-17T08:49:01.815261+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has the above problem:\n\nHello, I had the iPhone 13 with excellent (like new) ordered. Unfortunately, the backside is dirty at two spots. Looks like glue. I'd like to exchange it and get a flawless, excellent device in return. If that's not possible, I have to return the device entirely. I kindly request prompt feedback, as it's a gift for my daughter and she will have her birthday soon.\n\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Natascha,\n\nYou can find your return label in the attachment of this message. Chronopost will process your return. Simply drop off your package at a nearby drop-off location. You can find a list of locations here: \n\nTo prepare for your return:\n1. Follow the instructions on how to return an item <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Don't forget to include any accessories that came with your product.\n3. Remove any existing protective film or wrapping.\n4. Package your product and its accessories according to the tips below:\n\nHow to package your product:\n\u2022 The box should be strong and sturdy, with your product positioned so it doesn't move during transport.\n\u2022 Attach the return label on top of the box (you can also attach a spare label inside the box to identify your shipment in case the original label is lost or damaged).\n\u2022 Take a photo of the package from both the inside and outside before sending it. This will protect you in case your product is damaged during transport.\n\nYour return is now ready for pickup! We'll notify you when it arrives at our facility.\n\nBest regards,\nBack Market Customer Care, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer is returning the device for a REPLACE. \n\nPlease confirm if you will be able to offer this solution.\n\nThe customer has reported the following issue:\n\nBack side dirty, it seems to be glue.\n\nAs it was supposed to be a birthday present, the customer will return the device for a replacement.\n\nThank you for your help!\n\nBest regards,\nAstrid, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer would like a refund or an exchange for an excellent model.\n\nThanks for your help!\n\nHave a nice weekend.\n\nBest regards,\nAstrid Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the arrival of the parcel, kindly do not refund the customer first.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer would like a refund or an exchange for an excellent model.\n\nThanks for your help!\n\nHave a nice day.\n\nBest regards,\nAstrid Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will take note of the customer's request. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for refund or an exchange for an excellent model, the 23.05.24. The delay to repair or exchange the product is 3 days for technical issue. Without answer with a valid tracking link before the 28.05.24 we will refund the customer.\n\nThank you for understanding,\nTania from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

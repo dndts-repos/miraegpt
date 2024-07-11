@@ -1,0 +1,33 @@
+{
+    "sav_id": 4908229,
+    "last_modified_date": "2024-06-05T18:39:02.585676+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 13 product has the above problem: \nThe camera cannot be covered with a camera lens cover. This means it's not an original part but a replica. That's not agreed upon. Additionally, the attempt has now destroyed three protective covers (each \u20ac5).\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe hope you are well.\n\nYou have received the product for repair, the 10/06/2024. The delay to repair or exchange the product is 3 days for technical issue. Without an answer with a valid tracking link before the 14/06/2024 we will refund the customer.\n\nNest regards,\nEsra-Nur from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello ecomobile\n\nBefore you send the device, please confirm if customer can use a protective glass on the camera.\n\nIf not, customer wishes a refund. \n\nWe're looking forward to your reply and wish you a great weekend.\n\nRegards,\nEsra-Nur from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "OTHER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

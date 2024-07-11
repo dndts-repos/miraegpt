@@ -1,0 +1,48 @@
+{
+    "sav_id": 4874871,
+    "last_modified_date": "2024-05-23T21:08:21.518583+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy product iPhone 13 Pro Max has the above problem:\r\nAccording to tracking, the package was delivered on May 15, 24. But I haven't received anything and nothing signed! It wasn't even handed over to any neighbors. Yesterday we were called by UPS with the message that they can't find the package and you (Back Market) should file a research request at UPS. Please help us further. Best regards,\r\nS. Jackson\r\nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile, \n\nI have sent you all the documents for the investigation.\n\nPlease submit an investigation.\n\nThank you very much.\n\nWith kind regards,\nKubra, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have updated our logistics partner reagrding the issue and will update you promptly.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nIn the meantime, could you kindly get the customer to indicate the IMEI of the phone, 359646706424329, on her handwritten CND as well? Your help is very appreciated.\n\nThank you.\nregards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel has been delivered to MR. par ZV GULDER  on 15/05/24 at 10:00 am.\n\nAttached is the POD.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile, \n\nI have released the new form with the IMEI and ask you to initiate the investigation. The customer has not received the parcel.\n\nYours sincerely,\nKubra, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our logistics partner about the situation. We have shared the necessary documents with our logistics partner. We would get back to you when we receive a reply. Please do NOT refund the customer before an investigation is open. \n\nThank you.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "sav_id": 4912742,
+    "last_modified_date": "2024-06-07T10:49:17.526957+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 mini has the above problem: \nWhen can I expect my order? \nThe delivery date is likely to be June 05., The shipment was scheduled for June 07. Now the status is still not shipped. When will it finally be shipped?\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe wanted to let you know Mona hasn\u2019t received their order.\n\nWe\u2019ve checked the tracking link, but there isn\u2019t one.\n\nCan you let us know if the order was shipped, and under which tracking number?\nIn case the order was not shipped yet, please ship it and provide a valid tracking number, or refund the order under 1 business day.\n\nIf you've shipped the order but it's lost, we will gather the paperwork from the customer and forward it to you. We'll let you know if the customer prefers a refund or a reshipment.\n\nIf the delivery starts moving again, a refund won\u2019t be issued, and the order will be considered late.\n\nLet us know if you have any questions or concerns \u2014 we\u2019ll keep an eye out for your reply.\n\nThanks for your help,\n\nPaulo, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe extend our sincerest apologies for the inconvenience caused. It has come to our attention that the parcel may have been stolen. We take such incidents very seriously and have launched an extensive internal inquiry to ascertain the circumstances surrounding this unfortunate event. As a gesture of our commitment to customer satisfaction and to alleviate any inconvenience caused, we have promptly refunded the customer in full for their order.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nThank you for letting us know. The customer was informed and the case and SAV closed accordingly. Thank you for understanding. \n\nBest Regards,\n\nPaulo from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

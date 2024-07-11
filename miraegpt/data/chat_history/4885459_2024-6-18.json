@@ -1,0 +1,35 @@
+{
+    "sav_id": 4885459,
+    "last_modified_date": "2024-05-28T15:15:17.465181+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 mini has the above problem:\nThe top camera of my iPhone 12 mini has scratches. The photos taken with the camera have a flecked veil.\nThe iPhone was delivered with many stickers and imprints on the back.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "ACCESSORIES_DIRTY",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "ITEM_DAMAGED_ARRIVAL",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "ITEM_DIRTY",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

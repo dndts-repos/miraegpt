@@ -1,0 +1,28 @@
+{
+    "sav_id": 4886901,
+    "last_modified_date": "2024-05-28T23:13:44.997009+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 has a problem: Charger cable not included. Thank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you're having a great day!\n\nThis is Wilber from Back Market Customer Care\n\nWe hope you\u2019re doing well. We\u2019re reaching out to let you know that the cable that your customer Lara ordered is missing.\n\nPlease ship a replacement accessory within 48 hours and send us the tracking number. \n\nIf you don\u2019t have the item in stock, or can\u2019t ship it in the next 48 hours, we\u2019ll give them a goodwill gesture of 10 \u20ac at your expense as stated in our Quality Charter. \n\nPlease note that the new accessory should be delivered to the customer within 5 business days and that the shipment should be tracked, as per the Quality Charter.\n\nWe\u2019ll keep an eye out for your response.\n\nBest regards,\nWilber Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are sorry to hear that the customer did not receive the charging cable. According to the quality charter we are able to give a commercial gesture of 10 euros for the missing cable so that the customer would be able to purchase one by himself. Do let me know if the customer accepts this gesture. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

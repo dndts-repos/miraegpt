@@ -1,0 +1,53 @@
+{
+    "sav_id": 4863480,
+    "last_modified_date": "2024-05-20T09:02:02.624991+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 has a problem:\r\n\r\nGood morning, I wanted to bring it to your attention that since May 15th, my order has been at the UPS Barcelona facilities.\r\nI'm trying to contact them to know the delivery date and the response is that 'the date will be shown once the package is ready'.\r\nAttached are photos of the tracking and UPS's response.\r\nYou don't have any fault if the transportation company delays or has a policy of only showing the status when the package is ready. But it's your responsibility to claim, not put in the message that UPS doesn't do well and don't contact you.\r\nI'm filing this complaint because my order was meant as a gift for Sunday 20th and should have arrived no later than May 16th.\r\n\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nIt\u00b4s Edison, from BackMarket customer care, I'm glad to have the chance to connect with you. How are you? I hope you are having a great day, despite this matter!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nEdison - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello!\n\nIt\u00b4s Edison, from BackMarket customer care, I'm glad to have the chance to connect with you. How are you? I hope you are having a great day, despite this matter!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\nThis order will be refunded in 24 hours \n\nPlease send a tracking link for a replacement within 24 hours or this order will be refunded\n\nYou can now blacklist the device.\n\nBest regards,\nEdison - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner regarding the situation. In the meantime, could you kindly request the customer to submit a HANDWRITTEN CND including IMEI: 358503111751625? Thank you for your coorporation.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nIt\u00b4s Edison, from BackMarket customer care, I'm glad to have the chance to connect with you. How are you? I hope you are having a great day, despite this matter!\n\nThe CND is correctly fill out, the IMEI number was inclued and the sign is to handwritten, we can not ask for handwritten all information.\n\nPlease continue with the investigation asap.\n\nRegards,\nEdison from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe CND provided is invalid because it has to be HANDWRITTEN. Our logistics partner requires us to submit a handwritten CND from the customer to begin the investigation. Kindly ask the customer to print out the CND and fill it handwritten. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nIt\u00b4s Edison, from BackMarket customer care, I'm glad to have the chance to connect with you. How are you? I hope you are having a great day, despite this matter!\n\nDocument attached, please continue with the investigation.\n\nThanks.\n\nRegards,\nEdison from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAn investigation is open for this case. Unfortunately, we do not have sufficient stock to provide a replacement for the customer.  We have processed a full refund for the customer instead. Sorry for the inconvenience caused.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

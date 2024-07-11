@@ -1,0 +1,38 @@
+{
+    "sav_id": 4897277,
+    "last_modified_date": "2024-06-01T17:46:10.326162+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 has the following problem:\nHello, could you please make sure it arrives on the 4th and not the 5th? \ud83d\ude4f I just broke my phone (bought from backmarket too) and I'm leaving for a trip on the 5th afternoon..\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe're getting ready to ship the parcel and want to ensure everything's perfect. Can we quickly re-confirm the customer's address?\n\nWe are committed to delivering your parcel by June 4th and have informed our logistics partner about this arrangement. However, please note that while we will make every effort to meet this deadline, we cannot guarantee the delivery date.\n\nThank you for your understanding and cooperation.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile, \n\nNom du destinataire : ROUX Anne-Sophie\nAdresse : 62 rue Greneta\nCode postal : 75002\nVille : Paris\nPays : France\nNum\u00e9ro de t\u00e9l\u00e9phone : 0767385350\nMail : annesophie.roux@sciencespo.fr\n\nThank you for your help!\nBest regards, Johanetto, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for providing the customer's address, your assistance is greatly appreciated. The order is currently being shipped under the tracking number GH202901095JB. Here is the tracking link:\nhttps://www.chronopost.fr/tracking-no-cms/suivi-page?listeNumerosLT=GH202901095JB&amp;langue=fr_FR\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer. If the customer requires no further assistance, kindly close the case. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

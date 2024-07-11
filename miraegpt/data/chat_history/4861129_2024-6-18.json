@@ -1,0 +1,43 @@
+{
+    "sav_id": 4861129,
+    "last_modified_date": "2024-05-18T13:32:39.638283+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro is experiencing the following problem:\nHello, I'm waiting for this phone as a birthday gift, but on the delivery day scheduled, the delivery guy didn't show up. I suspect that the delivery guy might have faked the delivery and stolen the object without delivering it to me. I'm really disappointed since it was my birthday gift. If you please help me, 600 euros isn't nothing.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID.\n\nPlease send us a Proof of Delivery (POD) with the customer's signature, a photo of the package being handed to the customer, or a screenshot showing the GPS location of the delivery, within 2 business days. \n\nPlease note: any other POD will not be considered relevant (ie: unsigned document or unclear photo).\n\nIf a POD is provided, a police report will be required from the customer to process the claim. \n\nThanks for your help.\n\nLooking forward to hearing from you,\nAlice, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our logistics partner regarding this issue. In the meantime, please assist the customer in providing a handwritten CND and pictures of the customer's ID.\n\nPlease also assist the customer in completing the CND from DPD. We have attached the template in this message.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD. Please send us the neccessary documents if the customer wishes to contest. \n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Here is the POD.",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer informs us that he has found the package.\n\nYours truly,\n\nAnja from BackMarket customer service.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_SIGNED_BY_SOMEONE_ELSE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

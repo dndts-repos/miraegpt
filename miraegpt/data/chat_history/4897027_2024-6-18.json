@@ -1,0 +1,27 @@
+{
+    "sav_id": 4897027,
+    "last_modified_date": "2024-06-01T15:42:05.664896+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy iPhone 12 product has the above problem: \nThe display of the sent phone shows many scratches, so I'd like to return it. \nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nKok Wen",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_ARRIVED_DAMAGED",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "ITEM_DAMAGED_ARRIVAL",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

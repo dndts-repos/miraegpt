@@ -1,0 +1,53 @@
+{
+    "sav_id": 4856574,
+    "last_modified_date": "2024-05-16T17:53:31.091579+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 has the above problem: It's been showing every day that the package will arrive today since 3 days. First, it says the package will arrive between 12-16 pm, and then when time passes, it says the package will arrive by the end of the day. However, nothing arrives and every day it claims to be delivered again. Even at UPS, I get no one contacted. Thank you for your help.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\n \nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nRicardo-Filipe - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have updated our logistics partner regarding this issue. In the meantime, please assist the customer in providing a handwritten CND and pictures of the customer's ID.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello!\n\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\nPlease send a tracking link for a replacement within 24 hours or this order will be refunded\n\nYou can now blacklist the device.\n\nBest regards,\nRicardo-Filipe - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly assist the customer in ensuring that the CND is handwritten and please include the imei in the CND.\n\nThe imei of the device is 354447420222254\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello!\n\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\nPlease send a tracking link for a replacement within 24 hours or this order will be refunded\n\nYou can now blacklist the device.\n\nBest regards,\nRicardo-Filipe - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have shared the documents with our logistics partner to open an investigation. We would proceed with necessary actions when we receive a reply from them. Please do NOT refund the customer in the mean time. \n\nThank you for your assistance.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded  the customer for deadline passed\n\n\nKind regards, Ricardo-Filipe from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

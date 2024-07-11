@@ -1,0 +1,33 @@
+{
+    "sav_id": 4918471,
+    "last_modified_date": "2024-06-10T09:11:12.962769+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has a problem:\r\n\r\nI want the phone number that appears in my shipping address to match the one on my profile on this page.\r\n\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nI hope you're fine today.  I'm Kevin, customer service.\n\nsince I see that in the tracking link there is still no order information or any type of tracking \n\nCan you update the customer's phone number? \nis the following:\n\n+34 658 748 868\n\nIf you have any questions or doubts, let me download here \n\n\nRegards,\nKevin from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of the change in phone number. Attached is the invoice with the updated phone number for the customer's reference.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the parcel has been delivered to the customer on 11th June. If the customer requires no further assistance, kindly close the case. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

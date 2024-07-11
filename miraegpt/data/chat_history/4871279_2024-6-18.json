@@ -1,0 +1,23 @@
+{
+    "sav_id": 4871279,
+    "last_modified_date": "2024-05-22T18:37:37.105800+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 is experiencing the following issue:\nHello,\nDespite updating and setting the phone to silent mode, the shutter sound persists.\nHave a good day :) \nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SHUTTER_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

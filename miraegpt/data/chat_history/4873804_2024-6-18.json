@@ -1,0 +1,33 @@
+{
+    "sav_id": 4873804,
+    "last_modified_date": "2024-05-23T15:46:25.897410+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 12 has a problem:\nThe product is not at the address I specified and around the address neither\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID, along with a proof of address.\n\nPlease send us a Proof of Delivery (POD) with the customer's signature, a photo of the package being handed to the customer, or a screenshot showing the GPS location of the delivery, within 2 business days. \n\nPlease note: any other POD will not be considered relevant (ie: unsigned document or unclear photo).\n\n- If a POD is provided, a police report will be required from the customer to process the claim. Only reports requiring the customer to go to the police station will be accepted.\n- If no POD is provided within 2 business days: only ID + Certificate of Non-receipt + proof of address, will be required.\n\nIf the package is lost and the customer has provided all the necessary paperwork, they can choose between a refund or a reshipment. In this case, we recommend that you block the device, if possible.\n\nIn case the order is not found, and the customer chooses a replacement, are you able to send one?\n\nIf not, we'll handle the refund within 5 business days\n\nThanks for your help.\n\nLooking forward to hearing from you,\nAndrea, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our about the issue, and will inform you of any updates. In the meantime, could you request the customer to send in a handwritten CND and  the their ID?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD. Kindly do not refund the customer, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

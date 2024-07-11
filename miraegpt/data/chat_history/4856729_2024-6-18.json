@@ -1,0 +1,23 @@
+{
+    "sav_id": 4856729,
+    "last_modified_date": "2024-05-16T18:34:03.709841+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has a problem:\r\nHello, I received the phone today and the rear camera has a grainy texture and the front also, I would like you to replace it with another one.\r\nThanks\r\nThanks,\r\n\r\nThe customer confirms that the device has not been opened or repaired by a third party, exposed to water, or suffered damage from impact or fall.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nHope you are having a lovely day! This is Angie again.\n\nWe would like to inform you that, in accordance with our Quality Charter, we have partially refunded the customer for grade discrepancy. \n\nThanks for understanding.\nAngie, from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BODY_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

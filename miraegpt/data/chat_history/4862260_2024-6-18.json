@@ -1,0 +1,42 @@
+{
+    "sav_id": 4862260,
+    "last_modified_date": "2024-05-19T10:14:43.114908+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 Pro is experiencing the following issue:\r\nMy phone does not detect my SIM card, it shows a SIM card unavailable screen, but my SIM card is detected on my other phones.\r\nThank you for your help,\r\n\r\nOnce the package is received, the seller has 3 working days (5 if it's a laptop or household appliance) to replace or repair your product. Or, within 2 working days, they can proceed with your refund (if you're eligible).\r\nA return is considered complete when the customer confirms that:\r\n\u2714 The product has not been repaired by someone else, and it has not suffered any damage due to a fall or exposure to water.\r\n\u2714 They have confirmed that all personal data has been erased.\r\n\u2714 They have confirmed having the return label.\r\n\u2714 They understand they must include accessories and proof of purchase in their package.\r\n\u2714 They have 14 days to use the return label.\r\nReminder: Once received, the seller has 3 working days (5 if it's a laptop or household appliance) to replace or repair your product. Or, within 2 working days, they can proceed with your refund (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair, the 29/05/2024. \nThe delay to repair or exchange the product is 3 days for technical issue. \nWithout answer with a valid tracking link before the 03/06/2024 we will refund the customer.\n\nThank you for understanding,\n\nKoami-Abraham from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe phone seems to be locked, could you kindly ask the customer for the code? Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI've checked, and the iCloud is off. \n\nAccording to the new rules of our policy, the customer is no longer able to provide any unlock code due to GDPR (General Data Protection Regulation) reasons.\nTherefore, we kindly ask you to click on this link https://support.apple.com/fr-fr/HT201263 and follow the tutorial initiated by Apple to reset the device.\n\nPlease remember that you have a deadline since you received the parcel.\n\nRegards,\n\nKoami-Abraham from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SIM_CARD_NOT_RECOGNIZED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SIM_CARD_TRAY_DAMAGED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4881268,
+    "last_modified_date": "2024-05-27T05:31:52.192733+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Dear Backcare,\n\nThe customer's parcel has been at a pickup point since 17/05. Please ask the customer to pick up their parcel or it will be returned to us. Thank you.\n\nAddress: \nCOPY COSMOS , 32 BESSUNGER STR. , DARMSTADT , 64285 , DE\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer cancelled the purchase and asked for a refund as soon as they received the order back.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner about the customer's request. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

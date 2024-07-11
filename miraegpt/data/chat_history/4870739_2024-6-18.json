@@ -1,0 +1,23 @@
+{
+    "sav_id": 4870739,
+    "last_modified_date": "2024-05-22T16:12:26.371625+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy Galaxy S21 5G has the above problem:\n\nAlthough the SIM card is inserted, it is not recognized. I can't make calls and can't use mobile internet. I've tried restarting the device several times and removing and reinserting the SIM card. Initially, the card was briefly recognized, but now it's no longer recognized.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SIM_CARD_NOT_RECOGNIZED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

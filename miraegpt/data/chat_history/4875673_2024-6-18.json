@@ -1,0 +1,43 @@
+{
+    "sav_id": 4875673,
+    "last_modified_date": "2024-05-24T10:20:36.922970+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 mini is experiencing the following issue:\r\nThe battery state of my phone received is 84%.\r\nThank you for your help,\r\n\r\nOnce the package is received, the seller has 3 business days (5 if it's a laptop or household appliance) to replace or repair your product. Or, they have 2 business days to process your refund (if you are eligible).\r\nA return is considered complete when the customer has fulfilled all the following conditions:\r\n\u2714 Confirms that the product has not been repaired by a third party and has not suffered any damage due to a fall or exposure to water\r\n\u2714 Confirms that personal data deletion has been done\r\n\u2714 Has confirmed having the return label.\r\n\u2714 Understands they must include accessories as well as a proof of purchase in their package\r\n\u2714 Understands they have 14 days to use the return label.\r\nReminder: Once received, the seller has 3 business days (5 if it's a laptop or household appliance) to replace or repair your product. Or, they have 2 business days to process your refund (if you are eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer wants a repair of his device but does not want to remain without a phone.\nHe therefore offers a discount to allow him to repair his device himself.\n\nSo, can you give the customer a discount to repair their device?\n\nKind regards,\n\nMarlon from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nPlease relay the following message to the customer.\n\nWe are sorry for this inconvenience caused. Would you accept a commercial gesture of 50 euros to seek a third-party to repair this issue? this commercial gesture could be used to offset the cost. It also avoids the hassle of deleting all personal data just for a battery repair when returning the phone.\n\nA battery is easy to replace and most shops would be able to do it so you can protect the data within your device instead of a return.\n\nThank you\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Good morning,\n\nThe customer informs us that the price of the repair is the sum of  \n70\u20ac, can you offer this to the customer?\n \nAlso, can you confirm me if the warranty of the device is still vaide after the reperation that the customer will do.\n\nThank you for your help.\n\nYours sincerely, \n\nEstelle\nBack Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWould the customer be willing to meet in the middle? We are willing to offer a commercial gesture of 60 euros.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nThe customer accepts the \u20ac60. Please arrange for a partial refund.\n\nBest regards,\n\nEstelle\nBack Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

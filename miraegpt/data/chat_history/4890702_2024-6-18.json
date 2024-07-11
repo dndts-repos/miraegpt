@@ -1,0 +1,32 @@
+{
+    "sav_id": 4890702,
+    "last_modified_date": "2024-05-30T10:34:12.898740+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 product has the above problem:\n\nBattery: The device was purchased in a state of \"Excellent\". Therefore, the battery capacity at full 100% was expected. Within just 9 months, this has decreased to 80%. This seems very unreasonable.\n\nCamera: The TrueDepth camera is not functioning, so Face ID is not usable. All common",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nYou have received the product for repair on the 07/06/2024. \n\nThe delay to repair or exchange the product is 3 days for technical issue. \n\nWithout an answer with a valid tracking link before the end of the day, we will refund the customer.\n\nThank you for understanding,\nAntonio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have received and processed your phone. Unfortunately, after checking with our repair team, they were unable to repair the device. Moreover, we also do not have enough phones in stock available for an exchange. Instead we have decided to refund your phone in full. Thank you for your understanding. \n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "CAMERA_NOT_WORKING",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

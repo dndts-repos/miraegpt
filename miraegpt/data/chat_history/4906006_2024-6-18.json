@@ -1,0 +1,43 @@
+{
+    "sav_id": 4906006,
+    "last_modified_date": "2024-06-05T08:33:45.709944+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy iPhone 13 has the above problem: \r\nThere's a serious issue with delivery. The package should have been delivered last Thursday by UPS, was then shown as in transit and didn't appear. A day later someone from UPS stopped by to inquire about the whereabouts of the package but couldn't provide any further information. If I understand correctly, there was an issue on the UPS side with a subcontractor. Now I've checked the tracking today and it says that as the sender, you can file a claim for replacement. https://www.ups.com/track?loc=de_de&requester=QUIC&tracknum=1ZBF1560D901151036/trackdetails. It seems like the package has gone missing. I'd like to know what my next steps are. And if the iPhone isn't delivered within the next few days, I'd appreciate a refund. Thank you so much! \r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello!\n\n\nThe tracking status of this order has not changed in 4 business days and is now considered lost as per Back Market delivery policy. We have requested the Back Market certificate of non-receipt and picture of the customers ID to arrange a refund or a replacement.\n\nOnce all the paperwork has been gathered we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 24 hours from reception of the documents\n\nIf at any point the delivery begins to move again a refund will not be issued and the order is considered to be late.\n\nBest regards,\nTania - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\n You can use the attached documents to investigate the matter with your delivery company\n\n \nThis order will be refunded in 24 hours \n\nYou can now blacklist the device.\n\nBest regards,\nTania - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease ask the customer to prepare a CND where all the details are handwritten in the case where the current CND is rejected. In the meantime please do not refund the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello!\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\nYou can use the attached documents to investigate the matter with your delivery company\n\n\nThis order will be refunded in 24 hours\n\nYou can now blacklist the device.\n\nBest regards,\nTania - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

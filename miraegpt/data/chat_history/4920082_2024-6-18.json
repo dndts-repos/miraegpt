@@ -1,0 +1,28 @@
+{
+    "sav_id": 4920082,
+    "last_modified_date": "2024-06-10T16:09:58.335455+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 12 is experiencing the following issue:\n\nHello, \nI was charged an additional \u20ac4.99 on top of my bill.\n\nFor accounting purposes, I would need an invoice with this surplus and therefore a maximum amount of \u20ac350.23 as soon as possible.\n\nThank you very much\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer has requested the invoice for this order.\n\nCan you please provide us with the invoice within the next 48 hours so that we can send it to the customer?\n\nAs a reminder, if the invoice is not sent within 48 working hours of this request, we will have to make a goodwill gesture of 20% of the amount of the order (including VAT but excluding delivery costs) up to a maximum of \u20ac50.\n\nWe look forward to receiving your reply. \n\nThank you for your partnership and support.\n\nYours sincerely\nLucia, from the BackCare team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the invoice.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

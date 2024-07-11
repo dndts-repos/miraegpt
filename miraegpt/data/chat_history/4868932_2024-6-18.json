@@ -1,0 +1,42 @@
+{
+    "sav_id": 4868932,
+    "last_modified_date": "2024-05-22T00:15:39.133730+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 13 has a problem: The order has not been shipped yet. Thank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI am Valentina from Back Market. \n\nWe wanted to let you know Alberto Carlos del Campo hasn\u2019t received their order.\n\nWe\u2019ve checked the tracking link, but there isn\u2019t an update.\n\nCan you let us know if the order was shipped, and under which tracking number?\nIn case the order was not shipped yet, please ship it and provide a valid tracking number, or refund the order under 1 business day.\n\nOnce we\u2019ve got all the paperwork, we\u2019ll let you know within one business day if the customer prefers a refund or a reshipment.\n\nIf the delivery starts moving again, a refund won\u2019t be issued, and the order will be considered late.\n\nLet us know if you have any questions or concerns \u2014 we\u2019ll keep an eye out for your reply.\n\nThanks for your help,\n\nRegards,\nValentina, Back Market Customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe order is currently being shipped under the tracking number 1ZBF1560D901114540. Here is the tracking link:\nhttps://www.ups.com/track?loc=es_es&amp;requester=QUIC&amp;tracknum=1ZBF1560D901114540/trackdetails\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has a problem:\r\n\r\nThe touch doesn't work. The screen turns on but doesn't respond when touched.\r\n\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

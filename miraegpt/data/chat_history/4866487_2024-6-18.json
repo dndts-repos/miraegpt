@@ -1,0 +1,23 @@
+{
+    "sav_id": 4866487,
+    "last_modified_date": "2024-05-21T11:38:58.618001+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 Pro has a problem:\n\nGood morning,\n\nI ordered the Iphone 13 Pro in silver with an EXCELLENT condition and it arrived with a battery life percentage lower than normal (specifically 88%) due to the conditions in which I requested the device. I would like to proceed with changing this mobile phone for one that is equal but has a battery life consistent with the state in which I ordered it, since I have references from other people who received their mobile phones at 99% having bought them as Excellent.\n\nI hope this request can be made effective.\n\nThank you in advance! And also thank you for the service provided so far, it has been impeccable.\n\nWishing you a happy day,\nN\u00faria \n\nGratitude,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

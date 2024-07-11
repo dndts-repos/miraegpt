@@ -1,0 +1,32 @@
+{
+    "sav_id": 4853916,
+    "last_modified_date": "2024-05-15T20:39:57.511387+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy iPhone 13 has a problem:\nThe wrong iPhone 13 was requested and I received the 13 mini. I request a model change.\n\nThank you,\n\nWhen the seller receives the package, they have 3 business days (5 business days for laptops and household appliances) to repair or replace the product, or 2 business days to make a refund if it's necessary.\nThe customer meets the following requirements for the return process:\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or drop\n\u2714 Confirms they have erased their personal data\n\u2714 Has confirmed they have the return label\n\u2714 Understands that accessories and purchase proof must be included in the return package\n\u2714 Understands they have 14 days to use the return label.\n\nRemember: Once delivered, the seller has 3 business days (5 business days for laptops and household appliances) to repair or replace the item and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 13 has a problem:\r\nI received an iPhone 13 mini when I ordered the normal one and asked for a change and returned it to the origin 15 days ago, and I'm still waiting for a response or refund, but at least they should say something.\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, we have insufficient stock for exchange. Instead, we have processed the full refund. Thank you for your understanding.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "BAD_PRODUCT_MODEL_BRAND",
+            "tag": "BAD_PRODUCT"
+        }
+    ]
+}

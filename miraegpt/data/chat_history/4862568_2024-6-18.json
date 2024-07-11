@@ -1,0 +1,37 @@
+{
+    "sav_id": 4862568,
+    "last_modified_date": "2024-05-19T13:59:30.373790+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product Galaxy S21 5G has the above problem:\n\nI just put the device into operation, unfortunately it has a screen lock, so I can't use it.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe device has just been put into operation, unfortunately it has a screen lock, so the customer can't use it\n\nRegards,\nAna from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are very sorry to hear that the customer is encountering such a problem with the device. \n\nPlease advise customer to use this link: https://www.sammobile.com/samsung/galaxy-s21/hard-reset/\n\nThis link teaches the customer to force hard reset and enter recovery mode to wipe all contents of the device without entering the unknown PIN code. By doing this, the hard reset would restore the device to its factory default configuration with no pin code. We hope that it can effectively resolve the issue.\n\nHowever, shall this issue persist, please update us accordingly.\n\nRegards,\nXt",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund. Thank you for your understanding and cooperation.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DOES_NOT_TURN_ON",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "UNEXPECTED_SHUTDOWN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

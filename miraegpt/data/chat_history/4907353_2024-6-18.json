@@ -1,0 +1,32 @@
+{
+    "sav_id": 4907353,
+    "last_modified_date": "2024-06-05T14:50:16.145443+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My iPhone 13 has the above problem: Unfortunately, my new phone hasn't arrived at home. Yesterday on June 4th, I found a note in my mailbox saying I can pick up my phone today in Gr\u00fcnsfeld. But that store didn't show up. So I went to Gr\u00fcnsfeld for nothing today. Today, an email arrived saying the phone would arrive at my home today. But unfortunately, it's not here and there was no note in the mailbox.\r\nAttached is a photo of yesterday's note that was in the mailbox.\r\nBest regards Daniela Bohlig \r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello, \nMy product iPhone 13 has the above problem: \nMy phone didn't make it home \nThank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nCustomer found parcel.\n\nWe are closing the case.\n\nThank you\n\nRegards,\nBatuhan from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

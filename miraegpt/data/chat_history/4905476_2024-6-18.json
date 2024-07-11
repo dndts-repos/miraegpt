@@ -1,0 +1,23 @@
+{
+    "sav_id": 4905476,
+    "last_modified_date": "2024-06-04T21:41:58.177050+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello Backmarket,\n\nWe received the iPhone 13 last week very quickly and well packaged. We immediately unpacked it, but haven't used it yet.\nThen we turned on the iPhone yesterday (June 2) and upon closer inspection discovered that there was already a screen protector on the front. To check the display condition (as promised), I removed the protective film. \nUnfortunately, 3 small scratches (about 2mm) became visible on the (turned off) display.\nNow it could be assumed that the screen protector was intentionally added to hide this, since with the screen protector there was nothing noticeable, but only the flawless surface of the new screen protector. However, that would be an assumption...\n\nWe've had the device in use for 3 days and everything is technically fine otherwise.\nTherefore, we would like to avoid the return process (device wipe, return shipping, refund, buy new device, deliver new device, set up new device...) and ask for a discount or special price for the iPhone 13 with its current condition \"good\" instead of the promised condition \"excellent\".\n\nAccording to Backmarket, \"excellent\": Screen like new. No scratches \nAccording to Backmarket, \"good\": Screen with light scratches that are hardly visible when the screen is on.\nSo we have an iPhone with a condition of \"good\" instead of what was ordered with a condition of \"excellent\" received.\n\nPlease review and respond.\nBest regards,\nDaniel Rathke\n\nP.S.: Since we've re-applied the protective film to the device, I can't take pictures of the scratches. If necessary, I'll remove the film and take proof photos. Then the new protective film would be damaged, which I'd like to avoid. Without reason, I wouldn't write such a long text... ;-)\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 80.00 \u20ac to the customer for grade.\n\nKind regards, \nAngelica from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "SCREEN_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

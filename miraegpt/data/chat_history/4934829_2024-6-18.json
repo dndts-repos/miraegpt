@@ -1,0 +1,28 @@
+{
+    "sav_id": 4934829,
+    "last_modified_date": "2024-06-15T15:51:44.447343+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, my iPhone 12 has the above problem: The phone was damaged according to UPS during delivery and successfully returned to the sender on June 7th, 24. I didn't receive the phone. Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,  \n\nThe customer's package is being sent back to you.  \n\nDid you receive it?\n\nhttps://www.ups.com/track?loc=de_DE&amp;tracknum=1ZBF15606889238048&amp;requester=ST/trackdetails\n\nThank you, \nAysah, from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe have refunded the  customer. We are sorry to hear that the phone was damaged during delivery and apoplogise for the inconvenience caused. Thank you for your understanding. \n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

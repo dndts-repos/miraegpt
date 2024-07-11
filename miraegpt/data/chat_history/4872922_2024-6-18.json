@@ -1,0 +1,102 @@
+{
+    "sav_id": 4872922,
+    "last_modified_date": "2024-05-23T11:39:06.438558+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe parcel 40614875 couldn't be delivered as the box letter is not accessible.\n\nPlease ask your customer to reschedule the delivery with the carrier.\n\nThank you\n\n\nMandi Xhaferaj",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\nMy iPhone 13 is having a problem as follows:\nI bought an iPhone because I thought I had lost my previous one. But eventually, I found it in the meantime, so I have the new iPhone that I haven't opened from its original box or packaging, and I'm returning it directly without touching anything.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello Pauline,\nYou will find attached your prepaid return label. Chronopost will handle your return. Choose the location that best suits you to ship your package. You can find a list of drop-off locations here: https://www.pickup.fr/trouver-un-point/. \nReturn preparation:\n1. View instructions for returning an item <https://help.backmarket.com/hc/en-us/articles/360014698640-Returns-and-refunds-instructions>\n2. Add all accessories provided with your item\n3. Remove any protection, case, and screen protector\n4. Wrap your item and its accessories according to the instructions below.\nPackaging of the item:\nThe box must be sturdy and rigid. Place your item in a stable position so it doesn't move during transport.\nAttach the return label on top of the box. You can also place an additional label inside in case the outer label is damaged.\nTake photos of the inside and outside of the package before sending it. This will protect you in case of any issues during transportation.\nYour return is ready to ship! We'll notify you when it arrives.\nBest regards,\nBack Market Customer Service, Back Market Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nPlease allow me to contact you.\nCustomer reports withdrawal and return for refund.\n\nRegards,\nN-Da-Jean-Elyotte from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will await for the parcel. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you are well.\n\nIt's well noted.\n\nI look forward to hearing from you,\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe await the reception of the parcel, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you are well\n\nDuly noted.\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of your message.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you are well.\n\nThe tracking link shows us that you have received the parcel.\n\nThank you for making the necessary arrangements in good time.\n\nWe are waiting for your return,\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of the deadline for a refund.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you are well. \n\nCan you tell us more?\n\nWe look forward to hearing from you,\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will proceed with the necessary actions soon. In the meantime, please do NOT refund the customer.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the refund.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nI hope you're well. \n\nThank you for your responsiveness and efficiency.\n\nHave a nice day.\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThank you for your message. Kindly close the case if no further assistance is required. \n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile\n\nOkay\n\nDesiree, BackMarket Customer Service",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BOUGHT_ITEM_BY_MISTAKE",
+            "tag": "CHANGE_MIND"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "sav_id": 4870815,
+    "last_modified_date": "2024-05-22T16:31:34.058077+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 is having the following problem:\r\nHello, \r\nI had asked for delivery of a Chronopost package in 24/48 hours to my home address: 47 Avenue des Eyquems. On the day of delivery, I was told that the courier had come but there was no one at home and that the phone had been delivered to a relay point near my place. When I went to the relay point, people told me that the package had already been delivered and it also appears on the Chronopost link.\r\nI don't understand why my package ended up in a relay point when I paid for an option to have it delivered to my home. Plus, the package is indicated as delivered but I didn't receive it. I hope you can find a solution.\r\nThank you,\r\nLou Neveu\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello ecomobile, \n\nThe customer has not received the package despite the mention delivered and the package is not at the indicated collection point.\n\nCustomer wants a new product returned.\n\nSincerely,\nRaymond from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nKindly assist the customer in preparing a handwritten CND with the IMEI of the device and their ID. We will check with our logistics partner. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the POD. If the customer wishes to contest, please send us the necessary documents. \n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_NOT_AT_COLLECTION_POINT",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4891211,
+    "last_modified_date": "2024-05-30T13:05:41.486598+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 12 Pro has the above problem:\nI made a mistake when I purchased this phone and gave the wrong invoice name. Is it possible to change the name afterwards and issue a new invoice in the name of Nicolas Bruns? The address remains the same.\nThank you very much\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello, \n\ncould you please change the invoice again?\n\nNicolas Bruns\nMatterhornstra\u00dfe 57\n14129 Berlin\nDeutschland\n\nThank you very much.\n\nWith best regards,\nKubra, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the invoice, thank you.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_OTHER_ISSUE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

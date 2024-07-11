@@ -1,0 +1,48 @@
+{
+    "sav_id": 4885589,
+    "last_modified_date": "2024-05-28T16:01:32.293002+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product is iPhone 12 mini and it has the above problem: I just received a message that my package was handed over in Dexheim and signed by M\u00fcller. This morning, I got another message saying it couldn't be delivered. My name is Schumacher and I live in Udenheim. Thank you very much for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there,\n\nThe recipient of this order claims they haven't received it, even though the tracking shows up as delivered. \n\nWe have asked the customer to look for their package in case it was delivered to a neighbor or family member. If they can't find the package, we asked them to provide the Certificate of Non-receipt and their ID.\n\nPlease send us a Proof of Delivery (POD) with the customer's signature, or a photo of the package being handed to the customer, within 48 hours. \n\nPlease note: a POD without a signature will not be considered relevant.\n\n- If POD is provided, a police report will be required from the customer to process the claim.\n- If no POD is provided within 2 business days: only ID + Certificate of Non-receipt will be required.\n\nIf the package is lost and the customer has provided all the necessary paperwork they can choose between a refund or a reshipment. In this case, we recommend that you block the device, if possible.\n\nIn case the order is not found and the customer chooses a replacement, are you able to send one?\n\nIf not, we'll handle the refund.\n\nThanks for your help.\n\nLooking forward to hearing from you,\nFabio, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello ecomobile,\n\nThe customer has already sent us the necessary documents, please open an enquiry and send a new device within the next 24 hours.\n\nThank you for understanding,\nFabio from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nI have notified our logistics partner regarding this issue. We will update you once we receive any information regarding this matter. Thank you for your understanding and patience.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe POD is attached.\n\nRegards,\nKJ",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nOur logistics partner sent us the POD. Kindly close this case if the customer received the device.\n\nThank you.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nThe customer has found their parcel.\n\nPlease close the case.\n\nThanks for your help in keeping our shared customers happy!\nFabio Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_SIGNED_BY_SOMEONE_ELSE",
+            "tag": "DELIVERY"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "sav_id": 4902649,
+    "last_modified_date": "2024-06-04T06:39:36.812833+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe package of the order 40635871 returned back to our warehouse.\n\nWhat should we do with this parcel?\n\nThank you.\nVal\u00e9rie DECAMPS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nCustomer would like a reshipment to the following address:\n\nMonique Rath\nHermann Hesse Stra\u00dfe 1\n13156 Berlin\n\nKind Regards,\nDerya from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe have updated our logistics partner regarding the reshipment.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nHere is the TN 1ZBF1560D901188024\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

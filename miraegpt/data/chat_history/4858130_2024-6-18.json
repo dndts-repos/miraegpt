@@ -1,0 +1,106 @@
+{
+    "sav_id": 4858130,
+    "last_modified_date": "2024-05-17T10:37:27.175201+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 is having an issue.\nDelivery problem\nReceived nothing so far, although we were supposed to receive it on May 16th.\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer contacts us because DPD informs him that delivery is impossible, it is also marked on the tracking of the order. So, could you reach out to them to arrange for customer delivery please ?\n\nRegards,\nMarry from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have inquired our logistics partner about the situation. We will update you accordingly. In the meantime, please do not refund the customer.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nAny news, please ?\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hello,\nMy iPhone 12 is having a problem as follows:\nNo delivery of my package yet\nThat's a scandal\nIt was supposed to arrive on the 16th and it's now the 22nd... That's a shame\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nAccording to the tracking link, the delivery instructions has been taken into account on 22/05. We are still checking with our logistics partner regarding the delay in delivery. We would update you when we receive a reply from them.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nMy iPhone 12 is experiencing the following issue:\n\nHello,\nWe are May 24th and still no delivery\nWill I receive it in December...??\nI'm wondering.\nThank you for taking care of this otherwise, I'll request a refund\nI am very unhappy.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer should have received his package between May 15 and 16, but still nothing until today, so there is a delay of eight days in total.\n\nTherefore, he asks for a commercial gesture of a shell protection for this inconvenience caused.\n\nRegards,\n\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe would like to offer a small commercial gesture to the customer for the inconvenience cause. May we ask how much the customer is willing to accept?\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nHe wants to receive a protective case for his iPhone 12 64 GB.\n\nRegards,\n\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, ecomobile is unable to provide a protective case as a commercial gesture for the customer. We apologise for the inconvenience caused.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nSo how much can you offer because the customer placed his order on 09/05 and received it only on 27/05, I hope it deserves compensation please.\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nCould you kindly ask the customer how much he wishes to be compensated? Then I can contact my manager and see whether he is agreeable to it. Thank you.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer wishes a commercial gesture at an amount of \u20ac20.\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nUnfortunately, we are only able to provide the customer with a commercial gesture of 10 euros. Please check if the customer is agreeable to this.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer agrees, thank you for making the partial refund of \u20ac10.\n\nRegards,\nMarry from the Back Care Team.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have processed the commercial gesture, thank you for your assistance.\n\nRegards,\nYR",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

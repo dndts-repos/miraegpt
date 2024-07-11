@@ -1,0 +1,31 @@
+{
+    "sav_id": 4878877,
+    "last_modified_date": "2024-05-25T15:05:57.718637+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 12 mini is having the following issue:\nIt's impossible to connect to the Orange network. The phone detects the SIM card but never captures it. We've tried with different SIM cards, nothing works. We've even reset the network settings, still nothing.\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards,\nTB",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CALLING_NOT_WORKING",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "MOBILE_DATA_NOT_AVAILABLE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "NETWORK_NOT_CONNECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

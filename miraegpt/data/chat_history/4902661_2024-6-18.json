@@ -1,0 +1,28 @@
+{
+    "sav_id": 4902661,
+    "last_modified_date": "2024-06-04T07:10:57.619385+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has the following problem:\nIn the package, there was only the smartphone and the cable. The charger is missing.\nThe ad said that the charger was included.\nCould you send me one?\nThank you\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nI hope this message finds you well.\n\nUpon reviewing the attached document, it has come to our attention that the customer should have received the charger; however, the wall plug was missing.\n\nWould it be possible to provide this to them?\n\nKind regards,\n\nKevin, Back Market .",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,  \n\nPlease relay the following message to the customer. Please remember to close the case after relaying the message as this issue is not an issue by us. \n\nDear Aurnaud,\n\nThank you for reaching out to Backcare regarding your recent purchase. Your feedback is invaluable to us, and we want to address your concerns promptly.\n\nUpon reviewing your case, we wish to inform you that, effective January 10th, 2022, BackMarket has made changes regarding the inclusion of chargers with purchases. This decision aligns with industry experts' recommendations aimed at reducing carbon emissions and preserving vital resources like plastic, copper, and zinc. By omitting chargers, we contribute to a more eco-friendly approach to product delivery.\n\nIt's important to note that our refurbished phones do not come with earphones or wall plugs, as clearly stated on the product page's technical specifications. This practice is part of our commitment to reducing electronic waste and lowering selling prices, as many customers already own these accessories from previous devices.\n\nFor more detailed information, we encourage you to read our dedicated article on this matter: https://help.backmarket.com/hc/fr-fr/articles/360033669473-Accessoires-sont-ils-inclus-sont- vos-d-origine-\n\nWe understand this adjustment may inconvenience you, and we appreciate your understanding. Please know that our team is available to assist you with any further inquiries or support you may need.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_MISSING_PART",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

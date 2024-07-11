@@ -1,0 +1,13 @@
+{
+    "sav_id": 4906352,
+    "last_modified_date": "2024-06-05T10:41:02.520199+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nThe parcel 40961761 couldn't be delivered as the box letter is not accessible.\n\nPlease ask your customer to reschedule the delivery with the carrier.\n\nThank you\n\nMandi Xhaferaj",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": []
+}

@@ -1,0 +1,33 @@
+{
+    "sav_id": 4858887,
+    "last_modified_date": "2024-05-17T14:29:41.807317+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\n\nMy product iPhone 12 mini has the above problem:\n\nDear Back-Market Team,\nAs my ordered iPhone 12 mini has a damaged back side, I would like to return this against an exchange (if possible) or reimbursement. I assure you that I am not responsible for the damage, the device must have been damaged during shipping. Except for a scratch on the back, the device is in excellent condition. Since I received the device less than 30 days ago, I would like to exercise my right of return.\n\nKind regards,\nJana Heiland\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer informs us that the iPhone 12 Mini ordered has a damaged back. He would like to return it in return for a replacement (possibly a refund if a replacement is not possible). He assures you that he is not responsible for the damage. The customer explains that the device must have been damaged during delivery. Apart from a crack on the back, the device is in perfect condition. \nAs the customer received the device less than 30 days ago, he would like to make use of my right of return.\nShould the customer return the device to you?\n\nRegards,\nEbru from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nPlease ask him to provide pictures of the damaged phone in the shipping box and with the shipping label shown as well.\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAny updates?\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BACK_COVER_EXPECTATIONS_NOT_MET",
+            "tag": "ESTHETICAL"
+        }
+    ]
+}

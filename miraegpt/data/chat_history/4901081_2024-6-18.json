@@ -1,0 +1,95 @@
+{
+    "sav_id": 4901081,
+    "last_modified_date": "2024-06-09T15:09:30.463527+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 Pro has a problem:\r\nThe UPS company, which is technically supposed to deliver my phone to me, won't let me track my order. They tell me it has to be an older order than 120 days and I ordered it yesterday. What's the issue?\r\nThanks,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has a problem:\nI was supposed to have arrived today, I spent the whole day waiting and no one showed up (I called UPS and they told me it was on its way) apparently they took it for a ride because nothing arrived at my place and they asked me to organize a re-shipment.\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has an issue:\nhow do I locate my package, it says it was delivered but nothing arrived to me\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,\nMy iPhone 13 Pro has a problem:\nThe package arrived broken from the back, I'm not sure if it was sent that way or got damaged during transportation.\n\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hi there:\n\nThe customer claims that their device was delivered damaged. We have requested pictures of the outside of the package (with damages visible), a picture of the package label with the tracking number visible, a picture of the package showing the item inside, pictures of the packaging of the item received, and pictures of the damaged item (with damages visible) report.\n\n Once we have all of the paperwork we\u2019ll let you know if the customer prefers a refund or a reshipment. The deadline is 1 business day after we've received the documents.\n\nAll the best,\nMaria, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe will await for the arrival of parcel and open an investigation. Thank you.\n\nRegards,\nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello, Ecomobile:\n\nThe parcel has not been successfully delivered yet and all the requirements for a refund as described by our lost parcel policy have been fulfilled. Any and all relevant paperwork has been attached to this message.\n\n You can use the attached documents to investigate the matter with your delivery company\n\n This order will be refunded in 24 hours \n\nYou can now blacklist the device.\n\nBest regards,\nMaria - Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe are still waiting for our logistics partner to confirm that the parcel is indeed lost. In the meantime, please do NOT refund the customer.\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello, Ecomobile:\n\nAfter verification, it would appear that there was an anomaly in the return of customer's package. We must open an investigation with the carrier.\n\nIn order to carry out this procedure, I invite you to send me the signed certificate of non-receipt of the package (see attachment) as soon as possible.\nPlease note that after 30 days from the shipping date, the case will be outdated and we won't be able to compensate you.\n\nDo not hesitate to contact us should you have any further questions.\n\nI wish you a pleasant day,\nMaria from the Back Market team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear backcare,\n\nWe have contacted our logistics partner about this issue. Please open a backship investigation and we will provide you with the CND soon.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi, Ecomobile:\n\nPlease note that the deadline to reimburse the customer for this item has passed. \n\nOn the customer's side, all necessary documents have been provided and there have been no new updates to the tracking information.\n\nPlease note that in order to open a support case for you with the BackShip team, we still need you to share the following documents with us:\n\nCertificate of Non-Receipt.\n\nOnce you have the documents ready, please send them as attachments here, and I will transfer them to the BackShip team. This is necessary for the shipping provider's investigation to be processed and for you to be compensated.\n\nPlease note that after 30 days from the date of submission, the case will be obsolete and we will not be able to compensate you.\n\nPlease note that this claim will be automatically closed after 7 days if you do not respond.\n\nPlease do not hesitate to contact us if you have any questions.\n\nMaria, Back Market Customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have contacted our logistics partner and are awaiting their response. Thank you for your understanding.\n\nRegards, \nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi, Ecomobile:\n\nJust a friendly reminder that the customer is waiting for their &gt;&gt;refund&lt;&lt;.\nWe have listed some issues with their corresponding resolutions here in case these are preventing you from carrying out the refund. Please use the \"Report a Problem\" button on the bottom of the screen to declare an issue with the customer's return and stop a refund from being made on your behalf.\n\n1. In case of a delivery issue: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-transport-issue-lost-stolen-damaged-parcel\n\n2. In case of a user account (e.g. iCloud, Google) still connected: \niCloud: \nhttps://backmarketportal.force.com/ssc/s/article/What-to-do-with-a-device-locked-to-iCloud\n\nGoogle: https://backmarketportal.force.com/ssc/s/article/How-to-manage-a-product-blocked-with-an-account-Android-Google\n\n3. In case of a warranty exclusion: https://backmarketportal.force.com/ssc/s/article/Declare-and-manage-warranty-exclusion\n\nThanks for your help in keeping our shared customers happy!\nMaria Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare, \n\nWe are awaiting our logistics's partner's response and will get back to you soon when they have provided the CND. Thank you for your understanding. \n\nRegards,\nYL",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_MISSING_TRACKING_LINK",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "ITEM_DAMAGED_ARRIVAL",
+            "tag": "ESTHETICAL"
+        },
+        {
+            "customerIssue": "DELIVERY_MISSING_TRACKING_LINK",
+            "tag": "DELIVERY"
+        },
+        {
+            "customerIssue": "DELIVERY_LATE_DELIVERY",
+            "tag": "DELIVERY"
+        }
+    ]
+}

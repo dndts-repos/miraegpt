@@ -1,0 +1,37 @@
+{
+    "sav_id": 4873619,
+    "last_modified_date": "2024-05-23T14:54:54.348748+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\nMy iPhone 13 has a problem:\nI need to add the VAT number: B65966673\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello, my iPhone 13 has a problem: The company ID is missing : B65966673 if you could please add it. Thank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear, Ecomobile:\n\nA pleasure to communicate with you.\n\nThe client has indicated to us that he needs the CIF number of his company on the invoice.\n\nI share the information: B65966673\n\ncould you issue another invoice taking this information into account?\n\nI will look forward for your answer.\n\nRegards,\nJerry from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttatched is the invoice including the CIF number of the customer's company.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_UNAVAILABLE",
+            "tag": "INVOICE"
+        },
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

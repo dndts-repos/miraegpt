@@ -1,0 +1,28 @@
+{
+    "sav_id": 4883179,
+    "last_modified_date": "2024-05-27T18:30:38.818421+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \nMy product iPhone 13 Pro has the above problem:\n\nGood day,\nUnfortunately, my iPhone 13 Pro was delivered without a charging cable.\nWould you send it to me or give me something back?\n\nBest regards\nNino Demetrashvili\n\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile\n\nThe customer is reporting missing charger cable.\nI offered a partial refund, but he wants the cable.\n\nPlease send the cable and let me know the tracking number.\n\nKind regards,\nUmit from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear BackCare,\n\nWe are willing to offer a commercial gesture for this inconvenience with respect to the amount stated at the Quality Charter of 10 euros. The customer can use this money to buy a cable at their neighbourhood shops. Can you get back to the customer and check whether he agrees to this?\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ACCESSORIES_MISSING_PART",
+            "tag": "ACCESSORIES"
+        }
+    ]
+}

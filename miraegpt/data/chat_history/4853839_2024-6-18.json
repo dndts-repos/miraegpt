@@ -1,0 +1,35 @@
+{
+    "sav_id": 4853839,
+    "last_modified_date": "2024-05-15T20:17:48.163233+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy product iPhone 13 Pro Max has the above-mentioned problem:\r\nReturn of my phone due to battery overheating.\r\n\r\nDear ladies and gentlemen,\r\nI am contacting you because I would like to return my recently purchased phone due to a technical issue. Device: iPhone 13 Pro Max, Order No. #40337902 Unfortunately, I had to find out that the phone's battery becomes unusually hot even after short usage, despite low utilization. This significantly affects the usage and makes me question the safety of the device. Therefore, I would like to return the iPhone and request a refund of the purchase price (Klarna). Please inform me about the necessary steps for returning the item. Kindly reply by email to: hkraenert69@aol.com\r\nThank you.\r\nBest regards,\r\nNadine Kr\u00e4nert\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have refunded the customer.\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "BAD_PERFORMANCE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_HEALTH_ISSUE",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "BATTERY_WARM_OR_INFLATED",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "ITEM_GETS_HOT",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

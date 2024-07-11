@@ -1,0 +1,33 @@
+{
+    "sav_id": 4901586,
+    "last_modified_date": "2024-06-03T17:57:42.387210+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 mini has a problem:\r\nIt doesn't detect WiFi, Bluetooth, or AirDrop.\r\n\r\nThank you,\r\n\r\nWhen the seller receives the package, they have 3 business days (5 business days for portable and home appliances) to repair or replace the product, or 2 business days to make a refund if necessary.\r\n\rnThe customer meets the following requirements for the return to be processed:\r\n\u2714 Confirms that the device has not been opened by a third party, exposed to water, or suffered an impact or drop.\r\n\u2714 Confirms that they have deleted their personal data.\r\n\u2714 Have confirmed that they have the return label.\r\n\u2714 Understands that accessories and the purchase receipt must be included in the return package.\r\n\u2714 Understands that they have 14 days to use the return label.\r\n\r\nRemember: Once delivered, the seller has 3 business days (5 business days for portable and home appliances) to repair or replace the item and 2 business days to make a refund if necessary.",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hola, agente\nEl vendedor no puede proceder al reenv\u00edo debido al siguiente motivo:\nEl art\u00edculo est\u00e1 conectado a iCloud o Google.\nSe ha a\u00f1adido m\u00e1s informaci\u00f3n en este mensaje: Dear Backcare,\n\nThe device is currently locked by the customer's iCloud account. Inform the customer to unlink their account or we will not be able to proceed with the repair. The customer can follow the instructions in the link in order to unlink the phone from the iCloud.\n\nhttps://support.apple.com/es-es/guide/icloud/mmfc0eeddd/icloud\n\nRegards,\nCH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nI hope you are having a great day, This is Maria from Back Market.\n\nThe customer unlinked iCloud and FMI (attached). Please repair and send the device within 1 business day.\n\nThanks so much for your assistance, we wait for your reply. \n\nRegards,\nMaria from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue, and we do not have sufficient stock for an exchange. We have processed the refund. Thank you for your understanding.\n\nRegards, \nKW",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "WIFI_NOT_DETECTED",
+            "tag": "TECHNICAL"
+        }
+    ]
+}

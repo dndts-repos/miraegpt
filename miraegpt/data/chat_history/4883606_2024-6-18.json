@@ -1,0 +1,28 @@
+{
+    "sav_id": 4883606,
+    "last_modified_date": "2024-05-27T20:48:05.776131+02:00",
+    "language": "spanish",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 Pro has a problem:\r\nError in the billing address of the bill.\r\nThank you,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nI am Valentina from Back Market.\n\nA cordial greeting to you. I hope that you're having a good day. \n\nThe customer needs the invoice because she cannot see it on the website.\n\nAndrea Guti\u00e9rrez de las Heras\nCarrer Ciutat Cooperativa 11\n2o 1a\n08830 Sant Boi de Llobregat null\nEspa\u00f1a\n\n\nCould you please send it? I will wait for your answer.\n\nThank you for understanding and have a nice day!\n\nRegards,\nValentina, Back Market Customer Care.",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nAttached is the invoice.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "INVOICE_ERROR",
+            "tag": "INVOICE"
+        }
+    ]
+}

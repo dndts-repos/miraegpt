@@ -1,0 +1,73 @@
+{
+    "sav_id": 4896670,
+    "last_modified_date": "2024-06-01T12:59:18.214293+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, My product iPhone 13 has the above problem: Good day, I ordered the device and provided a wrong delivery address, the post couldn't change the address and the order is already on its way to the sender. What should I do? How can I replace or cancel an order? Thank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hello,  \n\nThe customer's package is being sent back to you.  \n\nCan you please resend the package to the customer after you receive it?  \n\nDaniil Kozulia\nM\u00f9hlgastra\u00dfe 67\n41199 M\u00f6nchengladbach\nDeutschland\n098 303 7108\ndaniilkozulia@gmail.com\n\nThank you, \nAysah, from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe have informed our logistics partner. Thank you for your patience and understanding.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello,\n\nDid you receive it?\n\nhttps://www.ups.com/track?loc=de_DE&amp;tracknum=1ZBF15606888748043&amp;requester=ST/trackdetails\n\nRegards,\nAysah, Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe confirm reception of the device, we are currently arranging a reshipment of the device to the customer. In the meantime, please do not refund the customer. Thank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nOK, I'm waiting for the TN.\n\nRegards,\nAysah, Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nHere is the TN: 1ZBF1560D901096427\n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nApologies, I sent the wrong TN. Here is the TN 1ZBF1560D901187927 \n\nRegards,\nRK",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel with tracking number 1ZBF1560D901187927-91940888 could not be delivered due to an incorrect or incomplete address.\n\nPlease provide us with the correct address, the recipient's name, and phone number. Alternatively, you may ask the carrier to reschedule the delivery. Please ask the customer to check the provided details as the address does not exist:\n\nDaniil Kozulia\nM\u00f9hlgastra\u00dfe 67\n41199 M\u00f6nchengladbach\nDeutschland\n098 303 7108\ndaniilkozulia@gmail.com\n\nThank you.\n\nRegards\nMandi Xhaferaj",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile\n\nthe costumer changed his mind ando would like to be refunded.\n\nSince the parcel has been returned to you we give you a deadline of 24 hours to refund the costumer.\n\nIf not we will do it for you.\n\nPlease take this into consideration.\n\nRegards,\nMarco from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe take note of the customer's request and have updated our logistics partner. We will keep you updated. Thank you for your patience and understanding.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hello ecomobile,\n\nWe would like to inform you that, in accordance with our Quality Charter, we have refunded 441,36 \u20ac to the customer for not refunding the costumer in the mentioned deadline.\n\nPlease consult your SSC for further questions.\n\nThank you.\n\nKind regards, \nMarco from Back Market",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "DELIVERY_CAN_NOT_DELIVER",
+            "tag": "DELIVERY"
+        }
+    ]
+}

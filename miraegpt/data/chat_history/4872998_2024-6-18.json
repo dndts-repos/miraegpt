@@ -1,0 +1,38 @@
+{
+    "sav_id": 4872998,
+    "last_modified_date": "2024-05-23T12:03:59.083637+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello, \r\nMy product iPhone 13 Pro has the above problem: \r\nWhen will my package be shipped?\r\n\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear ecomobile,\n\nThe customer contacts us because his order has not yet been shipped.\n\nIs there a reason for this?\n\nIf not, please ship the order within 24 hours, or we will have to initiate a refund.\n\nThank you in advance for your cooperation\n\nRegards,\nTania from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nWe're getting ready to ship the parcel and want to ensure everything's perfect. Can we quickly re-confirm the customer's address?\n\nYour satisfaction is our priority, and this small step helps us guarantee a seamless delivery experience. Just a moment of your time could prevent any delivery issues.\n\nThank you for your understanding and cooperation.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear ecomobile, \n\nthe customer's address is the right one. Send the order today or we will refund.\n\nRegards,\nTania from the Back Care Team",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Dear Backcare,\n\nThe parcel appears to be stolen. We are conducting an internal investigation regarding this matter. In the meantime, we have reimbursed the customer completely for this order. We are deeply sorry for the inconvenience caused.\n\nRegards,\nSY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "ORDERLINE_NOT_SHIPPED",
+            "tag": "DELIVERY"
+        }
+    ]
+}

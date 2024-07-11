@@ -1,0 +1,42 @@
+{
+    "sav_id": 4882756,
+    "last_modified_date": "2024-05-27T16:25:36.988881+02:00",
+    "language": "german",
+    "chat_history": [
+        {
+            "message": "Hello,\r\nMy iPhone 13 has the above problem:\r\nI would like to withdraw from my purchase agreement in a timely manner. The device shows that there is liquid at the end and will no longer charge.\r\nThank you very much and best regards, Helene Kr\u00fcger\r\nThank you for your help,",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Dear Backcare,\n\nThe device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the screen. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a \u20ac60 deduction will be made once we have completed the diagnosis of the phone and confirm that there are no further issues with it. In the meantime, please do not refund the customer.\n\nThank you.\n\nRegards,\nJY",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Hi ecomobile,\n\nRejected! You know you're not allowed to do that! Please refund the full amount\n\nThanks for your help in keeping our shared customers happy!\nSeda Back Market customer Care",
+            "initiator": "BackMarket",
+            "kind": "BACKCARE_TO_MERCHANT"
+        },
+        {
+            "message": "Hallo,\n\nder Verk\u00e4ufer kann die R\u00fccksendung aufgrund des folgenden Problems noch nicht durchf\u00fchren: Sonstiges.\nEr hat weitere Details in dieser Nachricht hinterlegt: Scratches",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        },
+        {
+            "message": "Dear Backcare,\n\nAs mentioned above, the device was purchased as an EXCELLENT condition. According to the Quality Charter, EXCELLENT condition requires the device to be free of scratches on the screen. The customer has had the device for a certain amount of time. This suggests that he was satisfied with the device condition upon receipt.\n\nNow that the device has visible scratches upon return, the grade is degraded to a FAIR condition.\n\nHence, a \u20ac60 deduction will be made once we have completed the diagnosis of the phone and confirm that there are no further issues with it. In the meantime, please do not refund the customer.\n\nThank you.\n\nRegards,\nJH",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "CHARGER_PLUG_BROKEN",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "WITHDRAW_ORDERLINE",
+            "tag": "WITHDRAWAL"
+        }
+    ]
+}

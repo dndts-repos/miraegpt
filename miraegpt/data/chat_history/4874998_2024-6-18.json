@@ -1,0 +1,31 @@
+{
+    "sav_id": 4874998,
+    "last_modified_date": "2024-05-23T21:55:53.284097+02:00",
+    "language": "french",
+    "chat_history": [
+        {
+            "message": "Hello,\r\n\r\nMy iPhone 12 has a problem as follows:\r\nThe sound of the speaker is crackling more and more as you increase the volume.\r\nThank you for your help,\r\n\r\nOnce the package is received, the seller has 3 working days (5 if it's a portable computer or household appliance) to replace or repair your product. Or, 2 working days to process a refund (if you're eligible).\r\nA return is considered complete when the customer has met all the following conditions:\r\n\u2714 Confirms that the product has not been repaired by a third party and has not suffered any damage due to a fall or exposure to water\r\n\u2714 Confirms that personal data has been deleted\r\n\u2714 Has confirmed having the return label.\r\n\u2714 Understands they must include accessories and a proof of purchase in their package\r\n\u2714 Understands they have 14 days to use the return label.\r\nReminder: Once received, the seller has 3 working days (5 if it's a portable computer or household appliance) to replace or repair your product. Or, 2 working days to process a refund (if you're eligible).",
+            "initiator": "Customer",
+            "kind": "CLIENT_TO_ALL"
+        },
+        {
+            "message": "Dear Backcare,\n\nUnfortunately, our repair team is unable to fix the issue and we do not have any available stocks for replacement. Instead, we have refunded the customer.\n\nRegards,\nAS",
+            "initiator": "Merchant",
+            "kind": "MERCHANT_TO_BACKCARE"
+        }
+    ],
+    "issues": [
+        {
+            "customerIssue": "AUDIO_INCALL",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "AUDIO_SOUND_QUALITY",
+            "tag": "TECHNICAL"
+        },
+        {
+            "customerIssue": "SPEAKER_BROKEN",
+            "tag": "TECHNICAL"
+        }
+    ]
+}
