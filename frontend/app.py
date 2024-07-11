@@ -1,5 +1,5 @@
 from typing import List
-from groq import BaseModel
+from langchain.pydantic_v1 import BaseModel
 import streamlit as st
 import requests
 from langchain_core.documents import Document
