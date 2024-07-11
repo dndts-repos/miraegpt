@@ -10,8 +10,12 @@ services:
     image: miraegpt-server
     ports:
       - 8000:8000
+    environment:
+      - OLLAMA_URL=http://ollama-container:11434
     env_file:
       - .env
+    depends_on:
+      - ollama-container
   frontend-server:
     image: frontend-server
     ports:

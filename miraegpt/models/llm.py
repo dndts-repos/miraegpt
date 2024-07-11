@@ -9,6 +9,7 @@ from langchain_groq import ChatGroq
 load_dotenv()
 
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
+OLLAMA_URL = os.getenv('OLLAMA_URL', 'http://localhost:11434')
 
 MAX_LLM_RETRIES = 3
 
@@ -20,7 +21,7 @@ EMBEDDER = 'mxbai-embed-large'
 
 # LLAMA_LLM = Ollama(model=GROQ_SMALL_LLAMA)
 LLAMA_LLM = ChatGroq(model=GROQ_SMALL_LLAMA, api_key=GROQ_API_KEY)
-EMBEDDER_LLM = OllamaEmbeddings(model=EMBEDDER)
+EMBEDDER_LLM = OllamaEmbeddings(model=EMBEDDER, base_url=OLLAMA_URL)
 # TOOL_LLAMA_LLM = OllamaFunctions(model=GROQ_SMALL_LLAMA)
 TOOL_LLAMA_LLM = ChatGroq(model=GROQ_LLAMA, api_key=GROQ_API_KEY)
 GROQ_LLM = ChatGroq(model=GROQ_LLAMA, api_key=GROQ_API_KEY)

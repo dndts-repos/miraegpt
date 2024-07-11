@@ -44,6 +44,8 @@ COPY . .
 
 WORKDIR /app
 
+RUN mkdir trace
+
 # Install dependencies
 RUN pip install --no-cache-dir -r ./miraegpt/requirements.txt
 
