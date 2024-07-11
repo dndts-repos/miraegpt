@@ -3,3 +3,4 @@ trace
 .venv
 data
 .env
+**/__pycache__

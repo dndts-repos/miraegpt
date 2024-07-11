@@ -9,7 +9,7 @@ from miraegpt.models.llm import EMBEDDER_LLM
 
 TEMPLATES_COLLECTION_NAME = 'templates'
 CATEGORIES = ('technical', 'delivery', 'accessories')
-CHROMA_TEMPLATES_PATH = os.path.join('data', 'chroma', TEMPLATES_COLLECTION_NAME)
+CHROMA_TEMPLATES_PATH = os.path.join('miraegpt', 'data', 'chroma', TEMPLATES_COLLECTION_NAME)
 
 CHUNK_SIZE = 1024
 CHUNK_OVERLAP = 512
@@ -78,7 +78,7 @@ def connect_to_vectorstore(
 
 if __name__ == '__main__':
     for category in CATEGORIES:
-        path_to_word_documents = os.path.join('data', 'templates', category)
+        path_to_word_documents = os.path.join('miraegpt', 'data', 'templates', category)
         documents = load_word_documents(path_to_word_documents)
         chunks, chunks_ids = chunk_documents(documents)
         write_to_vectorstore(
@@ -92,14 +92,3 @@ if __name__ == '__main__':
             persist_dir=CHROMA_TEMPLATES_PATH
         )
     print(len(db))
-
-
-# CHROMA_PATH = os.path.join("data", "chroma")
-# CHROMA_READ_FILE = "summary"
-# CHROMA_PERSIST_FILE = "summary_v0.2"
-
-# persist_dir = os.path.join(CHROMA_PATH, CHROMA_PERSIST_FILE)
-
-# vectorstore = Chroma(persist_directory=persist_dir, embedding_function=EMBEDDER_LLM)
-
-# retriever: VectorStoreRetriever = vectorstore.as_retriever(search_kwargs={"k": 3})
