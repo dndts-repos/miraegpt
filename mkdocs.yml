@@ -2,6 +2,12 @@ site_name: Ecomms Chatbot Guides
 nav:
   - Home: index.md
   - User Guide: user-guide.md
-  - Developer Guide: developer-guide.md
+  - Developer Guide: 
+      - Introduction: developer/developer-guide.md
+      - Tech Stack: developer/tech-stack.md
+      - Overall Architecture: developer/overall-architecture.md
+      - Frontend: developer/frontend.md
 theme:
   name: material
+  features:
+    - navigation.tabs
