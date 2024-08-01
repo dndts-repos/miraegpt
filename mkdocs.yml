@@ -7,6 +7,22 @@ nav:
       - Tech Stack: developer/tech-stack.md
       - Overall Architecture: developer/overall-architecture.md
       - Frontend: developer/frontend.md
+      - Backend: 
+        - Getting Started: developer/backend.md
+        - Server: developer/backend-server.md
+        - Chains: developer/chains.md
+        - Data: developer/data.md
+        - Database: developer/database.md
+        - Langgraph: 
+          - Overview: developer/langgraph.md
+          - Query Rewriter: developer/query-rewriter.md
+          - Issues Classifier: developer/issues-classifier.md
+          - Irrelevant: developer/irrelevant.md
+          - Retriever: developer/retriever.md
+          - Information: developer/information.md
+          - Summary: developer/summary.md
+        - Model: developer/models.md
+
 theme:
   name: material
   features:
