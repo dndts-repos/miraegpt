@@ -22,6 +22,7 @@ nav:
           - Information: developer/information.md
           - Summary: developer/summary.md
         - Model: developer/models.md
+      - Deployment: deployment.md
 
 theme:
   name: material

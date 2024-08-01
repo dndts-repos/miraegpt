@@ -7,7 +7,8 @@ services:
     ports:
       - 11434:11434
   miraegpt-server:
-    image: miraegpt-server
+    build:
+      context: ./miraegpt
     ports:
       - 8000:8000
     environment:
@@ -17,7 +18,8 @@ services:
     depends_on:
       - ollama-container
   frontend-server:
-    image: frontend-server
+    build:
+      context: ./frontend
     ports:
       - 8501:8501
     environment:
@@ -26,7 +28,7 @@ services:
       - miraegpt-server
   ngrok:
     image: ngrok/ngrok
-    command: 'http --domain marlin-winning-frequently.ngrok-free.app frontend-server:8501' 
+    command: 'http --domain ${NGROK_URL} frontend-server:8501' 
     ports:
       - "4040:4040" 
     environment:
