@@ -24,8 +24,10 @@ services:
       - 8501:8501
     environment:
       - BACKEND_URL=http://miraegpt-server:8000/gpt/invoke
+      - DOCUMENTATION_URL=http://documentation-server:8000
     depends_on:
       - miraegpt-server
+      - documentation-server
   documentation-server:
     build:
       context: .

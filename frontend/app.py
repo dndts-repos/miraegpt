@@ -9,6 +9,7 @@ from langchain_core.documents import Document
 load_dotenv()
 
 LLM_URL = os.getenv('BACKEND_URL', 'http://0.0.0.0:8000/gpt/invoke')
+DOCUMENTATION_URL = os.getenv('DOCUMENTATION_URL', 'http://localhost:8001')
 
 class Output(BaseModel):
     current_message: str =''
@@ -59,6 +60,13 @@ def get_sources(chunks):
         source = chunk['metadata']['source']
         sources.add(source.split('/')[-1].split(' ')[0])
     return sources
+
+st.set_page_config(
+    page_title="MiraeGPT",
+    menu_items={
+        'Get Help': DOCUMENTATION_URL,
+    }
+)
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
