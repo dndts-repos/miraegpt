@@ -13,8 +13,8 @@ OLLAMA_URL = os.getenv('OLLAMA_URL', 'http://localhost:11434')
 
 MAX_LLM_RETRIES = 3
 
-LLAMA = 'llama3'
-LLAMA_INSTRUCT = 'llama3:8b-instruct-q8_0'
+# LLAMA = 'llama3'
+# LLAMA_INSTRUCT = 'llama3:8b-instruct-q8_0'
 GROQ_LLAMA = 'llama3-70b-8192'
 GROQ_SMALL_LLAMA = 'llama3-8b-8192'
 EMBEDDER = 'mxbai-embed-large'
