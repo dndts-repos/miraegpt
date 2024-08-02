@@ -8,8 +8,9 @@ from langchain_core.documents import Document
 
 load_dotenv()
 
-LLM_URL = os.getenv('BACKEND_URL', 'http://0.0.0.0:8000/gpt/invoke')
-DOCUMENTATION_URL = os.getenv('DOCUMENTATION_URL', 'http://localhost:8001')
+PROD_URL = os.getenv('PROD_URL', 'http://localhost')
+LLM_URL = os.getenv('BACKEND_URL', PROD_URL+':8503/gpt/invoke')
+DOCUMENTATION_URL = PROD_URL + ':8502'
 
 class Output(BaseModel):
     current_message: str =''
