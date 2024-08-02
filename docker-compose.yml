@@ -26,6 +26,11 @@ services:
       - BACKEND_URL=http://miraegpt-server:8000/gpt/invoke
     depends_on:
       - miraegpt-server
+  documentation-server:
+    build:
+      context: .
+    ports: 
+      - 8502:8000
   ngrok:
     image: ngrok/ngrok
     command: 'http --domain ${NGROK_URL} frontend-server:8501' 
